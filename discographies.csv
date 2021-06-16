@@ -1,0 +1,955 @@
+"","artist_name","album_name","track_id","album_release_date","danceability","energy","key","loudness","mode","speechiness","acousticness","instrumentalness","liveness","valence","tempo","time_signature","duration_ms","track_name","key_name","mode_name","key_mode","popularity"
+"1","Serdar Ortaç","Cımbız","1fHrsv1UkFwH4Fq64b20oF","2017-10-16",0.703,0.93,0,-5.02,0,0.0491,0.14,7.89e-06,0.338,0.802,99.988,4,216629,"Cımbız","C","minor","C minor",41
+"2","Serdar Ortaç","Cımbız","5vZg0OnpPtQdu8YRXOiNCy","2017-10-16",0.726,0.846,6,-5.602,0,0.0798,0.224,0,0.0583,0.81,99.964,4,219316,"Havalı Yarim","F#","minor","F# minor",44
+"3","Serdar Ortaç","Cımbız","2ANRNU14zX92PqJtacJxt7","2017-10-16",0.709,0.844,5,-5.503,0,0.0485,0.0603,0.0145,0.0769,0.845,129.987,4,246674,"Posta Güvercini","F","minor","F minor",26
+"4","Serdar Ortaç","Cımbız","51RXJxkPI5m519ZqzBOYvW","2017-10-16",0.639,0.907,7,-5.915,0,0.0423,0.0314,0.000149,0.0837,0.892,130.025,4,262970,"Bir Eşin Yok","G","minor","G minor",28
+"5","Serdar Ortaç","Cımbız","2sToxDXVCVLdkZDzqsv3kE","2017-10-16",0.294,0.747,5,-6.54,0,0.0985,0.525,0,0.442,0.665,83.937,4,327595,"Bırakın","F","minor","F minor",21
+"6","Serdar Ortaç","Cımbız","3OKe90UxhsVfkxF52mxGKc","2017-10-16",0.703,0.811,3,-6.158,0,0.0359,0.183,1.55e-05,0.0859,0.89,106.036,4,200205,"Tetik","D#","minor","D# minor",22
+"7","Serdar Ortaç","Cımbız","4wQGyQyc5L6FhwOXi3QyWP","2017-10-16",0.695,0.866,2,-6.183,1,0.0334,0.00721,0.0137,0.182,0.912,128.024,4,223700,"Zil Zurna","D","major","D major",20
+"8","Serdar Ortaç","Cımbız","4RemaRrT9TRWQMeI8gl02m","2017-10-16",0.725,0.887,7,-5.066,0,0.0443,0.336,3.91e-05,0.134,0.894,102.005,4,201450,"İsmin Silinir","G","minor","G minor",22
+"9","Serdar Ortaç","Cımbız","3AYrnsl7ljqD6h6xx3QRZn","2017-10-16",0.697,0.918,7,-5.515,0,0.0622,0.0739,0,0.179,0.703,122.959,4,190072,"Marka","G","minor","G minor",18
+"10","Serdar Ortaç","Cımbız","5UBb1YnYrtz8U803Hw3UCr","2017-10-16",0.73,0.773,3,-6.699,0,0.0395,0.0196,1.13e-05,0.0974,0.847,131.956,4,279638,"Tilki","D#","minor","D# minor",20
+"11","Serdar Ortaç","Cımbız","1hrgtLU9fLqejYCjzCi7JB","2017-10-16",0.634,0.795,10,-5.329,0,0.0943,0.174,1.42e-05,0.0751,0.897,103.934,4,215562,"Yaklaş","A#","minor","A# minor",19
+"12","Serdar Ortaç","Cımbız","7eLvPiZmZ2ncyDcGteZWQJ","2017-10-16",0.478,0.755,4,-6.867,0,0.044,0.169,0,0.348,0.538,155.909,4,296501,"Adamın Dibi","E","minor","E minor",19
+"13","Serdar Ortaç","Cımbız","29YRqUc8RYAFp7U6dmZsJI","2017-10-16",0.703,0.93,0,-5.02,0,0.0491,0.14,7.89e-06,0.338,0.802,99.988,4,216629,"Cımbız","C","minor","C minor",29
+"14","Serdar Ortaç","Cımbız","26tzpu2fsfUWPKE04Rzu7c","2017-10-16",0.726,0.846,6,-5.602,0,0.0798,0.224,0,0.0583,0.81,99.964,4,219316,"Havalı Yarim","F#","minor","F# minor",32
+"15","Serdar Ortaç","Cımbız","5luNQb0qDI4u4PGJ8ffBYV","2017-10-16",0.709,0.844,5,-5.503,0,0.0485,0.0603,0.0145,0.0769,0.845,129.987,4,246674,"Posta Güvercini","F","minor","F minor",15
+"16","Serdar Ortaç","Cımbız","4Fq3qHR4wU4U93uUbqaiPT","2017-10-16",0.639,0.907,7,-5.915,0,0.0423,0.0314,0.000149,0.0837,0.892,130.025,4,262970,"Bir Eşin Yok","G","minor","G minor",20
+"17","Serdar Ortaç","Cımbız","53on1JhWrF81tFIwfiDnnE","2017-10-16",0.294,0.747,5,-6.54,0,0.0985,0.525,0,0.442,0.665,83.937,4,327595,"Bırakın","F","minor","F minor",10
+"18","Serdar Ortaç","Cımbız","0e3P4ys3JwyfLrWUd8jMea","2017-10-16",0.703,0.811,3,-6.158,0,0.0359,0.183,1.55e-05,0.0859,0.89,106.036,4,200205,"Tetik","D#","minor","D# minor",15
+"19","Serdar Ortaç","Cımbız","2LV7WH1SKJbjEctEfku2XR","2017-10-16",0.695,0.866,2,-6.183,1,0.0334,0.00721,0.0137,0.182,0.912,128.024,4,223700,"Zil Zurna","D","major","D major",12
+"20","Serdar Ortaç","Cımbız","6L8haatX7gXFBaCKhPhuSm","2017-10-16",0.725,0.887,7,-5.066,0,0.0443,0.336,3.91e-05,0.134,0.894,102.005,4,201450,"İsmin Silinir","G","minor","G minor",13
+"21","Serdar Ortaç","Cımbız","0IUX1lnjYhbW6C3SqcVrOZ","2017-10-16",0.697,0.918,7,-5.515,0,0.0622,0.0739,0,0.179,0.703,122.959,4,190072,"Marka","G","minor","G minor",9
+"22","Serdar Ortaç","Cımbız","7n6sCTv41jHcC5yVtfe3hA","2017-10-16",0.73,0.773,3,-6.699,0,0.0395,0.0196,1.13e-05,0.0974,0.847,131.956,4,279638,"Tilki","D#","minor","D# minor",13
+"23","Serdar Ortaç","Cımbız","6fIxDyNyizxg39j8JAfgVY","2017-10-16",0.634,0.795,10,-5.329,0,0.0943,0.174,1.42e-05,0.0751,0.897,103.934,4,215562,"Yaklaş","A#","minor","A# minor",15
+"24","Serdar Ortaç","Cımbız","3ExUYhEcMyD1URMRkjIVmi","2017-10-16",0.478,0.755,4,-6.867,0,0.044,0.169,0,0.348,0.538,155.909,4,296501,"Adamın Dibi","E","minor","E minor",9
+"25","Serdar Ortaç","Gıybet","72CeeGX1XgmrSfq8C9F7bK","2016-05-11",0.815,0.885,11,-5.52,0,0.0417,0.00651,0.369,0.0212,0.825,121.02,4,192240,"Gıybet","B","minor","B minor",50
+"26","Serdar Ortaç","Gıybet","5nSq0wQibJyDExdSiRalOS","2016-05-11",0.753,0.916,11,-6.563,0,0.0478,0.000768,0.00299,0.192,0.885,126.977,4,207901,"Fakir","B","minor","B minor",21
+"27","Serdar Ortaç","Gıybet","4TZ6qqrv0VvmB3Iv63lmKh","2016-05-11",0.646,0.946,7,-2.997,1,0.0373,0.302,0.000124,0.0811,0.846,98.004,4,215475,"Abi","G","major","G major",24
+"28","Serdar Ortaç","Gıybet","40GqXwM2gIjveyfP8gQmMY","2016-05-11",0.667,0.919,8,-4.055,1,0.0583,0.0433,0.00012,0.165,0.905,114.981,4,241956,"Sulu Göz","G#","major","G# major",40
+"29","Serdar Ortaç","Gıybet","0exs9naovUPDtd9rEyB3tC","2016-05-11",0.76,0.884,2,-4.579,0,0.057,0.0541,0,0.224,0.579,127.976,4,200687,"Çakal","D","minor","D minor",22
+"30","Serdar Ortaç","Gıybet","2874PamQHJSwPyzYqSakm0","2016-05-11",0.751,0.786,1,-5.013,1,0.074,0.0315,2.67e-06,0.123,0.453,104.059,4,196871,"Sultan","C#","major","C# major",19
+"31","Serdar Ortaç","Gıybet","659Ggojk5Rgqujluu6ib4u","2016-05-11",0.658,0.718,1,-6.117,0,0.0292,0.244,2.71e-06,0.247,0.642,131.969,4,281083,"Harap","C#","minor","C# minor",37
+"32","Serdar Ortaç","Gıybet","5H7iOc2YfeS8183xX8fG9P","2016-05-11",0.566,0.62,0,-7.563,0,0.045,0.136,0,0.135,0.495,153.779,4,302805,"Kalleş","C","minor","C minor",22
+"33","Serdar Ortaç","Gıybet","1YaOdawdTsNmrYVu5A5613","2016-05-11",0.468,0.731,11,-5.966,0,0.0562,0.365,0,0.158,0.348,73.933,4,214762,"Yarım Gitti","B","minor","B minor",16
+"34","Serdar Ortaç","Gıybet","5r786Dsjd6BxC1mBmO8jQd","2016-05-11",0.587,0.638,5,-7.406,0,0.0421,0.125,1.66e-06,0.305,0.531,82.963,4,328852,"Tatlı Belam","F","minor","F minor",17
+"35","Serdar Ortaç","Gıybet","5ZQ6mgCwCJPFDNIZy8levb","2016-05-11",0.815,0.885,11,-5.52,0,0.0417,0.00651,0.369,0.0212,0.825,121.02,4,192240,"Gıybet","B","minor","B minor",36
+"36","Serdar Ortaç","Gıybet","2HdK4ue8BYl7ROwrs2J0hN","2016-05-11",0.753,0.916,11,-6.563,0,0.0478,0.000768,0.00299,0.192,0.885,126.977,4,207901,"Fakir","B","minor","B minor",14
+"37","Serdar Ortaç","Gıybet","74JM1Uxe6EFzmlKgD1jUcy","2016-05-11",0.646,0.946,7,-2.997,1,0.0373,0.302,0.000124,0.0811,0.846,98.004,4,215475,"Abi","G","major","G major",16
+"38","Serdar Ortaç","Gıybet","1Uwt893O05ISUzuNWBzo8D","2016-05-11",0.667,0.919,8,-4.055,1,0.0583,0.0433,0.00012,0.165,0.905,114.981,4,241956,"Sulu Göz","G#","major","G# major",27
+"39","Serdar Ortaç","Gıybet","0OJKSaURLn4DecQDdmaKmv","2016-05-11",0.76,0.884,2,-4.579,0,0.057,0.0541,0,0.224,0.579,127.976,4,200687,"Çakal","D","minor","D minor",13
+"40","Serdar Ortaç","Gıybet","1zxpsONFk0Wt1YZakVJeGg","2016-05-11",0.751,0.786,1,-5.013,1,0.074,0.0315,2.67e-06,0.123,0.453,104.059,4,196871,"Sultan","C#","major","C# major",11
+"41","Serdar Ortaç","Gıybet","1bBI3k9QYw9GUm67VEpRGR","2016-05-11",0.658,0.718,1,-6.117,0,0.0292,0.244,2.71e-06,0.247,0.642,131.969,4,281083,"Harap","C#","minor","C# minor",22
+"42","Serdar Ortaç","Gıybet","0yQqhh5m0QzyuxrG1jXkgX","2016-05-11",0.566,0.62,0,-7.563,0,0.045,0.136,0,0.135,0.495,153.779,4,302805,"Kalleş","C","minor","C minor",11
+"43","Serdar Ortaç","Gıybet","3fO0aqP6XgiyXoife3gIm8","2016-05-11",0.468,0.731,11,-5.966,0,0.0562,0.365,0,0.158,0.348,73.933,4,214762,"Yarım Gitti","B","minor","B minor",7
+"44","Serdar Ortaç","Gıybet","7GK46omTcmKUz3VnsMPWJk","2016-05-11",0.587,0.638,5,-7.406,0,0.0421,0.125,1.66e-06,0.305,0.531,82.963,4,328852,"Tatlı Belam","F","minor","F minor",9
+"45","Serdar Ortaç","Çek Elini Kalbimden","0Lh4aOca7zjfKN3vDxRQCv","2015-08-30",0.697,0.798,0,-6.929,1,0.0358,0.00461,0.00181,0.345,0.762,124.993,4,225906,"Konuş Yüzüme","C","major","C major",14
+"46","Serdar Ortaç","Çek Elini Kalbimden","1LgQxoDC9Am0rFfpXTQ00m","2015-08-30",0.636,0.913,11,-5.875,0,0.0693,0.00943,1.55e-06,0.0803,0.57,127.984,4,296777,"Nankör","B","minor","B minor",15
+"47","Serdar Ortaç","Çek Elini Kalbimden","0YUQFA3wgc9r4p3sFgQMHu","2015-08-30",0.793,0.867,6,-4.946,0,0.219,0.16,0,0.12,0.88,105.955,4,230493,"Balım","F#","minor","F# minor",22
+"48","Serdar Ortaç","Çek Elini Kalbimden","02TI80tv5JRwSyK4EZlTdZ","2015-08-30",0.634,0.809,7,-8.174,1,0.0459,0.00404,0.0208,0.267,0.601,127.988,4,292339,"Yatsıya Kadar","G","major","G major",3
+"49","Serdar Ortaç","Çek Elini Kalbimden","5lhjviNJpJn3DAJYwwojeI","2015-08-30",0.271,0.922,7,-5.79,1,0.0611,0.111,2.42e-06,0.0999,0.628,89.522,3,230993,"Yerin Altı","G","major","G major",4
+"50","Serdar Ortaç","Çek Elini Kalbimden","5rl3j4T1u7bijXJIGvrKj7","2015-08-30",0.661,0.913,4,-6.908,0,0.0359,0.104,0.000191,0.267,0.967,130.118,4,182114,"İri Kıyım","E","minor","E minor",3
+"51","Serdar Ortaç","Çek Elini Kalbimden","11vC1u3TRRCfuBwPcBllut","2015-08-30",0.656,0.905,6,-6.97,0,0.0435,0.0124,0.000245,0.24,0.717,129.077,4,242578,"Korktum","F#","minor","F# minor",4
+"52","Serdar Ortaç","Çek Elini Kalbimden","3OYCzu6vlBZu16e4KVXKnF","2015-08-30",0.663,0.887,0,-6.482,0,0.0567,0.0138,0,0.532,0.808,127.97,4,219406,"Çok Yazık Sana","C","minor","C minor",7
+"53","Serdar Ortaç","Çek Elini Kalbimden","0TnwmhuzhGyU52wZGKmAgQ","2015-08-30",0.573,0.782,11,-7.609,0,0.0895,0.199,2.37e-06,0.341,0.484,130.1,4,268933,"Rahvan","B","minor","B minor",2
+"54","Serdar Ortaç","Çek Elini Kalbimden","0byhNwVFPxky7ufihYBc9d","2015-08-30",0.548,0.403,10,-9.722,0,0.0326,0.598,0,0.129,0.418,101.393,4,259095,"Dedin Yok","A#","minor","A# minor",2
+"55","Serdar Ortaç","Çek Elini Kalbimden","5UZIdusMskiMmXP8PglQjG","2015-05-06",0.697,0.798,0,-6.929,1,0.0358,0.00461,0.00181,0.345,0.762,124.993,4,225906,"Konuş Yüzüme","C","major","C major",14
+"56","Serdar Ortaç","Çek Elini Kalbimden","2nFRVvtWDg13sc7tJiHnGF","2015-05-06",0.636,0.913,11,-5.875,0,0.0693,0.00943,1.55e-06,0.0803,0.57,127.984,4,296777,"Nankör","B","minor","B minor",12
+"57","Serdar Ortaç","Çek Elini Kalbimden","5vnzC1RhXSKHMR6vr0R2Za","2015-05-06",0.793,0.867,6,-4.946,0,0.219,0.16,0,0.12,0.88,105.955,4,230493,"Balım","F#","minor","F# minor",17
+"58","Serdar Ortaç","Çek Elini Kalbimden","2Q1dyAadAz6uUM0y7X7bdT","2015-05-06",0.634,0.809,7,-8.174,1,0.0459,0.00404,0.0208,0.267,0.601,127.988,4,292339,"Yatsıya Kadar","G","major","G major",0
+"59","Serdar Ortaç","Çek Elini Kalbimden","7COWonwPr3lDgtbQNl7voU","2015-05-06",0.271,0.922,7,-5.79,1,0.0611,0.111,2.42e-06,0.0999,0.628,89.522,3,230993,"Yerin Altı","G","major","G major",1
+"60","Serdar Ortaç","Çek Elini Kalbimden","7fn3v1znRUh9qYiZBO2l8O","2015-05-06",0.661,0.913,4,-6.908,0,0.0359,0.104,0.000191,0.267,0.967,130.118,4,182114,"İri Kıyım","E","minor","E minor",0
+"61","Serdar Ortaç","Çek Elini Kalbimden","3SpWBqV200NARwPvMELgco","2015-05-06",0.656,0.905,6,-6.97,0,0.0435,0.0124,0.000245,0.24,0.717,129.077,4,242578,"Korktum","F#","minor","F# minor",1
+"62","Serdar Ortaç","Çek Elini Kalbimden","2lmOYnq164Etk3nWgtOmu4","2015-05-06",0.663,0.887,0,-6.482,0,0.0567,0.0138,0,0.532,0.808,127.97,4,219406,"Çok Yazık Sana","C","minor","C minor",3
+"63","Serdar Ortaç","Çek Elini Kalbimden","4XZJJGV0haB2fNazjSzXF7","2015-05-06",0.573,0.782,11,-7.609,0,0.0895,0.199,2.37e-06,0.341,0.484,130.1,4,268933,"Rahvan","B","minor","B minor",0
+"64","Serdar Ortaç","Çek Elini Kalbimden","6VJsqDkwIShjyyVleTZFV3","2015-05-06",0.548,0.403,10,-9.722,0,0.0326,0.598,0,0.129,0.418,101.393,4,259095,"Dedin Yok","A#","minor","A# minor",2
+"65","Serdar Ortaç","Çek Elini Kalbimden","59yB4GQYqjfDho4699wdsU","2015-05-06",0.697,0.798,0,-6.929,1,0.0358,0.00461,0.00181,0.345,0.762,124.993,4,225906,"Konuş Yüzüme","C","major","C major",26
+"66","Serdar Ortaç","Çek Elini Kalbimden","0EOOhkSSdoS0PhR9xy7RvG","2015-05-06",0.636,0.913,11,-5.875,0,0.0693,0.00943,1.55e-06,0.0803,0.57,127.984,4,296777,"Nankör","B","minor","B minor",33
+"67","Serdar Ortaç","Çek Elini Kalbimden","7mI162PUGvFw0VLpcKIUMN","2015-05-06",0.793,0.867,6,-4.946,0,0.219,0.16,0,0.12,0.88,105.955,4,230493,"Balım","F#","minor","F# minor",36
+"68","Serdar Ortaç","Çek Elini Kalbimden","3aTMgZ7I319C7wtEUT1p9c","2015-05-06",0.634,0.809,7,-8.174,1,0.0459,0.00404,0.0208,0.267,0.601,127.988,4,292339,"Yatsıya Kadar","G","major","G major",7
+"69","Serdar Ortaç","Çek Elini Kalbimden","4qtnuk2Vut2PU1gFDJv9b0","2015-05-06",0.271,0.922,7,-5.79,1,0.0611,0.111,2.42e-06,0.0999,0.628,89.522,3,230993,"Yerin Altı","G","major","G major",6
+"70","Serdar Ortaç","Çek Elini Kalbimden","21vYtKSHpzxy0wgJlwMlPe","2015-05-06",0.661,0.913,4,-6.908,0,0.0359,0.104,0.000191,0.267,0.967,130.118,4,182114,"İri Kıyım","E","minor","E minor",6
+"71","Serdar Ortaç","Çek Elini Kalbimden","3F9FA2SVpwpuDLq2SlmVDP","2015-05-06",0.656,0.905,6,-6.97,0,0.0435,0.0124,0.000245,0.24,0.717,129.077,4,242578,"Korktum","F#","minor","F# minor",11
+"72","Serdar Ortaç","Çek Elini Kalbimden","7yCMvXplC52ZQj5uQiqmlG","2015-05-06",0.663,0.887,0,-6.482,0,0.0567,0.0138,0,0.532,0.808,127.97,4,219406,"Çok Yazık Sana","C","minor","C minor",11
+"73","Serdar Ortaç","Çek Elini Kalbimden","3UzlGnJrBGkRucg9U8kCsW","2015-05-06",0.573,0.782,11,-7.609,0,0.0895,0.199,2.37e-06,0.341,0.484,130.1,4,268933,"Rahvan","B","minor","B minor",5
+"74","Serdar Ortaç","Çek Elini Kalbimden","0kbwzz64HBZ9Y7QovS13jM","2015-05-06",0.548,0.403,10,-9.722,0,0.0326,0.598,0,0.129,0.418,101.393,4,259095,"Dedin Yok","A#","minor","A# minor",7
+"75","Serdar Ortaç","Çek Elini Kalbimden","1eHrpLZ8DuYS48qBgnNRso","2015",0.697,0.798,0,-6.929,1,0.0358,0.00461,0.00181,0.345,0.762,124.993,4,225906,"Konuş Yüzüme","C","major","C major",39
+"76","Serdar Ortaç","Çek Elini Kalbimden","30YbsVUOFZueM4tO7BLBCP","2015",0.636,0.913,11,-5.875,0,0.0693,0.00943,1.55e-06,0.0803,0.57,127.984,4,296777,"Nankör","B","minor","B minor",53
+"77","Serdar Ortaç","Çek Elini Kalbimden","043PKBzrTOEO1Q2aXOrmmQ","2015",0.793,0.867,6,-4.946,0,0.219,0.16,0,0.12,0.88,105.955,4,230493,"Balım","F#","minor","F# minor",44
+"78","Serdar Ortaç","Çek Elini Kalbimden","6N4H03wOdYRku9k4I9AnGa","2015",0.634,0.809,7,-8.174,1,0.0459,0.00404,0.0208,0.267,0.601,127.988,4,292339,"Yatsıya Kadar","G","major","G major",15
+"79","Serdar Ortaç","Çek Elini Kalbimden","2bAp7TvFup5gPKNZoaD9SR","2015",0.271,0.922,7,-5.79,1,0.0611,0.111,2.42e-06,0.0999,0.628,89.522,3,230993,"Yerin Altı","G","major","G major",15
+"80","Serdar Ortaç","Çek Elini Kalbimden","6mTu3MMLN4qQ7if5vFJRz1","2015",0.661,0.913,4,-6.908,0,0.0359,0.104,0.000191,0.267,0.967,130.118,4,182114,"İri Kıyım","E","minor","E minor",13
+"81","Serdar Ortaç","Çek Elini Kalbimden","4F1kG5cmH5zxN9wfvuQeei","2015",0.656,0.905,6,-6.97,0,0.0435,0.0124,0.000245,0.24,0.717,129.077,4,242578,"Korktum","F#","minor","F# minor",16
+"82","Serdar Ortaç","Çek Elini Kalbimden","41A5tUe6UInpvIy0MUEW41","2015",0.663,0.887,0,-6.482,0,0.0567,0.0138,0,0.532,0.808,127.97,4,219406,"Çok Yazık Sana","C","minor","C minor",19
+"83","Serdar Ortaç","Çek Elini Kalbimden","6F9XZrjYCVvXIP3pQoakmG","2015",0.573,0.782,11,-7.609,0,0.0895,0.199,2.37e-06,0.341,0.484,130.1,4,268933,"Rahvan","B","minor","B minor",12
+"84","Serdar Ortaç","Çek Elini Kalbimden","4bOepaEJoOtiwsU7RhjpVo","2015",0.548,0.403,10,-9.722,0,0.0326,0.598,0,0.129,0.418,101.393,4,259095,"Dedin Yok","A#","minor","A# minor",13
+"85","Serdar Ortaç","20. Yıl Bana Göre Aşk","6watqOyOHdImiBIFEBbwsm","2014-06-02",0.641,0.899,5,-6.509,0,0.0613,0.00198,0.000238,0.32,0.672,129.99,4,199241,"Tanrım","F","minor","F minor",20
+"86","Serdar Ortaç","20. Yıl Bana Göre Aşk","0R4ZshOFoDeQMUzhXamY9x","2014-06-02",0.735,0.893,1,-7.139,0,0.0937,0.0932,1.8e-06,0.373,0.686,100.066,4,246632,"Bana Göre Aşk Yok","C#","minor","C# minor",37
+"87","Serdar Ortaç","20. Yıl Bana Göre Aşk","40UBmNkBVusQdHVDlf7RIM","2014-06-02",0.639,0.861,9,-8.064,0,0.0402,0.0409,0.00434,0.284,0.824,129.981,4,240844,"Bereketsiz","A","minor","A minor",12
+"88","Serdar Ortaç","20. Yıl Bana Göre Aşk","3Tgy5TEXFItiVSirjeGDVK","2014-06-02",0.765,0.819,5,-7.026,0,0.0458,0.0293,0.00245,0.256,0.84,124.059,4,226785,"Acılarımız Bir","F","minor","F minor",17
+"89","Serdar Ortaç","20. Yıl Bana Göre Aşk","1eb1cfze9NcEVzNIsSRpSw","2014-06-02",0.562,0.883,9,-6.788,0,0.292,0.044,3.57e-05,0.0299,0.638,126.915,4,248202,"Hasret","A","minor","A minor",11
+"90","Serdar Ortaç","20. Yıl Bana Göre Aşk","64qXDrcIaO5TVuPvGPgrlL","2014-06-02",0.439,0.706,2,-8.19,1,0.11,0.0459,3e-04,0.0813,0.789,170.08,4,188300,"Şantaj","D","major","D major",10
+"91","Serdar Ortaç","20. Yıl Bana Göre Aşk","0FuhElW2cvnLWIcImVTQ1B","2014-06-02",0.722,0.87,2,-6.063,0,0.063,0.0432,1.03e-06,0.138,0.74,122.063,4,261132,"Aşk Mı Lazım?","D","minor","D minor",13
+"92","Serdar Ortaç","20. Yıl Bana Göre Aşk","3GOOze5CuVs2Ig5mHBjSH2","2014-06-02",0.688,0.905,3,-7.115,0,0.0714,0.0602,5.02e-05,0.0902,0.831,130.026,4,236000,"Unutursun","D#","minor","D# minor",11
+"93","Serdar Ortaç","20. Yıl Bana Göre Aşk","6dwfaloRaClu6xULfvoMdN","2014-06-02",0.7,0.913,7,-6.581,1,0.0517,0.00857,0.00145,0.352,0.695,120.023,4,230092,"İzin Ver Aşkım","G","major","G major",14
+"94","Serdar Ortaç","20. Yıl Bana Göre Aşk","1zdshbWguYoQZXGU1yfr4O","2014-06-02",0.78,0.735,9,-8.441,0,0.0452,0.0776,1.77e-05,0.108,0.807,109.998,4,227195,"Aklım Kalbime Dost","A","minor","A minor",10
+"95","Serdar Ortaç","20. Yıl Bana Göre Aşk","3smmz8E0sbbTiWAOwLgugY","2014-06-02",0.691,0.871,0,-5.629,0,0.184,0.2,5.05e-06,0.0726,0.715,108.046,4,242912,"Sefa","C","minor","C minor",14
+"96","Serdar Ortaç","20. Yıl Bana Göre Aşk","1XUT9F0EOt2r6V3XnsiFdC","2014-06-02",0.587,0.694,9,-7.672,0,0.0351,0.135,5.69e-05,0.203,0.525,157.96,4,346656,"Bilmediğim Yerlerdesin","A","minor","A minor",11
+"97","Serdar Ortaç","20. Yıl Bana Göre Aşk","0fWKCmesr8SRrqTI6KDeVr","2014-06-02",0.618,0.819,5,-4.682,1,0.0442,0.562,3.98e-05,0.476,0.671,140.001,4,346285,"Arıyorum","F","major","F major",10
+"98","Serdar Ortaç","20. Yıl Bana Göre Aşk","754p0gQAGmSRwR5C9IUIgw","2014-06-02",0.578,0.519,2,-9.143,0,0.163,0.308,1.02e-06,0.152,0.462,73.079,4,278056,"Kadınım","D","minor","D minor",9
+"99","Serdar Ortaç","20. Yıl Bana Göre Aşk","4yC9XX3rYVd9QZuHgKU6ZF","2014-05-26",0.641,0.899,5,-6.509,0,0.0613,0.00198,0.000238,0.32,0.672,129.99,4,199241,"Tanrım","F","minor","F minor",16
+"100","Serdar Ortaç","20. Yıl Bana Göre Aşk","6U21nRYYtt9cIT6Mwx4WIW","2014-05-26",0.735,0.893,1,-7.139,0,0.0937,0.0932,1.8e-06,0.373,0.686,100.066,4,246632,"Bana Göre Aşk Yok","C#","minor","C# minor",20
+"101","Serdar Ortaç","20. Yıl Bana Göre Aşk","3cEw2F2FwqMKP2sadiVOuz","2014-05-26",0.639,0.861,9,-8.064,0,0.0402,0.0409,0.00434,0.284,0.824,129.981,4,240844,"Bereketsiz","A","minor","A minor",6
+"102","Serdar Ortaç","20. Yıl Bana Göre Aşk","7C2Ideu4v4Na5J2o4mFUiW","2014-05-26",0.765,0.819,5,-7.026,0,0.0458,0.0293,0.00245,0.256,0.84,124.059,4,226785,"Acılarımız Bir","F","minor","F minor",12
+"103","Serdar Ortaç","20. Yıl Bana Göre Aşk","3rqiqeK3iLVKRRFhXFyJ2G","2014-05-26",0.562,0.883,9,-6.788,0,0.292,0.044,3.57e-05,0.0299,0.638,126.915,4,248202,"Hasret","A","minor","A minor",5
+"104","Serdar Ortaç","20. Yıl Bana Göre Aşk","3nvEeZdZg04oQfzrXrUkQW","2014-05-26",0.439,0.706,2,-8.19,1,0.11,0.0459,3e-04,0.0813,0.789,170.08,4,188300,"Şantaj","D","major","D major",6
+"105","Serdar Ortaç","20. Yıl Bana Göre Aşk","3jFbSsUzSbmweuIrHSjUa2","2014-05-26",0.722,0.87,2,-6.063,0,0.063,0.0432,1.03e-06,0.138,0.74,122.063,4,261132,"Aşk Mı Lazım?","D","minor","D minor",11
+"106","Serdar Ortaç","20. Yıl Bana Göre Aşk","2MNnROz92TsHAzyyT8Ec6S","2014-05-26",0.688,0.905,3,-7.115,0,0.0714,0.0602,5.02e-05,0.0902,0.831,130.026,4,236000,"Unutursun","D#","minor","D# minor",5
+"107","Serdar Ortaç","20. Yıl Bana Göre Aşk","4SeG0NUOFxvFY11TvsUzFV","2014-05-26",0.7,0.913,7,-6.581,1,0.0517,0.00857,0.00145,0.352,0.695,120.023,4,230092,"İzin Ver Aşkım","G","major","G major",9
+"108","Serdar Ortaç","20. Yıl Bana Göre Aşk","39wHFH90gSTjcwrte6qi1r","2014-05-26",0.78,0.735,9,-8.441,0,0.0452,0.0776,1.77e-05,0.108,0.807,109.998,4,227195,"Aklım Kalbime Dost","A","minor","A minor",6
+"109","Serdar Ortaç","20. Yıl Bana Göre Aşk","5blKhn81uBirZJ9QytfnEc","2014-05-26",0.691,0.871,0,-5.629,0,0.184,0.2,5.05e-06,0.0726,0.715,108.046,4,242912,"Sefa","C","minor","C minor",6
+"110","Serdar Ortaç","20. Yıl Bana Göre Aşk","1gYv6hB87Lr9RAerspQfrW","2014-05-26",0.587,0.694,9,-7.672,0,0.0351,0.135,5.69e-05,0.203,0.525,157.96,4,346656,"Bilmediğim Yerlerdesin","A","minor","A minor",7
+"111","Serdar Ortaç","20. Yıl Bana Göre Aşk","327a55xi7SV0IQP5y2smTk","2014-05-26",0.618,0.819,5,-4.682,1,0.0442,0.562,3.98e-05,0.476,0.671,140.001,4,346285,"Arıyorum","F","major","F major",11
+"112","Serdar Ortaç","20. Yıl Bana Göre Aşk","7jZESoaahiVzO7Yhu2g10D","2014-05-26",0.578,0.519,2,-9.143,0,0.163,0.308,1.02e-06,0.152,0.462,73.079,4,278056,"Kadınım","D","minor","D minor",4
+"113","Serdar Ortaç","Ray","6pVKh6raK180WxCUSJWaYW","2012-06-11",0.651,0.971,5,-3.631,0,0.0433,0.0927,0.00225,0.338,0.895,131.991,4,333635,"Üzecek Adam Çok","F","minor","F minor",19
+"114","Serdar Ortaç","Ray","7yTYKMIXyAjxFuHZyPFUYV","2012-06-11",0.584,0.988,2,-3.326,0,0.0442,0.049,0.104,0.327,0.961,129.983,4,331990,"Ray","D","minor","D minor",10
+"115","Serdar Ortaç","Ray","3yNR7bglOXVUWsQaaQfIIx","2012-06-11",0.712,0.888,2,-4.105,1,0.0725,0.0797,1.58e-05,0.0401,0.95,111.987,4,211069,"Ağlaya Ağlaya","D","major","D major",5
+"116","Serdar Ortaç","Ray","7su732kK1DdYdvEVWE7eeB","2012-06-11",0.753,0.842,4,-4.894,0,0.0615,0.0387,0,0.139,0.462,110.065,4,257724,"Tez","E","minor","E minor",5
+"117","Serdar Ortaç","Ray","0EGQpnZBUpMI806tG9U6nG","2012-06-11",0.302,0.98,11,-3.439,1,0.0759,0.0602,0.0143,0.15,0.862,97.709,3,376058,"İstediği Gibi","B","major","B major",5
+"118","Serdar Ortaç","Ray","0gQ7sHW5wx9b2QIo1C3UbZ","2012-06-11",0.724,0.787,4,-4.705,0,0.0589,0.0677,3.68e-06,0.0491,0.655,99.999,4,287373,"Gücüm Yok","E","minor","E minor",6
+"119","Serdar Ortaç","Ray","4124PYD28oQLJ96PAHfGd2","2012-06-11",0.696,0.868,1,-6.199,0,0.0515,0.00657,0.0145,0.0277,0.603,127.967,4,289306,"Dileğim Aşk","C#","minor","C# minor",14
+"120","Serdar Ortaç","Ray","0lDD8TLkN7J6Dd9o3sgrB8","2012-06-11",0.657,0.851,5,-5.512,0,0.0374,0.0534,1.91e-05,0.361,0.769,99.997,4,262060,"Oyun Bozan","F","minor","F minor",4
+"121","Serdar Ortaç","Ray","1Tagytw9r0XjTgS9s5QCXu","2012-06-11",0.653,0.956,5,-4.782,1,0.0431,0.0486,0.00604,0.28,0.891,130.029,4,347062,"Denemek İstersen","F","major","F major",7
+"122","Serdar Ortaç","Ray","6g8g9nAEScihhgp9K1Cxn7","2012-06-11",0.661,0.897,5,-5.372,0,0.0331,0.0635,0.00059,0.327,0.928,155.931,4,226873,"Ne Bu Neşe","F","minor","F minor",30
+"123","Serdar Ortaç","Ray","51rXGtNE5IMk2hHgPMMKlm","2012-06-11",0.675,0.828,0,-4.852,0,0.0452,0.37,0,0.214,0.649,121.028,4,254275,"İşe Yaradı Mı","C","minor","C minor",4
+"124","Serdar Ortaç","Ray","61oymaStK5gHVN2EdZiBSe","2012-06-11",0.328,0.829,0,-5.488,0,0.105,0.0879,1.02e-06,0.123,0.459,157.254,5,350066,"Yağmurlardan Düştün Kalbe","C","minor","C minor",6
+"125","Serdar Ortaç","Ray","7AXjOhhgbkVsjb3blOtQAP","2012-06-11",0.479,0.814,0,-4.411,0,0.0863,0.567,0.000102,0.195,0.809,155.978,4,350720,"Kalpsizsin","C","minor","C minor",12
+"126","Serdar Ortaç","Ray","3gB6sLXDaKq2lTEcOK1eOi","2012-06-11",0.595,0.913,4,-5.181,0,0.0324,0.466,0.0239,0.362,0.872,152.001,4,302210,"Aklından Neler Geçiyordu","E","minor","E minor",4
+"127","Serdar Ortaç","Ray","1jMaXPBKhOu4HwzNhwVa3Y","2012-06-11",0.619,0.871,9,-5.571,0,0.0501,0.0595,2.24e-06,0.215,0.294,106.01,4,282827,"Su Akar Yolu Bulur","A","minor","A minor",3
+"128","Serdar Ortaç","Ray","2DDcfrlMY4F2U829hTjeKH","2012-06-11",0.615,0.866,9,-5.042,0,0.0475,0.41,0,0.172,0.927,157.823,4,279562,"Sersem Oldum","A","minor","A minor",2
+"129","Serdar Ortaç","Ray","6HxugCjmN4xaGz4b5LwOO6","2012-06-11",0.651,0.971,5,-3.631,0,0.0433,0.0927,0.00225,0.338,0.895,131.991,4,333635,"Üzecek Adam Çok","F","minor","F minor",29
+"130","Serdar Ortaç","Ray","1dM0tZmwFyBmxcAbmPhTI5","2012-06-11",0.584,0.988,2,-3.326,0,0.0442,0.049,0.104,0.327,0.961,129.983,4,331990,"Ray","D","minor","D minor",19
+"131","Serdar Ortaç","Ray","45vpSLSH2PZxZgIKd9LWuQ","2012-06-11",0.712,0.888,2,-4.105,1,0.0725,0.0797,1.58e-05,0.0401,0.95,111.987,4,211069,"Ağlaya Ağlaya","D","major","D major",12
+"132","Serdar Ortaç","Ray","4unYpw1Jyn9PWgd1YBqzFt","2012-06-11",0.753,0.842,4,-4.894,0,0.0615,0.0387,0,0.139,0.462,110.065,4,257724,"Tez","E","minor","E minor",11
+"133","Serdar Ortaç","Ray","2FyPEWvJF6nZcl2L4EdAoP","2012-06-11",0.302,0.98,11,-3.439,1,0.0759,0.0602,0.0143,0.15,0.862,97.709,3,376058,"İstediği Gibi","B","major","B major",11
+"134","Serdar Ortaç","Ray","2jBQKWBta6UFdu5UEIkJ7T","2012-06-11",0.724,0.787,4,-4.705,0,0.0589,0.0677,3.68e-06,0.0491,0.655,99.999,4,287373,"Gücüm Yok","E","minor","E minor",13
+"135","Serdar Ortaç","Ray","5Q77vgDG4oUmUKfMLWCbC8","2012-06-11",0.696,0.868,1,-6.199,0,0.0515,0.00657,0.0145,0.0277,0.603,127.967,4,289306,"Dileğim Aşk","C#","minor","C# minor",15
+"136","Serdar Ortaç","Ray","5z8lSrVVTX2OR6YB5YNutC","2012-06-11",0.657,0.851,5,-5.512,0,0.0374,0.0534,1.91e-05,0.361,0.769,99.997,4,262060,"Oyun Bozan","F","minor","F minor",10
+"137","Serdar Ortaç","Ray","5XQW8c6mxpAkxMyo7mxUC9","2012-06-11",0.653,0.956,5,-4.782,1,0.0431,0.0486,0.00604,0.28,0.891,130.029,4,347062,"Denemek İstersen","F","major","F major",15
+"138","Serdar Ortaç","Ray","2173pUe0HzYd1X7wFfPKNm","2012-06-11",0.661,0.897,5,-5.372,0,0.0331,0.0635,0.00059,0.327,0.928,155.931,4,226873,"Ne Bu Neşe","F","minor","F minor",47
+"139","Serdar Ortaç","Ray","1Lgw5zWGT5zywcjKQ13L0o","2012-06-11",0.675,0.828,0,-4.852,0,0.0452,0.37,0,0.214,0.649,121.028,4,254275,"İşe Yaradı Mı","C","minor","C minor",14
+"140","Serdar Ortaç","Ray","5NFYzuIRzyBASaaIciuuv7","2012-06-11",0.328,0.829,0,-5.488,0,0.105,0.0879,1.02e-06,0.123,0.459,157.254,5,350066,"Yağmurlardan Düştün Kalbe","C","minor","C minor",11
+"141","Serdar Ortaç","Ray","5SEH0Vqp2yddS0IAJiQi2z","2012-06-11",0.479,0.814,0,-4.411,0,0.0863,0.567,0.000102,0.195,0.809,155.978,4,350720,"Kalpsizsin","C","minor","C minor",23
+"142","Serdar Ortaç","Ray","0lRMy1ZSLXD4rhhwRxfNA2","2012-06-11",0.595,0.913,4,-5.181,0,0.0324,0.466,0.0239,0.362,0.872,152.001,4,302210,"Aklından Neler Geçiyordu","E","minor","E minor",10
+"143","Serdar Ortaç","Ray","5ECC7cte2ELTWDdfbhx1t4","2012-06-11",0.619,0.871,9,-5.571,0,0.0501,0.0595,2.24e-06,0.215,0.294,106.01,4,282827,"Su Akar Yolu Bulur","A","minor","A minor",9
+"144","Serdar Ortaç","Ray","7D76h4zgTw83qs0AXvOlZL","2012-06-11",0.615,0.866,9,-5.042,0,0.0475,0.41,0,0.172,0.927,157.823,4,279562,"Sersem Oldum","A","minor","A minor",9
+"145","Serdar Ortaç","Gold (2011)","4hpEqtPPwYeGhqwUXOTbOw","2011-03-07",0.665,0.954,7,-3.928,0,0.063,0.0182,1.05e-05,0.202,0.827,124.001,4,274986,"Hile","G","minor","G minor",8
+"146","Serdar Ortaç","Gold (2011)","7F3xCZOIkRuH5yYUSuiPfX","2011-03-07",0.729,0.837,4,-7.257,0,0.0316,0.0142,2.1e-06,0.0649,0.711,112.031,5,232013,"Elimle","E","minor","E minor",27
+"147","Serdar Ortaç","Gold (2011)","12AB4vNpFLc0grRnkpBlhH","2011-03-07",0.702,0.881,4,-5.626,0,0.0606,0.0511,7.97e-06,0.077,0.963,128.992,4,248986,"Hayat İzi","E","minor","E minor",7
+"148","Serdar Ortaç","Gold (2011)","56cw5HdGDsRWLGbSIV0fV9","2011-03-07",0.766,0.834,4,-5.606,0,0.0723,0.0611,0,0.0986,0.528,130.014,4,270013,"Koca Koca","E","minor","E minor",6
+"149","Serdar Ortaç","Gold (2011)","3hQ4T0qrj2pxXMLJ7dVKfh","2011-03-07",0.77,0.914,7,-3.108,1,0.0506,0.133,3.67e-05,0.385,0.899,99.975,4,243000,"Yok Mu","G","major","G major",6
+"150","Serdar Ortaç","Gold (2011)","33nZ8V4ISqWPzgfVyFqiHA","2011-03-07",0.825,0.93,6,-3.933,0,0.0496,0.176,0.00114,0.0649,0.967,130,4,240000,"Para Para","F#","minor","F# minor",5
+"151","Serdar Ortaç","Gold (2011)","5GT4fFhxh2ZCOdag2A8wXo","2011-03-07",0.681,0.965,10,-3.12,0,0.0765,0.107,0.0312,0.197,0.885,126.982,4,267000,"Yıldız (Bellezza)","A#","minor","A# minor",6
+"152","Serdar Ortaç","Gold (2011)","0Hy3p2HKSvxkp0EoRChBBU","2011-03-07",0.562,0.644,9,-7.785,0,0.098,0.47,0,0.0738,0.367,75.993,4,371000,"Aramızdaki","A","minor","A minor",3
+"153","Serdar Ortaç","Gold (2011)","4i6EVUroYJDIeB4nTetILt","2011-03-07",0.735,0.747,2,-5.871,1,0.053,0.0463,1.65e-05,0.119,0.439,110.024,4,293000,"İşim Olmaz - Remix","D","major","D major",6
+"154","Serdar Ortaç","Gold (2011)","2l8RxnxxhBIaSLIqBIMCm8","2011-03-07",0.796,0.934,5,-5.383,0,0.0597,0.00689,2.58e-06,0.229,0.819,127.987,4,280000,"Kolayca - Remix","F","minor","F minor",10
+"155","Serdar Ortaç","Gold (2011)","2u1hZLFBBWNKbBm0DWQ7Tl","2011-03-07",0.82,0.943,6,-3.303,0,0.135,0.0419,0,0.137,0.602,130.033,4,253000,"Var Mı - Remix","F#","minor","F# minor",7
+"156","Serdar Ortaç","Gold (2011)","18Po9rkqboldbLnO5jOKjg","2011-03-07",0.712,0.796,5,-6.944,1,0.0628,0.0248,6.54e-05,0.0693,0.831,130.006,4,321013,"Mikrop ( Remix )","F","major","F major",9
+"157","Serdar Ortaç","Gold (2011)","4wHD1EQgw4vMsXGrgNskhC","2011-03-07",0.765,0.855,0,-4.904,1,0.0992,0.00725,0,0.65,0.771,130.101,4,299000,"Poşet - Remix","C","major","C major",8
+"158","Serdar Ortaç","Gold (2011)","3kfSqhQoKiUkIgHwZQDHGO","2011-03-07",0.745,0.915,0,-5.866,0,0.0429,0.0249,2.8e-05,0.0458,0.687,135.03,4,239000,"Kara Kedi - Remix","C","minor","C minor",6
+"159","Serdar Ortaç","Gold (2011)","1BUrEHhdIswAIB6Lf3UkQu","2011-03-07",0.735,0.826,7,-6.171,1,0.0718,0.0063,1.41e-05,0.0896,0.619,130.013,4,322000,"Mikrop - Remix","G","major","G major",6
+"160","Serdar Ortaç","Gold (2011)","3UE4Y6VmPjoc014L7JMOYd","2011-03-07",0.6,0.574,7,-8.357,0,0.0354,0.193,0,0.455,0.565,123.982,4,239986,"Hile - Slow Mix","G","minor","G minor",2
+"161","Serdar Ortaç","Gold (2011)","3mH3QReWvHxv9eEEp3Iv8X","2011-03-07",0.665,0.954,7,-3.928,0,0.063,0.0182,1.05e-05,0.202,0.827,124.001,4,274986,"Hile","G","minor","G minor",17
+"162","Serdar Ortaç","Gold (2011)","5LtJ9ZT3UIy3MZI7vPeiL5","2011-03-07",0.729,0.837,4,-7.257,0,0.0316,0.0142,2.1e-06,0.0649,0.711,112.031,5,232013,"Elimle","E","minor","E minor",42
+"163","Serdar Ortaç","Gold (2011)","5HYvtWAYTtI5ueR6wKyPhn","2011-03-07",0.702,0.881,4,-5.626,0,0.0606,0.0511,7.97e-06,0.077,0.963,128.992,4,248986,"Hayat İzi","E","minor","E minor",17
+"164","Serdar Ortaç","Gold (2011)","3VrkdN9Z4jgj7WuqNkP0s1","2011-03-07",0.766,0.834,4,-5.606,0,0.0723,0.0611,0,0.0986,0.528,130.014,4,270013,"Koca Koca","E","minor","E minor",13
+"165","Serdar Ortaç","Gold (2011)","1qCyJG8kqLkgNO8mGN1XaC","2011-03-07",0.77,0.914,7,-3.108,1,0.0506,0.133,3.67e-05,0.385,0.899,99.975,4,243000,"Yok Mu","G","major","G major",13
+"166","Serdar Ortaç","Gold (2011)","3LrgCVivdjNsXVbxvKVteT","2011-03-07",0.825,0.93,6,-3.933,0,0.0496,0.176,0.00114,0.0649,0.967,130,4,240000,"Para Para","F#","minor","F# minor",11
+"167","Serdar Ortaç","Gold (2011)","5rCghUnzqTkac5RCl35JAD","2011-03-07",0.681,0.965,10,-3.12,0,0.0765,0.107,0.0312,0.197,0.885,126.982,4,267000,"Yıldız (Bellezza)","A#","minor","A# minor",10
+"168","Serdar Ortaç","Gold (2011)","1NGlTK0dh8BTr7WULIl6K5","2011-03-07",0.562,0.644,9,-7.785,0,0.098,0.47,0,0.0738,0.367,75.993,4,371000,"Aramızdaki","A","minor","A minor",14
+"169","Serdar Ortaç","Gold (2011)","4NWjY4LAADdQuwqBzmIPsg","2011-03-07",0.735,0.747,2,-5.871,1,0.053,0.0463,1.65e-05,0.119,0.439,110.024,4,293000,"İşim Olmaz - Remix","D","major","D major",18
+"170","Serdar Ortaç","Gold (2011)","5BLoIlZgngykriwKAhe2dD","2011-03-07",0.796,0.934,5,-5.383,0,0.0597,0.00689,2.58e-06,0.229,0.819,127.987,4,280000,"Kolayca - Remix","F","minor","F minor",18
+"171","Serdar Ortaç","Gold (2011)","5cOs1BA0hQhgTv5LEJunxF","2011-03-07",0.82,0.943,6,-3.303,0,0.135,0.0419,0,0.137,0.602,130.033,4,253000,"Var Mı - Remix","F#","minor","F# minor",23
+"172","Serdar Ortaç","Gold (2011)","2mWxUpL0vKYgUOweIjY6v6","2011-03-07",0.712,0.796,5,-6.944,1,0.0628,0.0248,6.54e-05,0.0693,0.831,130.006,4,321013,"Mikrop ( Remix )","F","major","F major",21
+"173","Serdar Ortaç","Gold (2011)","2orxWXf9UzjRPHJ2u4ISm6","2011-03-07",0.765,0.855,0,-4.904,1,0.0992,0.00725,0,0.65,0.771,130.101,4,299000,"Poşet - Remix","C","major","C major",21
+"174","Serdar Ortaç","Gold (2011)","7J0ruLG50n0DjXzBrkWvBB","2011-03-07",0.745,0.915,0,-5.866,0,0.0429,0.0249,2.8e-05,0.0458,0.687,135.03,4,239000,"Kara Kedi - Remix","C","minor","C minor",17
+"175","Serdar Ortaç","Gold (2011)","71T1saqapy5H1WAAwdATqw","2011-03-07",0.735,0.826,7,-6.171,1,0.0718,0.0063,1.41e-05,0.0896,0.619,130.013,4,322000,"Mikrop - Remix","G","major","G major",13
+"176","Serdar Ortaç","Gold (2011)","78SPvH7zrSKGHg7lBXQTrw","2011-03-07",0.6,0.574,7,-8.357,0,0.0354,0.193,0,0.455,0.565,123.982,4,239986,"Hile - Slow Mix","G","minor","G minor",9
+"177","Serdar Ortaç","Kara Kedi","3RmegrVcVzOmpugUtstJBl","2010-05-14",0.789,0.889,7,-5.314,0,0.195,0.032,0.00047,0.0805,0.645,129.993,4,316995,"Poşet","G","minor","G minor",43
+"178","Serdar Ortaç","Kara Kedi","2CRjX2bW3K9xnOWg1LTlou","2010-05-14",0.821,0.766,1,-5.787,0,0.104,0.0263,1.14e-06,0.322,0.685,129.986,4,246987,"Varmı","C#","minor","C# minor",13
+"179","Serdar Ortaç","Kara Kedi","6vPUeLKcxllWJSNuWN7uHY","2010-05-14",0.824,0.884,4,-5.994,0,0.085,0.0669,0,0.179,0.84,103.97,4,289985,"Yeşil Su","E","minor","E minor",31
+"180","Serdar Ortaç","Kara Kedi","0cbjvKpGFY7UrazvtVQ9W6","2010-05-14",0.766,0.901,7,-3.692,1,0.0992,0.0882,0,0.127,0.593,129.982,4,305998,"Mikrop","G","major","G major",36
+"181","Serdar Ortaç","Kara Kedi","6x5LJoC2fNXjAcKgE3oO30","2010-05-14",0.735,0.824,11,-5.179,0,0.0645,0.0375,3.26e-05,0.268,0.571,115.93,4,290977,"İşim Olmaz","B","minor","B minor",31
+"182","Serdar Ortaç","Kara Kedi","0rhOVpKJeptvzbdKW3Gkh9","2010-05-14",0.855,0.724,5,-6.496,0,0.0464,0.192,2.4e-06,0.216,0.801,136.995,4,259996,"Kara Kedi","F","minor","F minor",28
+"183","Serdar Ortaç","Kara Kedi","1DRUjCBOVWBnESxt1gusKZ","2010-05-14",0.769,0.786,11,-4.429,0,0.0486,0.054,0,0.0863,0.753,104.009,4,220969,"Haksızlık","B","minor","B minor",17
+"184","Serdar Ortaç","Kara Kedi","7xf4rFptlLQ90NVj3J3jti","2010-05-14",0.851,0.762,5,-5.824,0,0.0744,0.00102,0.000124,0.0441,0.686,128.01,4,234997,"Kolayca","F","minor","F minor",17
+"185","Serdar Ortaç","Kara Kedi","5J5u2CY2KE39CLHOs6pBCH","2010-05-14",0.756,0.869,1,-5.062,0,0.0505,0.0345,0.000132,0.0315,0.864,130.019,4,267781,"Parodi","C#","minor","C# minor",9
+"186","Serdar Ortaç","Kara Kedi","00BVj5kndhcvJlKNgo1tb1","2010-05-14",0.88,0.797,7,-6.242,1,0.0603,0.0884,0,0.35,0.89,127.019,4,241998,"Sanırım","G","major","G major",17
+"187","Serdar Ortaç","Kara Kedi","14LRUcIMY6ZQKF8EylMYVC","2010-05-14",0.699,0.898,11,-5.868,0,0.0522,0.0295,0.000289,0.194,0.744,130.018,4,274991,"Zehir","B","minor","B minor",9
+"188","Serdar Ortaç","Kara Kedi","178Gg9X9YcramRKWc6EkoI","2010-05-14",0.804,0.805,10,-5.518,0,0.162,0.303,4.36e-05,0.306,0.646,98.056,4,240770,"Loş","A#","minor","A# minor",14
+"189","Serdar Ortaç","Kara Kedi","2fpYfYbM8sOAVWm2PmeXLs","2010-05-14",0.649,0.833,9,-4.632,0,0.0412,0.361,2.5e-05,0.0681,0.885,155.89,4,256000,"Kerbela","A","minor","A minor",8
+"190","Serdar Ortaç","Kara Kedi","5NDbrIZlZE9oUyLFtKHTy1","2010-05-14",0.289,0.827,9,-4.93,0,0.112,0.0653,0,0.103,0.416,79.116,5,353985,"İki Paralık","A","minor","A minor",9
+"191","Serdar Ortaç","Kara Kedi","2CavgahrtarBpQQVq9pHuF","2010-05-14",0.686,0.928,0,-3.604,0,0.0405,0.395,0.006,0.0686,0.655,119.978,4,371983,"Üzgünüm","C","minor","C minor",9
+"192","Serdar Ortaç","Kara Kedi","3rXhNG9oDbpNYQNbPHQcmq","2010-05-14",0.691,0.89,8,-3.411,0,0.0414,0.215,0,0.0883,0.795,155.868,4,292989,"Sabrımdan","G#","minor","G# minor",7
+"193","Serdar Ortaç","Kara Kedi","2QRmkpesFJl659zHne1PyQ","2010-05-14",0.715,0.798,5,-4.901,0,0.2,0.245,0,0.222,0.53,93.963,4,264437,"Gülün Rengi","F","minor","F minor",30
+"194","Serdar Ortaç","Kara Kedi","0PlABPqYHKhlhTgGbHWuMr","2010-05-14",0.789,0.889,7,-5.314,0,0.195,0.032,0.00047,0.0805,0.645,129.993,4,316995,"Poşet","G","minor","G minor",62
+"195","Serdar Ortaç","Kara Kedi","7y3AXB4NQyQKHmWsw4vlOc","2010-05-14",0.821,0.766,1,-5.787,0,0.104,0.0263,1.14e-06,0.322,0.685,129.986,4,246987,"Varmı","C#","minor","C# minor",29
+"196","Serdar Ortaç","Kara Kedi","737KEAO1LVu5QPpNpRl509","2010-05-14",0.824,0.884,4,-5.994,0,0.085,0.0669,0,0.179,0.84,103.97,4,289985,"Yeşil Su","E","minor","E minor",50
+"197","Serdar Ortaç","Kara Kedi","374L13n9oElKIT2EDShNCX","2010-05-14",0.766,0.901,7,-3.692,1,0.0992,0.0882,0,0.127,0.593,129.982,4,305998,"Mikrop","G","major","G major",53
+"198","Serdar Ortaç","Kara Kedi","6wXUeujX1vLho1iAH4GtRW","2010-05-14",0.735,0.824,11,-5.179,0,0.0645,0.0375,3.26e-05,0.268,0.571,115.93,4,290977,"İşim Olmaz","B","minor","B minor",51
+"199","Serdar Ortaç","Kara Kedi","19lYlIVWxISouWK5ijUmy6","2010-05-14",0.855,0.724,5,-6.496,0,0.0464,0.192,2.4e-06,0.216,0.801,136.995,4,259996,"Kara Kedi","F","minor","F minor",47
+"200","Serdar Ortaç","Kara Kedi","5PWkkTeV2KctkotexyPXGP","2010-05-14",0.769,0.786,11,-4.429,0,0.0486,0.054,0,0.0863,0.753,104.009,4,220969,"Haksızlık","B","minor","B minor",34
+"201","Serdar Ortaç","Kara Kedi","6UFMdXHph4rYr6E0yIY5Oe","2010-05-14",0.851,0.762,5,-5.824,0,0.0744,0.00102,0.000124,0.0441,0.686,128.01,4,234997,"Kolayca","F","minor","F minor",31
+"202","Serdar Ortaç","Kara Kedi","59o8iGxpskmjvAJBggNdPQ","2010-05-14",0.756,0.869,1,-5.062,0,0.0505,0.0345,0.000132,0.0315,0.864,130.019,4,267781,"Parodi","C#","minor","C# minor",24
+"203","Serdar Ortaç","Kara Kedi","1va9yriusnpnAvfbtU7oNE","2010-05-14",0.88,0.797,7,-6.242,1,0.0603,0.0884,0,0.35,0.89,127.019,4,241998,"Sanırım","G","major","G major",25
+"204","Serdar Ortaç","Kara Kedi","2IAbIh09vNl0Kll98L97dn","2010-05-14",0.699,0.898,11,-5.868,0,0.0522,0.0295,0.000289,0.194,0.744,130.018,4,274991,"Zehir","B","minor","B minor",24
+"205","Serdar Ortaç","Kara Kedi","5zLiy96aZSBKq2DdoZ0Mrd","2010-05-14",0.804,0.805,10,-5.518,0,0.162,0.303,4.36e-05,0.306,0.646,98.056,4,240770,"Loş","A#","minor","A# minor",30
+"206","Serdar Ortaç","Kara Kedi","5VCCWCcdwTXYPVyC0BJ5sl","2010-05-14",0.649,0.833,9,-4.632,0,0.0412,0.361,2.5e-05,0.0681,0.885,155.89,4,256000,"Kerbela","A","minor","A minor",23
+"207","Serdar Ortaç","Kara Kedi","1kbGC7ZZHbfSplhfWlmeRo","2010-05-14",0.289,0.827,9,-4.93,0,0.112,0.0653,0,0.103,0.416,79.116,5,353985,"İki Paralık","A","minor","A minor",26
+"208","Serdar Ortaç","Kara Kedi","7a2U1svEpMKYAuCxSuoMxa","2010-05-14",0.686,0.928,0,-3.604,0,0.0405,0.395,0.006,0.0686,0.655,119.978,4,371983,"Üzgünüm","C","minor","C minor",21
+"209","Serdar Ortaç","Kara Kedi","2XNerJM87S16903xi7wSmI","2010-05-14",0.691,0.89,8,-3.411,0,0.0414,0.215,0,0.0883,0.795,155.868,4,292989,"Sabrımdan","G#","minor","G# minor",23
+"210","Serdar Ortaç","Kara Kedi","1yUynSLdy5a0HLBfwaDDwK","2010-05-14",0.715,0.798,5,-4.901,0,0.2,0.245,0,0.222,0.53,93.963,4,264437,"Gülün Rengi","F","minor","F minor",45
+"211","Serdar Ortaç","Serdar Ortaç Gold Remix 2009","2ziit9QATjdLMFqpCazuuw","2009-03-13",0.674,0.897,5,-7.696,1,0.0379,0.000368,0.00911,0.165,0.71,130.01,4,297143,"Şikayet","F","major","F major",3
+"212","Serdar Ortaç","Serdar Ortaç Gold Remix 2009","6fI9u9477px45O8Meg1293","2009-03-13",0.652,0.875,2,-5.37,0,0.0345,0.000564,0.476,0.077,0.671,129.984,4,284183,"Bu Nasıl Ayrılık","D","minor","D minor",3
+"213","Serdar Ortaç","Serdar Ortaç Gold Remix 2009","5HHlgkMwOXRdMLUF7tsY8m","2009-03-13",0.763,0.939,10,-5.002,0,0.0442,0.0334,5.8e-05,0.0372,0.837,107.012,4,280823,"Harcamasın","A#","minor","A# minor",2
+"214","Serdar Ortaç","Serdar Ortaç Gold Remix 2009","1RdKTid4ETMacwm3TATMqi","2009-03-13",0.67,0.928,0,-6.644,1,0.0675,0.0166,0,0.308,0.603,141.903,3,294959,"İki Gözüm","C","major","C major",24
+"215","Serdar Ortaç","Serdar Ortaç Gold Remix 2009","3qg05N6n2eO6T1eI1RgO0I","2009-03-13",0.718,0.872,1,-4.994,0,0.0307,0.0342,0.000885,0.313,0.492,130,4,398519,"Heyecan - Volga Tamöz Remix","C#","minor","C# minor",5
+"216","Serdar Ortaç","Serdar Ortaç Gold Remix 2009","5DVMtf2FcjSzGX1d8jj08e","2009-03-13",0.788,0.659,10,-7.354,0,0.0704,0.0144,1.19e-05,0.0908,0.669,128.009,4,297503,"Şeytan - Volga Tamöz Remix","A#","minor","A# minor",4
+"217","Serdar Ortaç","Serdar Ortaç Gold Remix 2009","2qjkn8rdNuoJFGz2p5y52f","2009-03-13",0.832,0.666,3,-7.611,0,0.0965,0.146,4.35e-06,0.0633,0.64,114.005,4,313151,"Ayrı Gitme - Lübnan Remix","D#","minor","D# minor",3
+"218","Serdar Ortaç","Serdar Ortaç Gold Remix 2009","708asdtgMjN27vxcXOgN5a","2009-03-13",0.733,0.942,1,-4.852,0,0.039,0.00621,0.777,0.334,0.595,129.983,4,352871,"Heyecan - Erdem Kınay Remix","C#","minor","C# minor",4
+"219","Serdar Ortaç","Serdar Ortaç Gold Remix 2009","7IdlDntSXUgqtkEgaWa8MG","2009-03-13",0.545,0.727,1,-5.375,0,0.0377,0.182,0,0.162,0.563,148.034,4,321335,"Başıma Bela","C#","minor","C# minor",5
+"220","Serdar Ortaç","Serdar Ortaç Gold Remix 2009","6ecnx4Rztt4bojiKVOaNEm","2009-03-13",0.698,0.865,9,-4.084,1,0.0306,0.0833,0.000174,0.0584,0.544,130.012,4,359591,"Heyecan - Uğur Kirik Remix","A","major","A major",3
+"221","Serdar Ortaç","Serdar Ortaç Gold Remix 2009","0lYzDn2lPMZt4IonUdMPWa","2009-03-13",0.794,0.891,4,-4.868,0,0.0957,0.0566,0,0.103,0.85,97.001,4,214895,"Ayrılmam - Remix","E","minor","E minor",6
+"222","Serdar Ortaç","Serdar Ortaç Gold Remix 2009","6JszZLiuZ3U5y9l6FypXny","2009-03-13",0.724,0.955,1,-4.018,1,0.0477,0.00183,0.239,0.0845,0.827,129.015,4,353183,"Heyecan - Mushtaq Omar Remix","C#","major","C# major",2
+"223","Serdar Ortaç","Serdar Ortaç Gold Remix 2009","5VZf8G9ngJIW6MbAezMkOg","2009-03-13",0.674,0.897,5,-7.696,1,0.0379,0.000368,0.00911,0.165,0.71,130.01,4,297143,"Şikayet","F","major","F major",8
+"224","Serdar Ortaç","Serdar Ortaç Gold Remix 2009","3M9nJPiI4MvQtsHBvYRYWl","2009-03-13",0.652,0.875,2,-5.37,0,0.0345,0.000564,0.476,0.077,0.671,129.984,4,284183,"Bu Nasıl Ayrılık","D","minor","D minor",7
+"225","Serdar Ortaç","Serdar Ortaç Gold Remix 2009","6MILNqG3ORVHFhxW4YAjTH","2009-03-13",0.763,0.939,10,-5.002,0,0.0442,0.0334,5.8e-05,0.0372,0.837,107.012,4,280823,"Harcamasın","A#","minor","A# minor",7
+"226","Serdar Ortaç","Serdar Ortaç Gold Remix 2009","3JPt4dt9wHNLw5yET8GOna","2009-03-13",0.67,0.928,0,-6.644,1,0.0675,0.0166,0,0.308,0.603,141.903,3,294959,"İki Gözüm","C","major","C major",41
+"227","Serdar Ortaç","Serdar Ortaç Gold Remix 2009","2SUd6lM9KuoBcquf1Lo7f5","2009-03-13",0.718,0.872,1,-4.994,0,0.0307,0.0342,0.000885,0.313,0.492,130,4,398519,"Heyecan - Volga Tamöz Remix","C#","minor","C# minor",9
+"228","Serdar Ortaç","Serdar Ortaç Gold Remix 2009","1M4kLLmlqk6hO3MhFQByyV","2009-03-13",0.788,0.659,10,-7.354,0,0.0704,0.0144,1.19e-05,0.0908,0.669,128.009,4,297503,"Şeytan - Volga Tamöz Remix","A#","minor","A# minor",11
+"229","Serdar Ortaç","Serdar Ortaç Gold Remix 2009","13Ek5LDLZHXrXejVEPyj5C","2009-03-13",0.832,0.666,3,-7.611,0,0.0965,0.146,4.35e-06,0.0633,0.64,114.005,4,313151,"Ayrı Gitme - Lübnan Remix","D#","minor","D# minor",8
+"230","Serdar Ortaç","Serdar Ortaç Gold Remix 2009","6wkHxzFOHvgAYuJ0Bf7bpx","2009-03-13",0.733,0.942,1,-4.852,0,0.039,0.00621,0.777,0.334,0.595,129.983,4,352871,"Heyecan - Erdem Kınay Remix","C#","minor","C# minor",8
+"231","Serdar Ortaç","Serdar Ortaç Gold Remix 2009","307Q5b4BTdW3kk50bcqHap","2009-03-13",0.545,0.727,1,-5.375,0,0.0377,0.182,0,0.162,0.563,148.034,4,321335,"Başıma Bela","C#","minor","C# minor",9
+"232","Serdar Ortaç","Serdar Ortaç Gold Remix 2009","2XJq4w6GGLUpaTuMaLmfil","2009-03-13",0.698,0.865,9,-4.084,1,0.0306,0.0833,0.000174,0.0584,0.544,130.012,4,359591,"Heyecan - Uğur Kirik Remix","A","major","A major",6
+"233","Serdar Ortaç","Serdar Ortaç Gold Remix 2009","4e5rHjKWhIH7zzwdFfZSUE","2009-03-13",0.794,0.891,4,-4.868,0,0.0957,0.0566,0,0.103,0.85,97.001,4,214895,"Ayrılmam - Remix","E","minor","E minor",12
+"234","Serdar Ortaç","Serdar Ortaç Gold Remix 2009","0VT2zHMqmdAUSQTx72J3fN","2009-03-13",0.724,0.955,1,-4.018,1,0.0477,0.00183,0.239,0.0845,0.827,129.015,4,353183,"Heyecan - Mushtaq Omar Remix","C#","major","C# major",5
+"235","Serdar Ortaç","Nefes","6JqRG2jWNSNFj9HAoa81xu","2008-05-22",0.71,0.989,10,-4.598,0,0.0504,0.0184,0.00101,0.327,0.896,128.016,4,313880,"Şeytan","A#","minor","A# minor",41
+"236","Serdar Ortaç","Nefes","1bUG0GNZSK7J4OskPtqyfl","2008-05-22",0.717,0.838,6,-7.315,0,0.0495,0.0252,0.000599,0.121,0.587,130.017,4,284266,"Heyecan","F#","minor","F# minor",34
+"237","Serdar Ortaç","Nefes","21V6Bny5kNZgSgTITrbxwE","2008-05-22",0.806,0.858,4,-5.526,0,0.089,0.202,5.55e-05,0.0969,0.909,105.005,4,246813,"Düşman","E","minor","E minor",20
+"238","Serdar Ortaç","Nefes","2YpBVOTh3taRZolbUiOgtp","2008-05-22",0.734,0.706,6,-4.609,0,0.0477,0.0142,2.93e-05,0.0539,0.853,100.017,4,252640,"Bataklık","F#","minor","F# minor",11
+"239","Serdar Ortaç","Nefes","1bWZfZTlML8SBcvhKhPyvn","2008-05-22",0.816,0.801,10,-4.835,0,0.0558,0.0289,1.05e-05,0.118,0.644,113.99,4,325040,"Ayrı Gitme","A#","minor","A# minor",16
+"240","Serdar Ortaç","Nefes","5RAK8W7s92vto5ZFDGLOJ0","2008-05-22",0.849,0.872,7,-3.892,1,0.0766,0.0159,0.000463,0.0389,0.803,96.977,4,223186,"Ayrılmam","G","major","G major",29
+"241","Serdar Ortaç","Nefes","7plrEETZ4Oyieo0pKS43SL","2008-05-22",0.686,0.914,0,-5.056,1,0.0348,0.000682,0.016,0.117,0.883,128.984,4,369293,"Nefes","C","major","C major",11
+"242","Serdar Ortaç","Nefes","0geFUAblbE67um7GRmO7ga","2008-05-22",0.8,0.874,10,-4.514,0,0.0663,0.0766,5.97e-05,0.0563,0.739,128.99,4,271786,"Bu Da Geçer","A#","minor","A# minor",12
+"243","Serdar Ortaç","Nefes","3k7N705icUcrlvObLGuzIw","2008-05-22",0.673,0.921,5,-4.253,0,0.071,0.41,0,0.139,0.808,157.907,4,300306,"Hadi Çal","F","minor","F minor",26
+"244","Serdar Ortaç","Nefes","5e4N1haZJn7qKuP1P8grQv","2008-05-22",0.762,0.874,9,-5.74,0,0.194,0.058,0.00135,0.262,0.703,95.028,4,309746,"Darmadağın","A","minor","A minor",9
+"245","Serdar Ortaç","Nefes","52zvEyyrCy6ULVQeT6Rmv0","2008-05-22",0.692,0.862,7,-4.702,1,0.0369,0.15,0,0.0867,0.323,94.004,4,268706,"Çık Git","G","major","G major",8
+"246","Serdar Ortaç","Nefes","26fd3Os2JQB012nViLi0up","2008-05-22",0.798,0.884,11,-5.583,0,0.0494,0.00497,8.75e-05,0.123,0.618,124.007,4,250253,"Gram","B","minor","B minor",27
+"247","Serdar Ortaç","Nefes","38siXBFJIA8ofHKUbvdDlV","2008-05-22",0.846,0.878,10,-4.986,0,0.0632,0.0852,0.0137,0.0787,0.755,119.963,4,303693,"Full İhtişam","A#","minor","A# minor",8
+"248","Serdar Ortaç","Nefes","2zYoV1h2fz3EPaFIrBtfwC","2008-05-22",0.602,0.781,6,-4.98,0,0.0662,0.0597,3.24e-05,0.0673,0.719,169.803,4,361040,"Sana Değmez","F#","minor","F# minor",34
+"249","Serdar Ortaç","Nefes","3SHo9y1SWPbohTFDFKIGWX","2008-05-22",0.569,0.782,1,-5.844,0,0.058,0.441,0,0.307,0.728,147.894,4,318453,"Başıma Bela","C#","minor","C# minor",10
+"250","Serdar Ortaç","Nefes","0W9TyynvckL62CfkulcTa5","2008-05-22",0.69,0.859,8,-4.728,1,0.082,0.239,0,0.104,0.919,93.964,4,262106,"Yokluğunda","G#","major","G# major",9
+"251","Serdar Ortaç","Nefes","5b7avgNYGK1T6qQNQt1rQG","2008-05-22",0.71,0.989,10,-4.598,0,0.0504,0.0184,0.00101,0.327,0.896,128.016,4,313880,"Şeytan","A#","minor","A# minor",54
+"252","Serdar Ortaç","Nefes","2bzVknyi36x6RNmDNa9nNO","2008-05-22",0.717,0.838,6,-7.315,0,0.0495,0.0252,0.000599,0.121,0.587,130.017,4,284266,"Heyecan","F#","minor","F# minor",46
+"253","Serdar Ortaç","Nefes","4uxZQtCpgwRmF5Yw68jMH8","2008-05-22",0.806,0.858,4,-5.526,0,0.089,0.202,5.55e-05,0.0969,0.909,105.005,4,246813,"Düşman","E","minor","E minor",31
+"254","Serdar Ortaç","Nefes","6VURA9e6dZ7vUgKcOherQQ","2008-05-22",0.734,0.706,6,-4.609,0,0.0477,0.0142,2.93e-05,0.0539,0.853,100.017,4,252640,"Bataklık","F#","minor","F# minor",20
+"255","Serdar Ortaç","Nefes","0DCGflk1Ij6YHjoZnHMFAv","2008-05-22",0.816,0.801,10,-4.835,0,0.0558,0.0289,1.05e-05,0.118,0.644,113.99,4,325040,"Ayrı Gitme","A#","minor","A# minor",25
+"256","Serdar Ortaç","Nefes","2YaJp0a5SIJhJdLPlc3Eff","2008-05-22",0.849,0.872,7,-3.892,1,0.0766,0.0159,0.000463,0.0389,0.803,96.977,4,223186,"Ayrılmam","G","major","G major",46
+"257","Serdar Ortaç","Nefes","4JusYQKP7rBDDNQSNvHe9X","2008-05-22",0.686,0.914,0,-5.056,1,0.0348,0.000682,0.016,0.117,0.883,128.984,4,369293,"Nefes","C","major","C major",24
+"258","Serdar Ortaç","Nefes","4K0RYMqSEXc8ADw6ZfpjYS","2008-05-22",0.8,0.874,10,-4.514,0,0.0663,0.0766,5.97e-05,0.0563,0.739,128.99,4,271786,"Bu Da Geçer","A#","minor","A# minor",21
+"259","Serdar Ortaç","Nefes","29ChaUTVOqx8VmLwESUYF1","2008-05-22",0.673,0.921,5,-4.253,0,0.071,0.41,0,0.139,0.808,157.907,4,300306,"Hadi Çal","F","minor","F minor",45
+"260","Serdar Ortaç","Nefes","2xL83atW8meAch5ZiSbl8B","2008-05-22",0.762,0.874,9,-5.74,0,0.194,0.058,0.00135,0.262,0.703,95.028,4,309746,"Darmadağın","A","minor","A minor",20
+"261","Serdar Ortaç","Nefes","6rp0cCA4ArArFihBNg2XIy","2008-05-22",0.692,0.862,7,-4.702,1,0.0369,0.15,0,0.0867,0.323,94.004,4,268706,"Çık Git","G","major","G major",23
+"262","Serdar Ortaç","Nefes","2EP0myQYH0N4QbwO4PIAml","2008-05-22",0.798,0.884,11,-5.583,0,0.0494,0.00497,8.75e-05,0.123,0.618,124.007,4,250253,"Gram","B","minor","B minor",45
+"263","Serdar Ortaç","Nefes","6TqjXytu4Rv9JbUd4R0NNm","2008-05-22",0.846,0.878,10,-4.986,0,0.0632,0.0852,0.0137,0.0787,0.755,119.963,4,303693,"Full İhtişam","A#","minor","A# minor",18
+"264","Serdar Ortaç","Nefes","58qtVPNrHTeKv5yBpj7Kit","2008-05-22",0.602,0.781,6,-4.98,0,0.0662,0.0597,3.24e-05,0.0673,0.719,169.803,4,361040,"Sana Değmez","F#","minor","F# minor",54
+"265","Serdar Ortaç","Nefes","5NnrOLutyiR4kUgBHRToYk","2008-05-22",0.569,0.782,1,-5.844,0,0.058,0.441,0,0.307,0.728,147.894,4,318453,"Başıma Bela","C#","minor","C# minor",25
+"266","Serdar Ortaç","Nefes","6w7KTgYNQdTT0Fauzi1EWL","2008-05-22",0.69,0.859,8,-4.728,1,0.082,0.239,0,0.104,0.919,93.964,4,262106,"Yokluğunda","G#","major","G# major",21
+"267","Serdar Ortaç","Gold Remix","6pAcOGTpwQiuMquPLwMuG9","2007-04-02",0.742,0.796,6,-5.256,1,0.0472,0.095,1.72e-06,0.326,0.65,114.031,4,243133,"Hayret - Gold Track","F#","major","F# major",7
+"268","Serdar Ortaç","Gold Remix","5osfaPbhaTdHByKaVDCu22","2007-04-02",0.753,0.908,9,-4.544,1,0.0413,0.025,0.00144,0.181,0.821,125.972,4,320013,"Garez - Gold Track","A","major","A major",4
+"269","Serdar Ortaç","Gold Remix","27OeS71H0hJlP0n02W7V2A","2007-04-02",0.693,0.564,4,-8.251,0,0.111,0.149,6.42e-06,0.0709,0.577,77.04,4,272480,"İki Kalp - Gold Track","E","minor","E minor",23
+"270","Serdar Ortaç","Gold Remix","3rBGTLBWS14ZPnu5i0A06H","2007-04-02",0.722,0.575,11,-6.496,0,0.0489,0.0747,1.67e-05,0.365,0.265,94.023,4,317000,"Mesafe - Akustik - Extended Version","B","minor","B minor",3
+"271","Serdar Ortaç","Gold Remix","2Xz9AMK4iRrEHfCWcKCA0q","2007-04-02",0.803,0.939,5,-5.2,0,0.0703,0.261,1.36e-06,0.327,0.895,115.991,4,257013,"Bebeğim Oldun - Bubbeling Remix","F","minor","F minor",5
+"272","Serdar Ortaç","Gold Remix","2sAW41zj653JjnnejVwh0b","2007-04-02",0.662,0.8,0,-4.82,0,0.0405,0.282,2.27e-06,0.198,0.68,155.952,4,321106,"Başardın Ağlatmayı - Greek Mix","C","minor","C minor",1
+"273","Serdar Ortaç","Gold Remix","157LmciXRqbzWGq7GfgxoQ","2007-04-02",0.681,0.959,7,-5.142,0,0.0491,0.00647,0.0573,0.241,0.677,126.004,4,308173,"Gitme - Club Remix","G","minor","G minor",8
+"274","Serdar Ortaç","Gold Remix","6lAh1ow9vokZBKcroeVT9x","2007-04-02",0.724,0.836,0,-6.158,0,0.0352,0.000591,0.00299,0.113,0.964,130,4,324120,"Gel De - 80's Reload Mix","C","minor","C minor",5
+"275","Serdar Ortaç","Gold Remix","09dm6Dm1bjzQ1EsdhapV4J","2007-04-02",0.748,0.733,2,-7.648,0,0.119,0.079,1.2e-06,0.0842,0.513,99.974,4,297786,"Çıkartacaksın - Ambient Remix","D","minor","D minor",1
+"276","Serdar Ortaç","Gold Remix","0Z9LrVdDLY6TSEsQBGj5Hz","2007-04-02",0.689,0.827,6,-5.404,0,0.0336,0.00231,0.0188,0.364,0.238,130.008,4,395693,"Gel De - Gold Dance Remix","F#","minor","F# minor",2
+"277","Serdar Ortaç","Gold Remix","458m1QrkXPnLsksqr1fpkP","2007-04-02",0.766,0.497,10,-10.67,1,0.0563,0.041,0.0231,0.137,0.911,126.008,4,295866,"Gitme - Alternative Remix","A#","major","A# major",1
+"278","Serdar Ortaç","Gold Remix","2wypZqWVw77cbbPs2EmBZd","2007-04-02",0.742,0.796,6,-5.256,1,0.0472,0.095,1.72e-06,0.326,0.65,114.031,4,243133,"Hayret - Gold Track","F#","major","F# major",21
+"279","Serdar Ortaç","Gold Remix","1X7moEPCCwcv6gXIb6wTAA","2007-04-02",0.753,0.908,9,-4.544,1,0.0413,0.025,0.00144,0.181,0.821,125.972,4,320013,"Garez - Gold Track","A","major","A major",11
+"280","Serdar Ortaç","Gold Remix","0jaxam69AxY3bfjaHfD3oH","2007-04-02",0.693,0.564,4,-8.251,0,0.111,0.149,6.42e-06,0.0709,0.577,77.04,4,272480,"İki Kalp - Gold Track","E","minor","E minor",39
+"281","Serdar Ortaç","Gold Remix","3ReqNXngxtl8KHnBxOO631","2007-04-02",0.722,0.575,11,-6.496,0,0.0489,0.0747,1.67e-05,0.365,0.265,94.023,4,317000,"Mesafe - Akustik - Extended Version","B","minor","B minor",17
+"282","Serdar Ortaç","Gold Remix","534TcjTLrmlFsbhSKvYjj1","2007-04-02",0.803,0.939,5,-5.2,0,0.0703,0.261,1.36e-06,0.327,0.895,115.991,4,257013,"Bebeğim Oldun - Bubbeling Remix","F","minor","F minor",12
+"283","Serdar Ortaç","Gold Remix","3RqQAMy7IEp7lJ169lltqW","2007-04-02",0.662,0.8,0,-4.82,0,0.0405,0.282,2.27e-06,0.198,0.68,155.952,4,321106,"Başardın Ağlatmayı - Greek Mix","C","minor","C minor",6
+"284","Serdar Ortaç","Gold Remix","1jIL0ED1TTxkqvBc3AVw21","2007-04-02",0.681,0.959,7,-5.142,0,0.0491,0.00647,0.0573,0.241,0.677,126.004,4,308173,"Gitme - Club Remix","G","minor","G minor",16
+"285","Serdar Ortaç","Gold Remix","1PYVHgQIciU2dSxHOUgAGK","2007-04-02",0.724,0.836,0,-6.158,0,0.0352,0.000591,0.00299,0.113,0.964,130,4,324120,"Gel De - 80's Reload Mix","C","minor","C minor",15
+"286","Serdar Ortaç","Gold Remix","4mCcCEd1jEUjkJIVbwooOd","2007-04-02",0.748,0.733,2,-7.648,0,0.119,0.079,1.2e-06,0.0842,0.513,99.974,4,297786,"Çıkartacaksın - Ambient Remix","D","minor","D minor",7
+"287","Serdar Ortaç","Gold Remix","1CBOIBmFQbM0EGO1NCFWn7","2007-04-02",0.689,0.827,6,-5.404,0,0.0336,0.00231,0.0188,0.364,0.238,130.008,4,395693,"Gel De - Gold Dance Remix","F#","minor","F# minor",4
+"288","Serdar Ortaç","Gold Remix","2HYyUxXMzoV9P4ZedxcMhr","2007-04-02",0.766,0.497,10,-10.67,1,0.0563,0.041,0.0231,0.137,0.911,126.008,4,295866,"Gitme - Alternative Remix","A#","major","A# major",4
+"289","Serdar Ortaç","Mesafe","0dtIwQGTANCNpMVP1qrXM1","2006-04-25",0.778,0.669,6,-6.372,1,0.0649,0.154,0,0.0448,0.61,100.038,4,235213,"Sor","F#","major","F# major",42
+"290","Serdar Ortaç","Mesafe","0ry1DcOVebPl6QMQQnY3Dr","2006-04-25",0.698,0.925,6,-6.133,0,0.0441,0.0149,3.52e-05,0.338,0.816,129.961,4,316320,"Dansöz","F#","minor","F# minor",43
+"291","Serdar Ortaç","Mesafe","4aH5hfyUcAJzS1iBIjwEQf","2006-04-25",0.674,0.831,11,-7.01,1,0.0407,0.00158,0.00679,0.291,0.53,129.996,4,328573,"Gel De","B","major","B major",16
+"292","Serdar Ortaç","Mesafe","7IExKuaQ33gtHIOYQz6zb6","2006-04-25",0.776,0.731,4,-6.718,0,0.206,0.182,0,0.323,0.597,93.998,4,301960,"Mesafe","E","minor","E minor",47
+"293","Serdar Ortaç","Mesafe","1Qg07VPxqqEGNh0UTq1RSs","2006-04-25",0.774,0.729,7,-5.704,0,0.0482,0.0278,0.00034,0.0556,0.784,102.015,4,227853,"Akdeniz","G","minor","G minor",12
+"294","Serdar Ortaç","Mesafe","6VuufwXqAwgB2odhZ0l8sl","2006-04-25",0.424,0.641,2,-6.917,0,0.143,0.35,0,0.186,0.348,130.429,5,317720,"Çıkartacaksın","D","minor","D minor",21
+"295","Serdar Ortaç","Mesafe","5Rx6eqJ5Qhlv8S79O9j8x7","2006-04-25",0.769,0.761,6,-6.569,0,0.0441,0.05,0.000166,0.0314,0.775,120.017,4,226906,"Gitme","F#","minor","F# minor",33
+"296","Serdar Ortaç","Mesafe","609LhayjyganAXAOwRMeAY","2006-04-25",0.772,0.726,5,-6.901,0,0.0403,0.133,2.3e-05,0.257,0.697,98.025,4,265280,"Tut Ki","F","minor","F minor",22
+"297","Serdar Ortaç","Mesafe","3MhEAWJb0nF5QW83bXNetL","2006-04-25",0.793,0.774,5,-4.807,0,0.111,0.163,5.78e-06,0.076,0.779,130.006,4,253466,"İstersen","F","minor","F minor",9
+"298","Serdar Ortaç","Mesafe","0EKIg8OM4zCrgvtD91tyjo","2006-04-25",0.56,0.786,5,-4.827,0,0.0471,0.143,0,0.335,0.536,156.015,4,289426,"Başardın Ağlatmayı","F","minor","F minor",9
+"299","Serdar Ortaç","Mesafe","0nG4HAZP9yCHm9MTPfsg1i","2006-04-25",0.623,0.694,9,-5.623,0,0.04,0.427,6.85e-05,0.223,0.53,159.925,4,321440,"En Büyük Aşkım","A","minor","A minor",12
+"300","Serdar Ortaç","Mesafe","79AugpFyG01p6EW7tS7BdO","2006-04-25",0.793,0.968,7,-4.19,0,0.0526,0.0488,0.00034,0.0554,0.778,118.022,4,278306,"Bebeğim Oldun","G","minor","G minor",17
+"301","Serdar Ortaç","Mesafe","6TWPt0KAMi1k4f6fliIOM5","2006-04-25",0.605,0.7,3,-5.009,0,0.0695,0.745,0,0.132,0.607,143.953,4,325506,"Melek","D#","minor","D# minor",8
+"302","Serdar Ortaç","Mesafe","53BloRfoCO8UvHnNPmc3La","2006-04-25",0.731,0.542,0,-6.292,0,0.0495,0.0596,4.58e-06,0.109,0.657,144.004,4,243093,"Yürek Haini","C","minor","C minor",12
+"303","Serdar Ortaç","Mesafe","3YIp88lmXLhGK1gryG0m3m","2006-04-25",0.535,0.319,0,-9.477,0,0.04,0.815,0,0.121,0.282,129.968,4,245973,"Ayrılık İnsanlar İçin","C","minor","C minor",8
+"304","Serdar Ortaç","Mesafe","3mRLEGU3302hwzR0MH6J85","2006-04-25",0.743,0.958,6,-5.208,1,0.0476,0.197,0.000264,0.22,0.846,100.013,4,262560,"Sor - Turka Vers.","F#","major","F# major",11
+"305","Serdar Ortaç","Mesafe","6qIHXcIdpyLlykevGqxpPf","2006-04-25",0.355,0.635,9,-6.468,0,0.0857,0.697,2.27e-05,0.0985,0.466,89.971,4,350373,"Mesafe - Ekstra","A","minor","A minor",11
+"306","Serdar Ortaç","Mesafe","5Uzxouh00sQqfcUd6I4BnW","2006-04-25",0.778,0.669,6,-6.372,1,0.0649,0.154,0,0.0448,0.61,100.038,4,235213,"Sor","F#","major","F# major",63
+"307","Serdar Ortaç","Mesafe","5iKzAnS1BY583HpwxHIz1m","2006-04-25",0.698,0.925,6,-6.133,0,0.0441,0.0149,3.52e-05,0.338,0.816,129.961,4,316320,"Dansöz","F#","minor","F# minor",59
+"308","Serdar Ortaç","Mesafe","16btiU4w6OEv6X2VagKoR7","2006-04-25",0.674,0.831,11,-7.01,1,0.0407,0.00158,0.00679,0.291,0.53,129.996,4,328573,"Gel De","B","major","B major",35
+"309","Serdar Ortaç","Mesafe","68DrWFjKkrn2W3mkIRP3bc","2006-04-25",0.776,0.731,4,-6.718,0,0.206,0.182,0,0.323,0.597,93.998,4,301960,"Mesafe","E","minor","E minor",66
+"310","Serdar Ortaç","Mesafe","2oHRhuvc1mI9KlGxlkNJEL","2006-04-25",0.774,0.729,7,-5.704,0,0.0482,0.0278,0.00034,0.0556,0.784,102.015,4,227853,"Akdeniz","G","minor","G minor",30
+"311","Serdar Ortaç","Mesafe","5PwtK35Jt8FEM57cnehLVC","2006-04-25",0.424,0.641,2,-6.917,0,0.143,0.35,0,0.186,0.348,130.429,5,317720,"Çıkartacaksın","D","minor","D minor",38
+"312","Serdar Ortaç","Mesafe","6vk6lFXauYsHiZvkLbISOp","2006-04-25",0.769,0.761,6,-6.569,0,0.0441,0.05,0.000166,0.0314,0.775,120.017,4,226906,"Gitme","F#","minor","F# minor",50
+"313","Serdar Ortaç","Mesafe","0zTASexHG5Wj16YHNy8i41","2006-04-25",0.772,0.726,5,-6.901,0,0.0403,0.133,2.3e-05,0.257,0.697,98.025,4,265280,"Tut Ki","F","minor","F minor",39
+"314","Serdar Ortaç","Mesafe","6zH2YjGTXK0xWUsT86AxMt","2006-04-25",0.793,0.774,5,-4.807,0,0.111,0.163,5.78e-06,0.076,0.779,130.006,4,253466,"İstersen","F","minor","F minor",26
+"315","Serdar Ortaç","Mesafe","3PiPduhdJ3fkYwrR9CnTH7","2006-04-25",0.56,0.786,5,-4.827,0,0.0471,0.143,0,0.335,0.536,156.015,4,289426,"Başardın Ağlatmayı","F","minor","F minor",28
+"316","Serdar Ortaç","Mesafe","39bIRinR2v3FruXN65OlJD","2006-04-25",0.623,0.694,9,-5.623,0,0.04,0.427,6.85e-05,0.223,0.53,159.925,4,321440,"En Büyük Aşkım","A","minor","A minor",28
+"317","Serdar Ortaç","Mesafe","1NRNrO9QpXwSnttKxY0bTN","2006-04-25",0.793,0.968,7,-4.19,0,0.0526,0.0488,0.00034,0.0554,0.778,118.022,4,278306,"Bebeğim Oldun","G","minor","G minor",36
+"318","Serdar Ortaç","Mesafe","6thWzbzSnBhab8HxbI986i","2006-04-25",0.605,0.7,3,-5.009,0,0.0695,0.745,0,0.132,0.607,143.953,4,325506,"Melek","D#","minor","D# minor",27
+"319","Serdar Ortaç","Mesafe","5IuVgWcCYL27U1ss2lLFgI","2006-04-25",0.731,0.542,0,-6.292,0,0.0495,0.0596,4.58e-06,0.109,0.657,144.004,4,243093,"Yürek Haini","C","minor","C minor",30
+"320","Serdar Ortaç","Mesafe","5kKuF3KKnDIpb7FrHmnjNL","2006-04-25",0.535,0.319,0,-9.477,0,0.04,0.815,0,0.121,0.282,129.968,4,245973,"Ayrılık İnsanlar İçin","C","minor","C minor",26
+"321","Serdar Ortaç","Mesafe","1ncvRdRYJtE4YXKcWixOLI","2006-04-25",0.743,0.958,6,-5.208,1,0.0476,0.197,0.000264,0.22,0.846,100.013,4,262560,"Sor - Turka Vers.","F#","major","F# major",24
+"322","Serdar Ortaç","Mesafe","62JlR91MbL9sPnBmX2bFG1","2006-04-25",0.355,0.635,9,-6.468,0,0.0857,0.697,2.27e-05,0.0985,0.466,89.971,4,350373,"Mesafe - Ekstra","A","minor","A minor",27
+"323","Serdar Ortaç","Çakra (Beni Unut)","3Y8X8YktpF3uXhV2ZqCeuQ","2004-03-12",0.752,0.956,0,-5.33,0,0.0747,0.0308,4.19e-05,0.0977,0.636,120.012,4,270600,"Beni Unut","C","minor","C minor",49
+"324","Serdar Ortaç","Çakra (Beni Unut)","3zAcuTxIYrxCwVjyCRpXuP","2004-03-12",0.775,0.907,8,-6.207,1,0.0557,0.0726,0.0032,0.0618,0.844,103.003,4,289333,"Çakra","G#","major","G# major",24
+"325","Serdar Ortaç","Çakra (Beni Unut)","1s7nvUDSm2v2Zfs7LxlqRv","2004-03-12",0.722,0.716,5,-6.578,0,0.0353,0.274,0,0.0915,0.596,131.94,4,336893,"Yar Ayrı Gayrın mı Var","F","minor","F minor",39
+"326","Serdar Ortaç","Çakra (Beni Unut)","17ixiqgmtzaihgmiPCXLyd","2004-03-12",0.716,0.932,9,-6.932,0,0.0435,0.179,0.00552,0.0998,0.875,95.972,4,240800,"Sakın Arama","A","minor","A minor",15
+"327","Serdar Ortaç","Çakra (Beni Unut)","5VXDzkiszPWaX13YDGjGHI","2004-03-12",0.81,0.88,1,-5.088,0,0.0471,0.134,0,0.137,0.818,107.991,4,306733,"Canıma Minnet","C#","minor","C# minor",48
+"328","Serdar Ortaç","Çakra (Beni Unut)","4uRHDeZRdMzqZ8ElM7O7Uz","2004-03-12",0.495,0.663,3,-6.039,0,0.0624,0.637,2.23e-06,0.113,0.416,145.9,4,362333,"Pişmanım","D#","minor","D# minor",16
+"329","Serdar Ortaç","Çakra (Beni Unut)","4rO5cXvwAbdqXHFCcg0Y9v","2004-03-12",0.787,0.847,6,-5.281,0,0.0409,0.036,0.000275,0.0329,0.697,130.026,4,330133,"Dayan","F#","minor","F# minor",14
+"330","Serdar Ortaç","Çakra (Beni Unut)","3EMtpYGGDLnJiPhbr7yzMp","2004-03-12",0.764,0.926,5,-6.006,0,0.0509,0.0681,0.000377,0.0828,0.902,111.974,4,286373,"Okumakla Adam Olmuyor","F","minor","F minor",23
+"331","Serdar Ortaç","Çakra (Beni Unut)","1ccYMsm6bSCZofdaGkTNPZ","2004-03-12",0.574,0.702,2,-7.635,0,0.144,0.504,0,0.103,0.446,80.072,4,317000,"Adam Gibi","D","minor","D minor",39
+"332","Serdar Ortaç","Çakra (Beni Unut)","7rDezYIoBoVpTtk89fR2xS","2004-03-12",0.771,0.958,2,-5.788,0,0.0586,0.335,0.000256,0.233,0.799,130.047,4,249426,"Uğrunda Her Şeyi","D","minor","D minor",15
+"333","Serdar Ortaç","Çakra (Beni Unut)","3n2PwJnJlMSeHOwLnUqtuY","2004-03-12",0.581,0.758,11,-5.621,0,0.078,0.437,1.77e-06,0.106,0.303,89.949,4,307440,"Yapraklar","B","minor","B minor",17
+"334","Serdar Ortaç","Çakra (Beni Unut)","1MVmaKuNUrJY0czQU0bAUF","2004-03-12",0.683,0.947,8,-6.69,1,0.0323,0.00656,0.601,0.0579,0.818,130.003,4,298400,"Yazılır Kitaba","G#","major","G# major",15
+"335","Serdar Ortaç","Çakra (Beni Unut)","1WuL0ArfFLvum6tbrfideQ","2004-03-12",0.699,0.876,10,-6.459,0,0.0557,0.29,2.51e-06,0.0731,0.861,88.99,4,266226,"Yaralı Yürek","A#","minor","A# minor",20
+"336","Serdar Ortaç","Çakra (Beni Unut)","5gnPZuRdi8n59esEuEu5xE","2004-03-12",0.631,0.739,9,-7.171,0,0.0731,0.139,3.85e-06,0.288,0.607,166.116,4,385640,"İsmi Lazım Değil","A","minor","A minor",49
+"337","Serdar Ortaç","Çakra (Beni Unut)","72GVJAFpnBumM0dCQhJCV2","2004-03-12",0.752,0.956,0,-5.33,0,0.0747,0.0308,4.19e-05,0.0977,0.636,120.012,4,270600,"Beni Unut","C","minor","C minor",20
+"338","Serdar Ortaç","Çakra (Beni Unut)","10BZ7uE0hZXZD35Jkx3Lo1","2004-03-12",0.775,0.907,8,-6.207,1,0.0557,0.0726,0.0032,0.0618,0.844,103.003,4,289333,"Çakra","G#","major","G# major",3
+"339","Serdar Ortaç","Çakra (Beni Unut)","1Te6HfRiBvLio3M1guSCEv","2004-03-12",0.722,0.716,5,-6.578,0,0.0353,0.274,0,0.0915,0.596,131.94,4,336893,"Yar Ayrı Gayrın mı Var","F","minor","F minor",9
+"340","Serdar Ortaç","Çakra (Beni Unut)","29G6YsVVjzqRU0m8887665","2004-03-12",0.716,0.932,9,-6.932,0,0.0435,0.179,0.00552,0.0998,0.875,95.972,4,240800,"Sakın Arama","A","minor","A minor",2
+"341","Serdar Ortaç","Çakra (Beni Unut)","3IcXxLD36x4ctojOz2YQ4J","2004-03-12",0.81,0.88,1,-5.088,0,0.0471,0.134,0,0.137,0.818,107.991,4,306733,"Canıma Minnet","C#","minor","C# minor",18
+"342","Serdar Ortaç","Çakra (Beni Unut)","2kBNx04rrVdlKVq1AhPKlu","2004-03-12",0.495,0.663,3,-6.039,0,0.0624,0.637,2.23e-06,0.113,0.416,145.9,4,362333,"Pişmanım","D#","minor","D# minor",1
+"343","Serdar Ortaç","Çakra (Beni Unut)","47jTRxPoHLhP0aNdZr30hF","2004-03-12",0.787,0.847,6,-5.281,0,0.0409,0.036,0.000275,0.0329,0.697,130.026,4,330133,"Dayan","F#","minor","F# minor",1
+"344","Serdar Ortaç","Çakra (Beni Unut)","7jdjsuRD9JGbyxFza0KEM7","2004-03-12",0.764,0.926,5,-6.006,0,0.0509,0.0681,0.000377,0.0828,0.902,111.974,4,286373,"Okumakla Adam Olmuyor","F","minor","F minor",3
+"345","Serdar Ortaç","Çakra (Beni Unut)","6bCZgJPWEGbWLq4OH0kfXQ","2004-03-12",0.574,0.702,2,-7.635,0,0.144,0.504,0,0.103,0.446,80.072,4,317000,"Adam Gibi","D","minor","D minor",10
+"346","Serdar Ortaç","Çakra (Beni Unut)","2nLn8IUNuyT0gSDmzZs1gx","2004-03-12",0.771,0.958,2,-5.788,0,0.0586,0.335,0.000256,0.233,0.799,130.047,4,249426,"Uğrunda Her Şeyi","D","minor","D minor",1
+"347","Serdar Ortaç","Çakra (Beni Unut)","43xIf7Ds9PzNLOVslTOVJ6","2004-03-12",0.581,0.758,11,-5.621,0,0.078,0.437,1.77e-06,0.106,0.303,89.949,4,307440,"Yapraklar","B","minor","B minor",1
+"348","Serdar Ortaç","Çakra (Beni Unut)","4QoZo8n4iBML8DxVtsaeVX","2004-03-12",0.683,0.947,8,-6.69,1,0.0323,0.00656,0.601,0.0579,0.818,130.003,4,298400,"Yazılır Kitaba","G#","major","G# major",1
+"349","Serdar Ortaç","Çakra (Beni Unut)","5CBrvqZojjdoYRyNmuWCPM","2004-03-12",0.699,0.876,10,-6.459,0,0.0557,0.29,2.51e-06,0.0731,0.861,88.99,4,266226,"Yaralı Yürek","A#","minor","A# minor",1
+"350","Serdar Ortaç","Çakra (Beni Unut)","6tA2blinDwB1Fo2vxS5Mn5","2004-03-12",0.631,0.739,9,-7.171,0,0.0731,0.139,3.85e-06,0.288,0.607,166.116,4,385640,"İsmi Lazım Değil","A","minor","A minor",17
+"351","Serdar Ortaç","Çakra (Beni Unut)","2Li8aEEkRS8KYeEPs0swzp","2004-03-12",0.755,0.959,0,-5.259,0,0.0682,0.0248,6.24e-05,0.0989,0.633,119.998,4,270600,"Beni Unut","C","minor","C minor",33
+"352","Serdar Ortaç","Çakra (Beni Unut)","7FbtJobIbeXZWQgRThDeaT","2004-03-12",0.774,0.904,8,-6.2,1,0.0573,0.0829,0.00336,0.0573,0.847,102.991,4,289333,"Çakra","G#","major","G# major",9
+"353","Serdar Ortaç","Çakra (Beni Unut)","4E4ORlFuvceZP1p5eD7taG","2004-03-12",0.725,0.728,5,-6.546,0,0.0361,0.284,0,0.109,0.598,131.963,4,336893,"Yar Ayrı Gayrın Mı Var","F","minor","F minor",23
+"354","Serdar Ortaç","Çakra (Beni Unut)","3nFcv8j2yJs7ZZUpJbsUKB","2004-03-12",0.719,0.933,9,-6.931,0,0.0444,0.192,0.00382,0.0999,0.876,95.988,4,240800,"Sakın Arama","A","minor","A minor",6
+"355","Serdar Ortaç","Çakra (Beni Unut)","25OvMZbkl1o9jnabs0mBs8","2004-03-12",0.811,0.884,6,-5.14,0,0.0472,0.133,1.01e-06,0.236,0.76,108.005,4,306733,"Canıma Minnet","F#","minor","F# minor",33
+"356","Serdar Ortaç","Çakra (Beni Unut)","6RL3k92U1HKWScB6J8KDCp","2004-03-12",0.513,0.653,3,-6.021,0,0.0568,0.672,1.74e-06,0.116,0.475,145.962,4,362333,"Pişmanım","D#","minor","D# minor",6
+"357","Serdar Ortaç","Çakra (Beni Unut)","5j23uKD0DKxwXivtXGTW7n","2004-03-12",0.781,0.847,6,-5.324,0,0.0436,0.0369,0.000257,0.0343,0.722,130.037,4,330133,"Dayan","F#","minor","F# minor",5
+"358","Serdar Ortaç","Çakra (Beni Unut)","2wOnQ3aJBfJMA9QDN5iDKn","2004-03-12",0.763,0.926,5,-6.038,0,0.0481,0.0717,0.000645,0.0811,0.907,111.963,4,286373,"Okumakla Adam Olmuyor","F","minor","F minor",11
+"359","Serdar Ortaç","Çakra (Beni Unut)","79MPwX4k4J6U7KpmlDcO58","2004-03-12",0.551,0.705,2,-7.637,0,0.183,0.528,0,0.0937,0.456,80.073,4,317000,"Adam Gibi","D","minor","D minor",22
+"360","Serdar Ortaç","Çakra (Beni Unut)","4DmgU35O4xdd99BYnHfxbd","2004-03-12",0.773,0.962,2,-5.789,0,0.0553,0.326,0.000278,0.245,0.787,130.018,4,249426,"Uğrunda Herşeyi","D","minor","D minor",4
+"361","Serdar Ortaç","Çakra (Beni Unut)","7qo1rNxIgb5yrOatj1K10V","2004-03-12",0.37,0.762,4,-5.638,0,0.131,0.423,2.79e-06,0.113,0.342,80.482,4,307440,"Yapraklar","E","minor","E minor",5
+"362","Serdar Ortaç","Çakra (Beni Unut)","5lVYhgM37OyIsLvREycfBg","2004-03-12",0.682,0.946,8,-6.746,1,0.0318,0.00595,0.533,0.0522,0.833,130.002,4,298400,"Yazılır Kitaba","G#","major","G# major",4
+"363","Serdar Ortaç","Çakra (Beni Unut)","2PQlSxG3s41WXZSJ1NOAf8","2004-03-12",0.707,0.877,10,-6.458,0,0.0526,0.265,3.26e-06,0.0748,0.863,88.994,4,266226,"Yaralı Yürek","A#","minor","A# minor",7
+"364","Serdar Ortaç","Çakra (Beni Unut)","6P0lyJRUjSXkQ1q0ebxijj","2004-03-12",0.633,0.742,9,-7.139,0,0.0657,0.127,3.46e-06,0.3,0.605,166.02,4,385640,"İsmi Lazım Değil","A","minor","A minor",31
+"365","Serdar Ortaç","Okyanus","0MG3072hnLEOq2XKi5aD29","2002-07-10",0.75,0.953,4,-4.957,0,0.0558,0.178,4.08e-06,0.0436,0.834,109.999,4,325774,"Kabahat","E","minor","E minor",44
+"366","Serdar Ortaç","Okyanus","4V1DnrLkpTJNHwEzUyogYs","2002-07-10",0.78,0.871,9,-6.679,0,0.0867,0.044,0.00134,0.054,0.594,128.051,4,337850,"Geceleri Yakıp","A","minor","A minor",25
+"367","Serdar Ortaç","Okyanus","4KEFxWujXA6xEHYCIKFeHC","2002-07-10",0.82,0.749,4,-7.027,0,0.0665,0.0856,0.000442,0.18,0.79,102.214,4,279056,"Zembille","E","minor","E minor",22
+"368","Serdar Ortaç","Okyanus","58JpGiSjPViMeWkxa3kSkU","2002-07-10",0.672,0.542,1,-9.19,0,0.0871,0.156,4.28e-06,0.226,0.446,81.943,4,294985,"İstemem Mi","C#","minor","C# minor",11
+"369","Serdar Ortaç","Okyanus","1SLal8nRuXvrgQrgnyO20F","2002-07-10",0.758,0.753,9,-9.29,1,0.0567,0.0164,4.95e-05,0.0388,0.843,120.017,4,248870,"Heves","A","major","A major",10
+"370","Serdar Ortaç","Okyanus","1Gd4L5Muj07G9Y8pCadbzv","2002-07-10",0.471,0.907,9,-6.941,0,0.0682,0.0859,0.0101,0.113,0.739,131.221,4,257043,"Okyanus","A","minor","A minor",12
+"371","Serdar Ortaç","Okyanus","7u2GO4gpAfTegVL1uflqkm","2002-07-10",0.49,0.564,5,-7.117,0,0.076,0.492,0,0.087,0.45,159.902,4,362788,"Kararsın Dünyam","F","minor","F minor",19
+"372","Serdar Ortaç","Okyanus","1Jf6zhbsOdVQs34pv8rawO","2002-07-10",0.817,0.856,9,-7.179,0,0.0378,0.0401,0.00318,0.082,0.962,128.016,4,229551,"Savaş Ve Barış","A","minor","A minor",10
+"373","Serdar Ortaç","Okyanus","0gZe4vq63LOCJZdKhPCHre","2002-07-10",0.496,0.561,1,-6.298,0,0.0627,0.327,0,0.247,0.35,78.043,4,320435,"Halime Gülen Varsa","C#","minor","C# minor",7
+"374","Serdar Ortaç","Okyanus","7lIUNd5l6aw7iEJVWEaZJA","2002-07-10",0.794,0.901,10,-7.427,0,0.0607,0.0182,0.000687,0.0412,0.937,115.188,4,254861,"Bana Özelsin","A#","minor","A# minor",9
+"375","Serdar Ortaç","Okyanus","0mtPREwQssBYnw3z5eDFGw","2002-07-10",0.474,0.393,9,-10.838,0,0.114,0.185,0,0.217,0.393,81.69,4,342492,"Utansın","A","minor","A minor",8
+"376","Serdar Ortaç","Okyanus","5jjA8HxoRAWM6dha9rKaKP","2002-07-10",0.766,0.791,5,-7.876,1,0.0627,0.0197,3.12e-05,0.371,0.763,113.977,4,251146,"Je T'aime","F","major","F major",19
+"377","Serdar Ortaç","Okyanus","0OM6qQ7qplqxCT98i3qwuc","2002-07-10",0.797,0.926,10,-8.317,0,0.0626,0.0608,0.00116,0.103,0.842,120.009,4,327308,"Bana Özelsin - DJ Mix","A#","minor","A# minor",5
+"378","Serdar Ortaç","Okyanus","5KxHVwlw5X1exS1Vz48KO7","2002-07-10",0.788,0.928,10,-6.227,0,0.0626,0.0149,0.87,0.339,0.812,134.015,4,317322,"Savaş Ve Barış - Club Mix","A#","minor","A# minor",4
+"379","Serdar Ortaç","Sahibinin Sesi (Remix)","0nYxVfdMWVypDVoXoZxGgU","2001-05-07",0.659,0.805,9,-10.706,0,0.0513,0.0554,0.0053,0.0842,0.768,129.999,4,341493,"Kaç Kere Sever İnsan - Bensiz Olsun","A","minor","A minor",21
+"380","Serdar Ortaç","Sahibinin Sesi (Remix)","1zgIiOE894Bmeg5XFYMRqC","2001-05-07",0.638,0.907,1,-8.643,0,0.0752,0.116,0.000442,0.07,0.691,131.993,4,306906,"Aradın Mı","C#","minor","C# minor",12
+"381","Serdar Ortaç","Sahibinin Sesi (Remix)","2G0dCI5hkkQItLMcqjGBap","2001-05-07",0.752,0.823,2,-7.976,1,0.166,0.303,2.14e-06,0.0685,0.716,115.013,4,246626,"Umrumda Değil","D","major","D major",21
+"382","Serdar Ortaç","Sahibinin Sesi (Remix)","1gedjCWn9tT7n7qPlHKYbZ","2001-05-07",0.745,0.8,10,-8.692,0,0.0548,0.468,1.39e-06,0.102,0.781,99.99,4,251666,"Padişah","A#","minor","A# minor",23
+"383","Serdar Ortaç","Sahibinin Sesi (Remix)","4pDGgtQa3jr8dDPArBasFd","2001-05-07",0.762,0.922,0,-8.765,1,0.0945,0.0231,4.1e-06,0.348,0.604,129.981,4,251106,"Dertli Dünya","C","major","C major",11
+"384","Serdar Ortaç","Sahibinin Sesi (Remix)","10dmKBEi9k0EPf0c3mpKPl","2001-05-07",0.435,0.532,11,-8.971,0,0.0976,0.459,0,0.114,0.31,155.91,4,374560,"Kanasın","B","minor","B minor",14
+"385","Serdar Ortaç","Sahibinin Sesi (Remix)","7zkvhyQDUA2ZLlrv7eG7NU","2001-05-07",0.635,0.9,11,-8.355,0,0.0425,0.0276,0.0143,0.0926,0.508,139.991,4,408173,"Karagözüm","B","minor","B minor",5
+"386","Serdar Ortaç","Sahibinin Sesi (Remix)","1baY3J7FhLfyM1Qdi7tCDx","2001-05-07",0.655,0.931,9,-8.784,0,0.0372,0.0787,0.0144,0.115,0.707,142.061,4,439200,"Mutsuzsun","A","minor","A minor",5
+"387","Serdar Ortaç","Sahibinin Sesi (Remix)","1lLM71Mg7knJ3DKlZDhkIl","2001-05-07",0.644,0.836,0,-7.871,1,0.0599,0.0664,0.00198,0.0872,0.494,131.996,4,268466,"Yaz Yağmuru","C","major","C major",6
+"388","Serdar Ortaç","Sahibinin Sesi (Remix)","59TpfYSBj6233R6YyQujrO","2001-05-07",0.691,0.743,0,-8.684,1,0.0398,0.0308,0.000522,0.0792,0.83,122.983,4,235600,"Değmez","C","major","C major",11
+"389","Serdar Ortaç","Sahibinin Sesi (Remix)","3zPJV9jkkLgrOYbWE1kjeN","2001-05-07",0.722,0.605,2,-9.728,0,0.0481,0.0166,0.000663,0.111,0.804,144.03,4,284600,"Karabiberim","D","minor","D minor",10
+"390","Serdar Ortaç","Sahibinin Sesi (Remix)","5yp5tp3Y6M3WWAzqp0EMZi","2001-05-07",0.716,0.804,7,-10.701,1,0.0889,0.0186,0.00358,0.122,0.628,126.004,4,301026,"Yar Diye Diye","G","major","G major",7
+"391","Serdar Ortaç","Sahibinin Sesi (Remix)","6ZUqMqITltbsdSV15Dfmcj","2001-05-07",0.701,0.9,6,-9.45,0,0.0512,0.0229,0.000307,0.0707,0.628,133.982,4,278840,"Asrın Hatası","F#","minor","F# minor",14
+"392","Serdar Ortaç","Sahibinin Sesi (Remix)","7IF3CL90VfhQEt1ey1aDXk","2001-05-07",0.694,0.897,9,-8.444,0,0.102,0.0378,0.00017,0.136,0.616,130.02,4,286000,"Gecelerin Adamı","A","minor","A minor",6
+"393","Serdar Ortaç","Bilsem Ki (2000)","58jQG1WGxnMvHmhmJMm8E2","1999-10-21",0.787,0.916,8,-7.832,0,0.0665,0.15,4.14e-06,0.0814,0.857,128.074,4,297693,"Asrın Hatası","G#","minor","G# minor",56
+"394","Serdar Ortaç","Bilsem Ki (2000)","1BU23IobcLSlftlH84lztv","1999-10-21",0.725,0.775,9,-8.425,0,0.0718,0.291,2.77e-05,0.176,0.671,138.114,4,264506,"Seninki","A","minor","A minor",41
+"395","Serdar Ortaç","Bilsem Ki (2000)","1OGByHwNKfMQtczfW7bq11","1999-10-21",0.791,0.825,6,-9.21,0,0.0725,0.165,1.19e-06,0.0562,0.913,132.056,4,226026,"Bunca Yıl","F#","minor","F# minor",18
+"396","Serdar Ortaç","Bilsem Ki (2000)","3V017bOkU9fpx4u1L79knQ","1999-10-21",0.757,0.573,6,-10.52,0,0.0847,0.306,0.000272,0.0288,0.874,134.113,4,280600,"Cahil","F#","minor","F# minor",16
+"397","Serdar Ortaç","Bilsem Ki (2000)","5sT0g3n2e6iWxRwdC6DiEL","1999-10-21",0.584,0.56,7,-10.713,0,0.0959,0.685,0,0.105,0.489,148.046,4,431106,"Bilsem Ki","G","minor","G minor",48
+"398","Serdar Ortaç","Bilsem Ki (2000)","0RjQHEtVAPeAI0MmxiZAE3","1999-10-21",0.817,0.854,9,-8.886,0,0.159,0.109,1.67e-06,0.286,0.897,108.044,4,241200,"Yar Diye Diye","A","minor","A minor",35
+"399","Serdar Ortaç","Bilsem Ki (2000)","2cOsCqbbhilMvS0xAvOXyG","1999-10-21",0.754,0.743,5,-10.872,0,0.0394,0.0503,0.000462,0.387,0.595,127.984,4,311160,"Acıları Bitiremedim","F","minor","F minor",16
+"400","Serdar Ortaç","Bilsem Ki (2000)","55p5LuIMG9vcbw4SDdegwX","1999-10-21",0.681,0.534,0,-9.482,0,0.0573,0.611,1.45e-05,0.124,0.506,132.049,4,307933,"Sabret","C","minor","C minor",19
+"401","Serdar Ortaç","Bilsem Ki (2000)","0Fej5hthajXfFfOdGMTkyq","1999-10-21",0.755,0.875,8,-9.342,1,0.0879,0.295,1.14e-06,0.161,0.812,136.012,4,271866,"Sattım Aşkı","G#","major","G# major",15
+"402","Serdar Ortaç","Bilsem Ki (2000)","6EFlgvpFHW2nfxVXee7O1x","1999-10-21",0.8,0.894,7,-8.869,0,0.0449,0.314,0.000956,0.0746,0.955,108.038,4,244066,"Hürriyet","G","minor","G minor",17
+"403","Serdar Ortaç","Bilsem Ki (2000)","1UsGueCyIabahKUjQSk9py","1999-10-21",0.484,0.819,0,-7.978,1,0.114,0.265,3.68e-06,0.0414,0.853,129.97,4,262333,"Bıçak","C","major","C major",16
+"404","Serdar Ortaç","Bilsem Ki (2000)","4BJESmvcp1z27vQrBGzRah","1999-10-21",0.573,0.546,7,-11.04,0,0.0994,0.687,9.49e-05,0.326,0.64,156.124,4,374800,"Yırtarım","G","minor","G minor",13
+"405","Serdar Ortaç","Gecelerin Adamı","2k8wSSu8mzEJjbN42g0TOY","1998-07-10",0.768,0.788,9,-8.748,0,0.0738,0.111,4.86e-06,0.0665,0.813,130.004,4,258826,"Gecelerin Adamı","A","minor","A minor",22
+"406","Serdar Ortaç","Gecelerin Adamı","1sT6cYNTVqB52LKoh9kgvp","1998-07-10",0.652,0.803,9,-7.877,0,0.0851,0.128,0,0.211,0.805,139.945,3,289200,"Kara Vicdanlı Yar","A","minor","A minor",7
+"407","Serdar Ortaç","Gecelerin Adamı","63hwctgF506cegF8yEySGa","1998-07-10",0.551,0.536,3,-9.37,0,0.107,0.216,0,0.0488,0.619,145.631,4,357973,"Mutsuzsun","D#","minor","D# minor",24
+"408","Serdar Ortaç","Gecelerin Adamı","2fDsgJiXiV92dcLvh3K9On","1998-07-10",0.73,0.685,11,-6.561,0,0.0368,0.138,0,0.118,0.816,112.155,4,224293,"Nereye","B","minor","B minor",10
+"409","Serdar Ortaç","Gecelerin Adamı","2IxlO9dXXnCUIHsgYlnD8s","1998-07-10",0.482,0.443,1,-11.311,0,0.106,0.296,0,0.0774,0.385,90.706,4,338640,"Ne Olur Gitme","C#","minor","C# minor",12
+"410","Serdar Ortaç","Gecelerin Adamı","7yXYNxwcheA1s0QJqmGFrj","1998-07-10",0.624,0.677,9,-7.424,0,0.0699,0.294,0,0.354,0.525,180.004,4,317866,"Söyleme","A","minor","A minor",6
+"411","Serdar Ortaç","Gecelerin Adamı","7MZsa8fTQAu7uahd9QMHR1","1998-07-10",0.74,0.864,9,-6.292,0,0.132,0.468,0,0.0911,0.906,96.996,4,292133,"Terelelli","A","minor","A minor",13
+"412","Serdar Ortaç","Gecelerin Adamı","2Dkd5cl3TOPVfuPtGvxhk2","1998-07-10",0.696,0.827,11,-7.927,0,0.111,0.477,0,0.0506,0.572,145.983,4,304933,"Karagözüm","B","minor","B minor",13
+"413","Serdar Ortaç","Gecelerin Adamı","75MMxWmgNGuLdkQMTdB8uW","1998-07-10",0.704,0.761,7,-7.666,0,0.0581,0.0845,1.98e-06,0.13,0.761,139.05,4,268626,"Temmuz Akşamı","G","minor","G minor",6
+"414","Serdar Ortaç","Gecelerin Adamı","6vrDxLDSaF4uwkPb59gLpK","1998-07-10",0.607,0.442,7,-9.897,1,0.0396,0.474,1.6e-06,0.238,0.618,133.84,4,391173,"Vatan Borcu (Askerin Türküsü)","G","major","G major",5
+"415","Serdar Ortaç","Gecelerin Adamı","6YtWJFcEUZr6Mva3zAC78A","1998-07-10",0.781,0.839,5,-7.738,1,0.0992,0.00398,1.17e-06,0.044,0.598,122.028,4,296400,"Rezalet","F","major","F major",6
+"416","Serdar Ortaç","Gecelerin Adamı","6SCs3DqrN3rCRBRlpleZVM","1998-07-10",0.46,0.519,0,-11.542,1,0.102,0.586,6.82e-06,0.5,0.489,75.143,4,281266,"Kahrolsun","C","major","C major",6
+"417","Serdar Ortaç","Yaz Yağmuru","4hT4tcqFWGR4Da5ONBSMkW","1996-03-01",0.684,0.724,2,-13.405,0,0.0486,0.2,0.00123,0.0363,0.891,98.021,4,283768,"Ben Adam Olmam","D","minor","D minor",62
+"418","Serdar Ortaç","Yaz Yağmuru","6rUaKN654nOREIBkgDCXz0","1996-03-01",0.673,0.528,0,-12.481,0,0.0383,0.486,0,0.0763,0.827,155.967,4,242364,"Dert Gecesi","C","minor","C minor",25
+"419","Serdar Ortaç","Yaz Yağmuru","7fxPKQlbv3UKX5boxv4nYR","1996-03-01",0.506,0.402,2,-12.13,0,0.0394,0.351,0,0.0616,0.373,164.068,4,310935,"Yaz Yağmuru","D","minor","D minor",36
+"420","Serdar Ortaç","Yaz Yağmuru","0uyet1YBC44RfvNsZp49ZK","1996-03-01",0.683,0.587,9,-12.29,0,0.0311,0.245,6.22e-06,0.301,0.821,144.005,4,243069,"Nar Çiçeğim","A","minor","A minor",38
+"421","Serdar Ortaç","Yaz Yağmuru","3q8dc5xTCZSiermFUtuo5Q","1996-03-01",0.602,0.36,0,-14.004,1,0.0462,0.449,0,0.103,0.423,137.946,4,244688,"Geceler Uzun","C","major","C major",18
+"422","Serdar Ortaç","Yaz Yağmuru","25bCj4oNqdmRig8W2zm5Q2","1996-03-01",0.725,0.552,9,-11.397,0,0.0358,0.0434,0.000144,0.361,0.857,133.069,4,257697,"Kitapsız","A","minor","A minor",17
+"423","Serdar Ortaç","Yaz Yağmuru","6UN1HwdwJ54py8vSFSbrLN","1996-03-01",0.712,0.821,11,-12.733,0,0.0362,0.0768,1.15e-05,0.0324,0.949,100.067,4,203833,"Hesap Sorunu","B","minor","B minor",17
+"424","Serdar Ortaç","Yaz Yağmuru","5nLu5cuyTrgzW7xTFzGgBY","1996-03-01",0.548,0.505,6,-9.359,0,0.0256,0.753,0.000217,0.117,0.324,107.149,4,274207,"Sana Uzandım","F#","minor","F# minor",16
+"425","Serdar Ortaç","Yaz Yağmuru","4vh47fS1TvpVaPbs0pY38Z","1996-03-01",0.76,0.73,11,-11.125,0,0.136,0.194,0,0.0367,0.942,148.077,4,229773,"Gamzelim","B","minor","B minor",57
+"426","Serdar Ortaç","Yaz Yağmuru","3UtrzVhNGTyKpvyY9MlyVS","1996-03-01",0.849,0.864,0,-11.524,0,0.0485,0.0739,0,0.0594,0.942,130.075,4,241188,"Yaz Günü","C","minor","C minor",47
+"427","Serdar Ortaç","Yaz Yağmuru","3UedPvyo82Q0SVPGUocOI3","1996-03-01",0.673,0.888,7,-9.845,0,0.0301,0.135,0,0.0811,0.951,133.062,4,259186,"Sevgi Değil Aşk Değil","G","minor","G minor",18
+"428","Serdar Ortaç","Yaz Yağmuru","2heXmcrkNHpMgYni8rrmAE","1996-03-01",0.591,0.516,11,-13.959,0,0.0275,0.635,8.86e-05,0.0736,0.647,140.001,4,333400,"Neden","B","minor","B minor",17
+"429","Serdar Ortaç","Aşk İçin","0tnpKhf7eFuSK7GOxgC1iz","1994-08-17",0.754,0.689,2,-12.877,1,0.0446,0.233,2.81e-05,0.123,0.532,126.006,4,179000,"Değmez","D","major","D major",40
+"430","Serdar Ortaç","Aşk İçin","7wgqTZyX1Vjozk85TYgMbM","1994-08-17",0.393,0.326,10,-15.783,0,0.0411,0.442,3.15e-06,0.219,0.595,104.033,5,270466,"Hadi Git","A#","minor","A# minor",22
+"431","Serdar Ortaç","Aşk İçin","1PhayaZJDTFXIV7R6nBC2Q","1994-08-17",0.905,0.802,4,-12.285,0,0.108,0.3,4.18e-06,0.397,0.815,129.959,4,176266,"Deliriyorum","E","minor","E minor",12
+"432","Serdar Ortaç","Aşk İçin","01zfH9qQDaPReMqedBwc0d","1994-08-17",0.762,0.473,9,-14.327,0,0.0668,0.544,4.01e-06,0.233,0.63,96.04,4,246200,"Sevişen Dalgalar","A","minor","A minor",11
+"433","Serdar Ortaç","Aşk İçin","7cYJvIv2hv0VdiRZjpHy0F","1994-08-17",0.825,0.855,5,-11.607,1,0.107,0.55,5.27e-06,0.108,0.837,129.931,4,233133,"Zakkum","F","major","F major",26
+"434","Serdar Ortaç","Aşk İçin","1pVsBHBl931KUlJi3IbpWB","1994-08-17",0.777,0.758,11,-11.98,1,0.0679,0.0848,1.55e-06,0.257,0.768,136.026,4,187733,"Aşkın Kitabı","B","major","B major",12
+"435","Serdar Ortaç","Aşk İçin","5iVqHCdPnuh9YKj45VMn7M","1994-08-17",0.802,0.846,10,-12.459,1,0.0529,0.022,0.00403,0.209,0.859,119.98,4,206533,"Özledim Aşkını","A#","major","A# major",14
+"436","Serdar Ortaç","Aşk İçin","2XVBF1EIQhw6M7an28SNwt","1994-08-17",0.426,0.3,8,-17.429,1,0.0945,0.737,2.77e-05,0.155,0.324,137.822,4,270666,"Affedemem","G#","major","G# major",11
+"437","Serdar Ortaç","Aşk İçin","649HpAJEsVk2VuCadjunXu","1994-08-17",0.783,0.835,5,-11.876,1,0.0438,0.648,0.00057,0.05,0.968,151.994,4,227933,"Karabiberim","F","major","F major",62
+"438","Serdar Ortaç","Aşk İçin","7DmmBpQUGOqcwfnwblRk5x","1994-08-17",0.735,0.678,9,-12.071,0,0.0424,0.49,0.000272,0.18,0.907,97.989,4,170133,"İçmeli","A","minor","A minor",16
+"439","Serdar Ortaç","Aşk İçin","6PSAxkIkO8rXFIodPnfc9F","1994-08-17",0.807,0.718,7,-14.585,1,0.192,0.383,0.256,0.0995,0.89,119.972,4,197866,"Aşk İçin","G","major","G major",11
+"440","Serdar Ortaç","Aşk İçin","1PbVzOVRC1XEjlBoq70uWc","1994-08-17",0.678,0.647,9,-12.977,0,0.0706,0.0811,0,0.372,0.818,162.062,4,186533,"Taşıma Su (Tashımashu)","A","minor","A minor",11
+"441","Madonna","Madame X (Deluxe)","6mfu6jyFgvnXeTPQrYNs8d","2019-06-14",0.814,0.683,1,-7.091,1,0.304,0.0596,1.92e-05,0.671,0.473,91.963,4,298164,"Medellín (with Maluma)","C#","major","C# major",59
+"442","Madonna","Madame X (Deluxe)","4fxz9qgPY0L2EWsbmj5N5j","2019-06-14",0.475,0.547,3,-7.703,1,0.0603,0.769,0.00106,0.107,0.284,168.045,4,254704,"Dark Ballet","D#","major","D# major",46
+"443","Madonna","Madame X (Deluxe)","1g1KZTgP2crk4QMOIZXlcA","2019-06-14",0.694,0.741,0,-7.886,1,0.0603,0.0179,0.00198,0.663,0.263,123.994,4,379316,"God Control","C","major","C major",48
+"444","Madonna","Madame X (Deluxe)","5IQgTY3f8ZeRW8o7cyFMX5","2019-06-14",0.684,0.858,1,-2.398,0,0.0886,0.455,0,0.132,0.643,158.031,4,233801,"Future (with Quavo)","C#","minor","C# minor",48
+"445","Madonna","Madame X (Deluxe)","35skCNkwwEQIgJCSncfbBe","2019-06-14",0.657,0.811,0,-7.224,1,0.0567,0.00559,0.00223,0.245,0.29,131.984,4,297091,"Batuka","C","major","C major",43
+"446","Madonna","Madame X (Deluxe)","68vWLW3xY35CHvYS2Sn55Q","2019-06-14",0.737,0.447,7,-7.979,0,0.0281,0.327,0.00202,0.286,0.258,99.949,3,328762,"Killers Who Are Partying","G","minor","G minor",43
+"447","Madonna","Madame X (Deluxe)","3DTq6oxUWv20TEKQO9IVF3","2019-06-14",0.728,0.617,5,-4.677,0,0.0431,0.454,0,0.104,0.251,125.987,4,201640,"Crave (with Swae Lee)","F","minor","F minor",48
+"448","Madonna","Madame X (Deluxe)","3Y6bCKPrsrKRSo8sg6PuL3","2019-06-14",0.709,0.674,7,-4.206,1,0.0769,0.113,1.35e-06,0.302,0.24,143.92,4,242076,"Crazy","G","major","G major",47
+"449","Madonna","Madame X (Deluxe)","6hHPBnTvgBjmJoUowLa23S","2019-06-14",0.395,0.681,9,-7.553,1,0.191,0.323,0.000375,0.0744,0.396,171.111,3,242105,"Come Alive","A","major","A major",43
+"450","Madonna","Madame X (Deluxe)","6yUMDlOJja7g0zdEtb6TeP","2019-06-14",0.691,0.52,5,-6.737,0,0.0412,0.103,8.46e-05,0.107,0.101,175.955,4,221559,"Extreme Occident","F","minor","F minor",38
+"451","Madonna","Madame X (Deluxe)","2SC14LGDbRWRlyLg9Wupa0","2019-06-14",0.777,0.695,10,-6.12,0,0.0894,0.288,0,0.0734,0.652,130.05,4,245706,"Faz Gostoso (feat. Anitta)","A#","minor","A# minor",56
+"452","Madonna","Madame X (Deluxe)","4EoMHVpNZTLVfAIgYzfufZ","2019-06-14",0.741,0.863,1,-3.438,1,0.198,0.0144,1.86e-06,0.502,0.601,175.949,4,170837,"Bitch I’m Loca (feat. Maluma)","C#","major","C# major",47
+"453","Madonna","Madame X (Deluxe)","6RwkmsgTmxUK2TziYWqlqL","2019-06-14",0.557,0.711,10,-5.572,0,0.0296,5.06e-05,0.597,0.185,0.207,122.047,4,248004,"I Don’t Search I Find","A#","minor","A# minor",44
+"454","Madonna","Madame X (Deluxe)","1MyVadO3ei1DGHVbDowQGv","2019-06-14",0.509,0.571,8,-6.997,1,0.0579,0.0207,9.71e-05,0.1,0.233,78.942,4,290231,"Looking For Mercy","G#","major","G# major",43
+"455","Madonna","Madame X (Deluxe)","7utnsT1Zjty7H3sO46vpt8","2019-06-14",0.593,0.724,9,-6.267,0,0.0849,0.0241,1.44e-06,0.191,0.323,154.941,4,224038,"I Rise","A","minor","A minor",41
+"456","Madonna","Rebel Heart","19FlOSp2C11s65hzmOepmR","2015-03-10",0.668,0.789,1,-4.564,1,0.0879,0.0361,0.000296,0.25,0.394,122.988,4,218720,"Living For Love","C#","major","C# major",23
+"457","Madonna","Rebel Heart","0eQ0JPvHr6ussxS1NFVm1m","2015-03-10",0.71,0.634,7,-7.025,1,0.0381,0.139,1.5e-05,0.434,0.394,107.009,4,245746,"Devil Pray","G","major","G major",19
+"458","Madonna","Rebel Heart","2w9k1PQv021ZBNLLu2hgRx","2015-03-10",0.54,0.55,5,-6.521,1,0.0368,0.0362,0.000203,0.115,0.0899,79.037,4,249600,"Ghosttown","F","major","F major",25
+"459","Madonna","Rebel Heart","5Ob63Z03gm4oIZsSBDDhXC","2015-03-10",0.763,0.788,11,-4.809,0,0.206,0.0223,0.000323,0.0623,0.8,74.997,4,231240,"Unapologetic Bitch","B","minor","B minor",20
+"460","Madonna","Rebel Heart","3IOPK8tSBYFfI5nNOuF2Fp","2015-03-10",0.797,0.605,7,-4.289,1,0.094,0.0609,0.00466,0.144,0.381,134.902,4,224613,"Illuminati","G","major","G major",14
+"461","Madonna","Rebel Heart","2GB3bUoLiZWCtujmU056uL","2015-03-10",0.722,0.63,3,-5.784,0,0.132,0.0485,0.000294,0.179,0.519,150.023,4,227480,"Bitch I'm Madonna","D#","minor","D# minor",32
+"462","Madonna","Rebel Heart","4RC9nM7N1GRwKDmcqdaLRs","2015-03-10",0.652,0.73,6,-6.512,0,0.0535,0.00363,0.0193,0.531,0.284,126.599,5,217413,"Hold Tight","F#","minor","F# minor",14
+"463","Madonna","Rebel Heart","3DVve7jqMDnwLbXE3ZcrXF","2015-03-10",0.739,0.582,8,-7.54,0,0.0336,0.256,4.3e-06,0.116,0.401,122.005,4,241800,"Joan Of Arc","G#","minor","G# minor",17
+"464","Madonna","Rebel Heart","6V3CqWEAX1THZaeqcFjmDK","2015-03-10",0.625,0.823,0,-4.943,0,0.0646,0.00793,0.000188,0.739,0.379,127.987,4,273280,"Iconic","C","minor","C minor",16
+"465","Madonna","Rebel Heart","536vp3dNN1psVSsW1Wtioj","2015-03-10",0.625,0.546,7,-7.515,0,0.0346,0.366,0.000309,0.105,0.25,92.986,4,213666,"HeartBreakCity","G","minor","G minor",13
+"466","Madonna","Rebel Heart","21SurB6bfwluqamon7huoU","2015-03-10",0.782,0.491,0,-7.409,1,0.0669,0.604,0.000751,0.0992,0.668,139.915,4,219400,"Body Shop","C","major","C major",12
+"467","Madonna","Rebel Heart","65297VA7zxJdtJzpZrSdGW","2015-03-10",0.947,0.577,1,-9.361,1,0.179,0.0113,0.0061,0.0647,0.188,120.026,4,249133,"Holy Water","C#","major","C# major",14
+"468","Madonna","Rebel Heart","2tH6WAe6QiijrGsbwSUfFw","2015-03-10",0.626,0.579,8,-6.827,1,0.113,0.301,0.000109,0.126,0.371,163.687,4,263573,"Inside Out","G#","major","G# major",13
+"469","Madonna","Rebel Heart","718zlsl2URCOdAk948KIlw","2015-03-10",0.262,0.404,7,-9.707,0,0.0514,0.164,0.00022,0.112,0.0583,95.108,3,241000,"Wash All Over Me","G","minor","G minor",12
+"470","Madonna","Rebel Heart","4EWsqajDQhNKlxM8KjIeI8","2015-03-10",0.668,0.788,1,-4.564,1,0.0639,0.0361,0.000296,0.234,0.402,122.988,4,218813,"Living For Love","C#","major","C# major",2
+"471","Madonna","Rebel Heart","15TXQOp6gjja7x2hByEIIL","2015-03-10",0.711,0.634,7,-7.019,1,0.037,0.132,6.64e-06,0.425,0.378,107.025,4,245653,"Devil Pray","G","major","G major",1
+"472","Madonna","Rebel Heart","1Xdqbor6Un5gui2u9zZGIE","2015-03-10",0.54,0.55,5,-6.521,1,0.0368,0.0362,0.000203,0.115,0.0899,79.037,4,249600,"Ghosttown","F","major","F major",4
+"473","Madonna","Rebel Heart","6d1J1ko20cL0yozN2BVtjP","2015-03-10",0.758,0.788,4,-4.787,1,0.208,0.0191,0.000193,0.0472,0.814,149.799,4,231240,"Unapologetic B****","E","major","E major",1
+"474","Madonna","Rebel Heart","4s4KPkM6sN6Ecb2bFz1Ydl","2015-03-10",0.794,0.617,7,-4.32,1,0.0764,0.0462,0.00389,0.165,0.418,134.909,4,224613,"Illuminati","G","major","G major",0
+"475","Madonna","Rebel Heart","3Ik6ZVvOgr2Pu5cnI8Gsu0","2015-03-10",0.733,0.612,3,-5.777,0,0.109,0.0478,0.000784,0.161,0.553,149.999,4,228853,"B**** I'm Madonna","D#","minor","D# minor",9
+"476","Madonna","Rebel Heart","3mi3SA2chuSjNi7GdEJLlj","2015-03-10",0.416,0.74,6,-6.518,0,0.0634,0.00403,0.0215,0.454,0.299,95.048,4,218920,"Hold Tight","F#","minor","F# minor",0
+"477","Madonna","Rebel Heart","5aW2WZbmZet2MZLnt2bAoa","2015-03-10",0.741,0.587,8,-7.523,0,0.0372,0.228,2.89e-06,0.115,0.375,122,4,242266,"Joan Of Arc","G#","minor","G# minor",0
+"478","Madonna","Rebel Heart","0FKcQHzXgVjr0bEqMLr9Uj","2015-03-10",0.622,0.827,0,-4.96,0,0.0699,0.00756,9.98e-05,0.675,0.335,127.945,4,274586,"Iconic","C","minor","C minor",1
+"479","Madonna","Rebel Heart","60TRi7A5ma1o0om53EU1Ql","2015-03-10",0.624,0.549,7,-7.549,0,0.0306,0.361,0.000526,0.114,0.276,92.983,4,213760,"HeartBreakCity","G","minor","G minor",1
+"480","Madonna","Rebel Heart","1zX6QGmpOn9eCfwl9zWs1u","2015-03-10",0.786,0.493,0,-7.422,1,0.0609,0.574,0.000699,0.101,0.678,139.886,4,219480,"Body Shop","C","major","C major",1
+"481","Madonna","Rebel Heart","3qpsyOxw4s6Gqp8AfA6DUF","2015-03-10",0.955,0.586,1,-9.375,1,0.152,0.0155,0.0113,0.0784,0.164,120.047,4,249173,"Holy Water","C#","major","C# major",1
+"482","Madonna","Rebel Heart","2BsBHqj53BWA3rJT4AVtah","2015-03-10",0.624,0.581,8,-6.825,1,0.117,0.296,0.000114,0.117,0.354,163.881,4,264466,"Inside Out","G#","major","G# major",1
+"483","Madonna","Rebel Heart","7nkRfBjbHx3A53kip8ulbd","2015-03-10",0.432,0.405,7,-9.696,0,0.0414,0.165,0.000251,0.111,0.0634,122.781,4,242933,"Wash All Over Me","G","minor","G minor",0
+"484","Madonna","MDNA World Tour","1pG9UBPDateu64y8lfHSOk","2013-01-01",0.0928,0.781,8,-7.94,1,0.127,0.0388,0.167,0.868,0.144,88.127,3,346160,"Virgin Mary (Intro) - MDNA World Tour / Live 2012","G#","major","G# major",28
+"485","Madonna","MDNA World Tour","4ZjBIJjpB109HyOwS6Wkqf","2013-01-01",0.644,0.934,8,-3.863,0,0.101,0.00558,5.81e-05,0.485,0.37,132.006,4,237733,"Girl Gone Wild - MDNA World Tour / Live 2012","G#","minor","G# minor",35
+"486","Madonna","MDNA World Tour","7cRFpfwBPqKDdS6XmISqrL","2013-01-01",0.676,0.906,10,-3.668,0,0.0733,0.0144,0.00593,0.371,0.379,125.989,4,232040,"Revolver - MDNA World Tour / Live 2012","A#","minor","A# minor",31
+"487","Madonna","MDNA World Tour","0UzNVHE1a4zbpUfkKGAb5C","2013-01-01",0.563,0.97,10,-4.583,0,0.151,0.000947,0.0493,0.736,0.205,126.98,4,354400,"Gang Bang - MDNA World Tour / Live 2012","A#","minor","A# minor",29
+"488","Madonna","MDNA World Tour","3Xxruj2p3PpAJRBSeZRsmg","2013-01-01",0.501,0.939,5,-3.512,0,0.0752,0.07,9.83e-05,0.842,0.511,121.866,4,110066,"Papa Don't Preach - MDNA World Tour / Live 2012","F","minor","F minor",32
+"489","Madonna","MDNA World Tour","7ah2B8CWALVC8ZZW9Bt5wI","2013-01-01",0.605,0.875,2,-4.998,1,0.0673,0.00114,0.00387,0.809,0.186,124.952,4,227533,"Hung Up - MDNA World Tour / Live 2012","D","major","D major",33
+"490","Madonna","MDNA World Tour","1A0NoP9vSjocL2xvVNeRlC","2013-01-01",0.602,0.944,2,-4.703,1,0.0393,0.065,0.00041,0.368,0.28,97.009,4,327613,"I Don't Give A - MDNA World Tour / Live 2012","D","major","D major",29
+"491","Madonna","MDNA World Tour","1dwXnWJ6cexA4soLB0rbAP","2013-01-01",0.568,0.771,5,-9.338,1,0.0427,0.000512,0.0777,0.976,0.174,144.012,4,199573,"Best Friend (Video Interlude) - MDNA World Tour / Live 2012","F","major","F major",25
+"492","Madonna","MDNA World Tour","06eCNF0leXbSBt8VRYIRBG","2013-01-01",0.669,0.985,11,-3.642,1,0.0762,0.00783,0.0571,0.414,0.477,115.261,4,246013,"Express Yourself - MDNA World Tour / Live 2012","B","major","B major",33
+"493","Madonna","MDNA World Tour","2IisY5xkTyYYJsZeMqYBCi","2013-01-01",0.439,0.983,1,-4.761,1,0.171,0.00152,0.628,0.916,0.0766,129.051,4,251693,"Give Me All Your Luvin' - MDNA World Tour / Live 2012","C#","major","C# major",30
+"494","Madonna","MDNA World Tour","5AHYLeqV4QD8Rz9mr2lhW1","2013-01-01",0.511,0.892,7,-3.938,1,0.0685,0.0608,0,0.846,0.387,126.894,4,238293,"Turn Up The Radio - MDNA World Tour / Live 2012","G","major","G major",28
+"495","Madonna","MDNA World Tour","3R4gG3tZqKeXBgy1sXpaa4","2013-01-01",0.25,0.965,7,-5.606,1,0.368,0.0542,7.28e-06,0.982,0.0564,81.339,3,531906,"Open Your Heart - MDNA World Tour / Live 2012","G","major","G major",28
+"496","Madonna","MDNA World Tour","0z4cPv7sqfuA2kUyhW9X4i","2013-01-01",0.337,0.716,2,-5.504,0,0.0431,0.0166,4.62e-05,0.578,0.267,115.152,5,272093,"Masterpiece - MDNA World Tour / Live 2012","D","minor","D minor",27
+"497","Madonna","MDNA World Tour","4bBv0T7T4JVFRufmcXyY0X","2013-01-01",0.456,0.674,2,-9.416,1,0.0891,0.013,0.168,0.407,0.152,102.066,4,214400,"Justify My Love (Video Interlude) - MDNA World Tour / Live 2012","D","major","D major",28
+"498","Madonna","MDNA World Tour","4A6LUIzDhbu3A01agDT1yz","2013-01-01",0.639,0.879,5,-4.584,0,0.0303,3e-04,0.109,0.195,0.101,116.155,4,248440,"Vogue - MDNA World Tour / Live 2012","F","minor","F minor",45
+"499","Madonna","MDNA World Tour","7KW26bM0koukpjW4zoy2zj","2013-01-01",0.696,0.859,1,-5.465,1,0.0493,0.000345,0.0643,0.446,0.352,115.936,4,280813,"Erotic Candy Shop - MDNA World Tour / Live 2012","C#","major","C# major",30
+"500","Madonna","MDNA World Tour","4an9QEvC619HCcNfJnucjd","2013-01-01",0.525,0.916,6,-4.414,1,0.0807,0.0154,0.000516,0.642,0.511,95.804,4,248906,"Human Nature - MDNA World Tour / Live 2012","F#","major","F# major",28
+"501","Madonna","MDNA World Tour","1xntxxZlzSikJmTGjEXyrA","2013-01-01",0.186,0.47,6,-14.755,1,0.0571,0.418,0.00151,0.413,0.0894,130.21,3,315413,"Like A Virgin Waltz - MDNA World Tour / Live 2012","F#","major","F# major",25
+"502","Madonna","MDNA World Tour","6X5Ex9NRygwxPUzSY2sMwj","2013-01-01",0.206,0.42,8,-7.835,1,0.0357,0.439,0,0.699,0.0424,137.647,4,287613,"Love Spent - MDNA World Tour / Live 2012","G#","major","G# major",26
+"503","Madonna","MDNA World Tour","26bB4naFdbeXdsZUZ5KRFD","2013-01-01",0.692,0.853,4,-10.39,0,0.132,0.0134,0.000719,0.583,0.0393,109.998,4,216360,"Nobody Knows Me (Video Interlude) - MDNA World Tour / Live 2012","E","minor","E minor",25
+"504","Madonna","MDNA World Tour","31nEt3RdA0tmghxcJH5Ejj","2013-01-01",0.6,0.949,9,-4.609,1,0.143,0.0429,4.99e-05,0.44,0.213,125.982,4,282173,"I'm Addicted - MDNA World Tour / Live 2012","A","major","A major",25
+"505","Madonna","MDNA World Tour","6fzZOQ8BJDlll55QVeyuPt","2013-01-01",0.52,0.948,4,-2.689,1,0.0965,0.0333,0,0.534,0.162,126.493,4,405013,"I’m A Sinner - MDNA World Tour / Live 2012","E","major","E major",25
+"506","Madonna","MDNA World Tour","2zGNakc2L7zlv6XfypLIV2","2013-01-01",0.555,0.955,5,-3.251,1,0.144,0.078,0,0.595,0.199,114.534,4,370106,"Like A Prayer - MDNA World Tour / Live 2012","F","major","F major",30
+"507","Madonna","MDNA World Tour","2orzFvcBf6BFeabN0lTO59","2013-01-01",0.528,0.944,11,-5.027,0,0.111,0.000891,0.0287,0.308,0.222,128.968,4,444546,"Celebration - MDNA World Tour / Live 2012","B","minor","B minor",31
+"508","Madonna","MDNA","3ZfMci7n6qk9nRodX8BfIb","2012-01-01",0.697,0.598,8,-5.883,0,0.0708,0.0331,5.98e-06,0.318,0.606,131.967,4,223066,"Girl Gone Wild","G#","minor","G# minor",57
+"509","Madonna","MDNA","2ySP177IDeiXXOy92Gad9s","2012-01-01",0.822,0.712,10,-8.84,0,0.0823,0.00456,0.43,0.071,0.276,127.007,4,326040,"Gang Bang","A#","minor","A# minor",37
+"510","Madonna","MDNA","44F7nnhln1voGnFCFvgsu6","2012-01-01",0.655,0.725,11,-4.979,0,0.127,0.146,0.000286,0.125,0.506,125.973,4,273506,"I’m Addicted","B","minor","B minor",34
+"511","Madonna","MDNA","6yU21STDpGewJKx3Bf8Iqb","2012-01-01",0.694,0.6,7,-6.36,1,0.0369,0.0036,0,0.328,0.392,126.963,4,226560,"Turn Up the Radio","G","major","G major",36
+"512","Madonna","MDNA","0QXtw4rDLQtpzqPS4uJbZJ","2012-01-01",0.68,0.885,11,-4.345,1,0.0382,0.00563,0.000756,0.379,0.877,144.998,4,202760,"Give Me All Your Luvin'","B","major","B major",52
+"513","Madonna","MDNA","4nwZBcYdZRXjZsUFOo6yKr","2012-01-01",0.678,0.83,0,-6.495,0,0.0403,0.00181,0.108,0.21,0.669,119.923,4,233720,"Some Girls","C","minor","C minor",30
+"514","Madonna","MDNA","05DgCyE2wqUxo2YbjidokR","2012-01-01",0.689,0.932,11,-6.446,1,0.0314,0.000474,5.1e-05,0.191,0.871,125.006,4,235013,"Superstar","B","major","B major",28
+"515","Madonna","MDNA","5YY7eaFagjpSpLBdJMd0oo","2012-01-01",0.826,0.769,7,-6.908,1,0.137,0.0765,3.46e-06,0.0842,0.836,96.975,4,259173,"I Don’t Give A","G","major","G major",34
+"516","Madonna","MDNA","421fseScaKfiYHI5FebiGZ","2012-01-01",0.715,0.898,0,-4.162,1,0.0539,0.0682,0.000116,0.0682,0.421,126.49,4,292373,"I’m A Sinner","C","major","C major",28
+"517","Madonna","MDNA","2XgQ6j5jDxf8bQ3hFrIJU5","2012-01-01",0.705,0.716,5,-6.819,1,0.0279,0.000315,0.0105,0.0771,0.367,125.009,4,225240,"Love Spent","F","major","F major",31
+"518","Madonna","MDNA","15s020BUq1jO7wIxtfKuOu","2012-01-01",0.533,0.58,6,-7.008,1,0.0542,0.0023,0.0181,0.12,0.374,173.988,4,238373,"Masterpiece","F#","major","F# major",42
+"519","Madonna","MDNA","36gVA7SS0JkBvaMQmAjQO7","2012-01-01",0.365,0.181,9,-11.142,1,0.0326,0.927,4.66e-05,0.158,0.195,110.109,4,313053,"Falling Free","A","major","A major",29
+"520","Madonna","MDNA","1GarUQ75ASh3jcrdSUYQnK","2012-01-01",0.741,0.788,0,-5.372,0,0.0262,0.0224,6.75e-05,0.321,0.802,127.98,4,228440,"Beautiful Killer","C","minor","C minor",33
+"521","Madonna","MDNA","4pd327p2fRrIWgNoOcKAgs","2012-01-01",0.725,0.583,11,-5.856,1,0.039,0.0257,0,0.0805,0.698,149.912,4,208160,"I Fucked Up","B","major","B major",26
+"522","Madonna","MDNA","5qlgE1o7pniS4d1g61dL1C","2012-01-01",0.775,0.739,4,-5.255,1,0.0316,0.0122,0.000618,0.492,0.787,140.034,4,213693,"B-Day Song","E","major","E major",40
+"523","Madonna","MDNA","1RAVLXHQmJ7YLyfgpKLKaF","2012-01-01",0.693,0.457,11,-6.676,0,0.0594,0.00166,1.93e-05,0.0325,0.572,144.023,4,199466,"Best Friend","B","minor","B minor",27
+"524","Madonna","MDNA","2Jw3pQTzrbBItF1iFgc1fC","2012-01-01",0.644,0.747,11,-5.663,1,0.057,0.0238,3.76e-06,0.339,0.678,131.02,4,240786,"Give Me All Your Luvin' - Party Rock Remix","B","major","B major",37
+"525","Madonna","MDNA","6zjzJ4VzYnPWBS2TOqks8W","2012-01-01",0.629,0.858,1,-4.159,1,0.0769,0.000125,0.81,0.111,0.446,129.992,4,411786,"Girl Gone Wild - Dave Audé Wild DUB","C#","major","C# major",21
+"526","Madonna","MDNA","3hrYE3ze2QSZPGIdevIhYM","2012-01-01",0.696,0.598,8,-5.883,0,0.0712,0.0331,6.61e-06,0.319,0.6,131.957,4,223066,"Girl Gone Wild","G#","minor","G# minor",20
+"527","Madonna","MDNA","6L3ysgWcEm9k3K5HPSwMCx","2012-01-01",0.822,0.712,10,-8.838,0,0.0816,0.00452,0.446,0.071,0.279,127.006,4,326040,"Gang Bang","A#","minor","A# minor",12
+"528","Madonna","MDNA","4WFrS1qZGfBHsDgy5ZD5RU","2012-01-01",0.655,0.725,11,-4.982,0,0.128,0.146,0.000275,0.125,0.505,125.974,4,273506,"I’m Addicted","B","minor","B minor",12
+"529","Madonna","MDNA","4RaOwrWtPqQOPi6EUPMVvn","2012-01-01",0.694,0.598,7,-6.358,1,0.0365,0.00382,0,0.328,0.394,126.966,4,226560,"Turn Up the Radio","G","major","G major",18
+"530","Madonna","MDNA","2woCC5hiuPTDAonxhEojP0","2012-01-01",0.68,0.885,11,-4.36,1,0.0382,0.00557,0.000704,0.377,0.879,144.998,4,202760,"Give Me All Your Luvin'","B","major","B major",43
+"531","Madonna","MDNA","6hXrrWfU5pTvNmeB72GLUn","2012-01-01",0.678,0.83,0,-6.504,0,0.0404,0.00186,0.109,0.207,0.675,119.918,4,233720,"Some Girls","C","minor","C minor",9
+"532","Madonna","MDNA","3HTDSsTlgvZoGQZDSqqQrH","2012-01-01",0.688,0.932,11,-6.446,1,0.0314,0.000479,4.38e-05,0.193,0.873,124.99,4,235013,"Superstar","B","major","B major",7
+"533","Madonna","MDNA","7IqChD8VN9oB0qreAZtNtF","2012-01-01",0.825,0.768,7,-6.907,1,0.136,0.0784,3.27e-06,0.0895,0.838,96.974,4,259173,"I Don’t Give A","G","major","G major",10
+"534","Madonna","MDNA","7loR0AkPUhMjLNjRkyCUfs","2012-01-01",0.716,0.898,0,-4.162,1,0.0532,0.0671,0.000101,0.0653,0.423,126.492,4,292400,"I’m A Sinner","C","major","C major",8
+"535","Madonna","MDNA","3jN9hMYgpBPr9QsnlKuCwK","2012-01-01",0.702,0.695,5,-6.794,1,0.0283,0.000332,0.0137,0.0752,0.382,124.995,4,225213,"Love Spent","F","major","F major",10
+"536","Madonna","MDNA","1XGR118wtgu6XCNPYCzxRZ","2012-01-01",0.535,0.58,6,-7.009,1,0.0543,0.00229,0.0177,0.12,0.377,173.946,4,238373,"Masterpiece","F#","major","F# major",13
+"537","Madonna","MDNA","4AwBeCvn3gcqW06fxRyExZ","2012-01-01",0.268,0.182,9,-11.159,1,0.0363,0.925,4.93e-05,0.156,0.193,73.611,5,313400,"Falling Free","A","major","A major",8
+"538","Madonna","MDNA","6ZrnGcHvanppfbRX1rqEi0","2012-01-01",0.696,0.598,8,-5.883,0,0.0712,0.0331,6.61e-06,0.319,0.6,131.957,4,223066,"Girl Gone Wild","G#","minor","G# minor",0
+"539","Madonna","MDNA","3VpzMLVp31XwjK3mtFYgCN","2012-01-01",0.822,0.712,10,-8.838,0,0.0816,0.00452,0.446,0.071,0.279,127.006,4,326040,"Gang Bang","A#","minor","A# minor",0
+"540","Madonna","MDNA","3B5BxanIAxyppC7tK9IzFa","2012-01-01",0.655,0.725,11,-4.982,0,0.128,0.146,0.000275,0.125,0.505,125.974,4,273506,"I’m Addicted","B","minor","B minor",0
+"541","Madonna","MDNA","3uPlbPcyYD9o9hsRqGiBUu","2012-01-01",0.694,0.598,7,-6.358,1,0.0365,0.00382,0,0.328,0.394,126.966,4,226560,"Turn Up the Radio","G","major","G major",0
+"542","Madonna","MDNA","0TVWXGEd81HjPK4ZgP2Kv9","2012-01-01",0.68,0.885,11,-4.36,1,0.0382,0.00557,0.000704,0.377,0.879,144.998,4,202760,"Give Me All Your Luvin'","B","major","B major",0
+"543","Madonna","MDNA","75olfuXZULnI6kuM4urEOe","2012-01-01",0.678,0.83,0,-6.504,0,0.0404,0.00186,0.109,0.207,0.675,119.918,4,233720,"Some Girls","C","minor","C minor",0
+"544","Madonna","MDNA","3dzTEjC6msrCPrMXZQGTcb","2012-01-01",0.688,0.932,11,-6.446,1,0.0314,0.000479,4.38e-05,0.193,0.873,124.99,4,235013,"Superstar","B","major","B major",0
+"545","Madonna","MDNA","1e27liQeYwooUQq6qjjYfP","2012-01-01",0.825,0.768,7,-6.907,1,0.136,0.0784,3.27e-06,0.0895,0.838,96.974,4,259173,"I Don’t Give A","G","major","G major",0
+"546","Madonna","MDNA","6nwEDhaoopDYnmbgBE99j1","2012-01-01",0.716,0.898,0,-4.162,1,0.0532,0.0671,0.000101,0.0653,0.423,126.492,4,292386,"I’m A Sinner","C","major","C major",0
+"547","Madonna","MDNA","5tW9uPjzxpqasNYUNIm46p","2012-01-01",0.705,0.721,5,-6.824,1,0.028,0.000262,0.0155,0.0808,0.404,125.02,4,225226,"Love Spent","F","major","F major",0
+"548","Madonna","MDNA","4WvscU4J75AckTDnket9vR","2012-01-01",0.535,0.58,6,-7.009,1,0.0543,0.00229,0.0177,0.12,0.377,173.946,4,238373,"Masterpiece","F#","major","F# major",0
+"549","Madonna","MDNA","5ij0CiQBiCNXytfKtFGHcx","2012-01-01",0.268,0.182,9,-11.159,1,0.0363,0.925,4.93e-05,0.156,0.193,73.611,5,313400,"Falling Free","A","major","A major",0
+"550","Madonna","MDNA","0kQwHCkGgGtP7kAjpgI565","2012-01-01",0.696,0.598,8,-5.883,0,0.0712,0.0331,6.61e-06,0.319,0.6,131.957,4,223200,"Girl Gone Wild","G#","minor","G# minor",0
+"551","Madonna","MDNA","0bVYySos3B5P9QfllGmunr","2012-01-01",0.656,0.729,11,-4.991,0,0.116,0.151,0.000397,0.127,0.555,125.96,4,273400,"I’m Addicted","B","minor","B minor",0
+"552","Madonna","MDNA","09JyHbwkBE7HwnkcjDEiFe","2012-01-01",0.692,0.614,7,-6.322,1,0.0355,0.0049,0,0.394,0.382,126.957,4,226560,"Turn Up the Radio","G","major","G major",0
+"553","Madonna","MDNA","6WBSnfoE2VFZUds7JN5y0C","2012-01-01",0.679,0.896,11,-4.287,1,0.0387,0.00584,0.000285,0.384,0.881,144.935,4,202760,"Give Me All Your Luvin' - Radio Edit","B","major","B major",0
+"554","Madonna","MDNA","4xtYMWc7iP51LgZK9Y120r","2012-01-01",0.69,0.827,0,-6.504,0,0.0403,0.00184,0.111,0.132,0.664,119.963,4,233733,"Some Girls","C","minor","C minor",0
+"555","Madonna","MDNA","6Fqr7BkYuCqQd93oq2cVLf","2012-01-01",0.687,0.928,11,-6.457,1,0.0316,0.000442,3.96e-05,0.177,0.866,125.009,4,235000,"Superstar","B","major","B major",0
+"556","Madonna","MDNA","5r8KQ3sCPcylYmkV2EpGPP","2012-01-01",0.826,0.786,7,-6.945,1,0.134,0.0807,2.83e-06,0.0957,0.85,96.972,4,259173,"I Don’t Give A","G","major","G major",0
+"557","Madonna","MDNA","0dAF0RIhPyqZ7cTj2mcXj9","2012-01-01",0.716,0.897,5,-4.16,1,0.0523,0.0698,7.43e-05,0.0649,0.397,126.511,4,292400,"I’m A Sinner","F","major","F major",0
+"558","Madonna","MDNA","2HRScgyAfDwTokQnFyBxmO","2012-01-01",0.706,0.725,5,-6.839,1,0.0276,0.000336,0.0218,0.0704,0.386,125.02,4,225226,"Love Spent","F","major","F major",0
+"559","Madonna","MDNA","5vabc4hYchYY4Ui1RO8Cc4","2012-01-01",0.547,0.573,6,-6.967,1,0.054,0.00197,0.0258,0.108,0.388,173.904,4,238373,"Masterpiece","F#","major","F# major",0
+"560","Madonna","MDNA","2YvzG9KkDqRMnif8uxNIbu","2012-01-01",0.366,0.183,9,-11.127,1,0.033,0.929,3.93e-05,0.141,0.185,110.058,4,313400,"Falling Free","A","major","A major",0
+"561","Madonna","MDNA","4eDBJh9lQQOHQF70HrHeLZ","2012-01-01",0.696,0.598,8,-5.883,0,0.0712,0.0331,6.61e-06,0.319,0.6,131.957,4,223200,"Girl Gone Wild","G#","minor","G# minor",20
+"562","Madonna","MDNA","1IJ29iimFAl2ZUaTvUHZr0","2012-01-01",0.656,0.729,11,-4.991,0,0.116,0.151,0.000397,0.127,0.555,125.96,4,273400,"I’m Addicted","B","minor","B minor",2
+"563","Madonna","MDNA","7z9PEw4m17ygdd3MT4M3O3","2012-01-01",0.692,0.614,7,-6.322,1,0.0355,0.0049,0,0.394,0.382,126.957,4,226560,"Turn Up the Radio","G","major","G major",6
+"564","Madonna","MDNA","3YyuRlTveNTC32fnID0XW9","2012-01-01",0.679,0.896,11,-4.287,1,0.0387,0.00584,0.000285,0.384,0.881,144.935,4,202760,"Give Me All Your Luvin' - Radio Edit","B","major","B major",14
+"565","Madonna","MDNA","6c8Pmf3I1Ly6vWRdx2nQ0F","2012-01-01",0.69,0.827,0,-6.504,0,0.0403,0.00184,0.111,0.132,0.664,119.963,4,233733,"Some Girls","C","minor","C minor",1
+"566","Madonna","MDNA","1wRtC6VZAACYkaKAAV35Et","2012-01-01",0.687,0.928,11,-6.457,1,0.0316,0.000442,3.96e-05,0.177,0.866,125.009,4,235000,"Superstar","B","major","B major",1
+"567","Madonna","MDNA","29KBw2Hms5ffaP3whkTV67","2012-01-01",0.826,0.786,7,-6.945,1,0.134,0.0807,2.83e-06,0.0957,0.85,96.972,4,259173,"I Don’t Give A","G","major","G major",4
+"568","Madonna","MDNA","1AaHDQepZ0e2c76zoMKYIN","2012-01-01",0.716,0.897,5,-4.16,1,0.0523,0.0698,7.43e-05,0.0649,0.397,126.511,4,292400,"I’m A Sinner","F","major","F major",2
+"569","Madonna","MDNA","2XNQ7MWyM5TkyNJiEEn95r","2012-01-01",0.706,0.725,5,-6.839,1,0.0276,0.000336,0.0218,0.0704,0.386,125.02,4,225226,"Love Spent","F","major","F major",2
+"570","Madonna","MDNA","6OapSDqTab2LNpfktL6wUn","2012-01-01",0.547,0.573,6,-6.967,1,0.054,0.00197,0.0258,0.108,0.388,173.904,4,238373,"Masterpiece","F#","major","F# major",5
+"571","Madonna","MDNA","3faJ3tNeQVLVn7SwnCO3Go","2012-01-01",0.366,0.183,9,-11.127,1,0.033,0.929,3.93e-05,0.141,0.185,110.058,4,313400,"Falling Free","A","major","A major",1
+"572","Madonna","MDNA","3Quj5eU1gZ76zq8bdl715y","2012-01-01",0.543,0.908,8,-1.107,0,0.232,0.0161,3.62e-06,0.907,0.311,130.09,4,288413,"Give Me All Your Luvin' - Oliver Twizt Remix","G#","minor","G# minor",1
+"573","Madonna","MDNA","4J6NshiTS33QfkroLvlovp","2012-01-01",0.637,0.856,11,-5.415,1,0.0578,0.000619,0.42,0.492,0.482,129.988,4,359186,"Give Me All Your Luvin' - Sultan + Ned Shepard Remix","B","major","B major",2
+"574","Madonna","MDNA","0WyB8NiIQQY5XkliUo6Oqi","2012-01-01",0.738,0.611,1,-5.761,1,0.065,0.00985,0.0498,0.0956,0.519,144.993,4,421693,"Give Me All Your Luvin' - Demolition Crew Remix","C#","major","C# major",1
+"575","Madonna","MDNA","1DydQpdVConx752WbgLJ70","2012-01-01",0.536,0.621,3,-6.407,0,0.138,0.0104,3.39e-06,0.0404,0.299,173.834,4,237106,"Masterpiece - Kid Capri's Remix","D#","minor","D# minor",2
+"576","Madonna","MDNA","5mvnf0vDtpSJtEd456b8pB","2012-01-01",0.766,0.981,7,-4.058,1,0.039,0.0398,0.302,0.0854,0.958,127.014,4,442720,"Turn Up The Radio - Leo Zero Remix","G","major","G major",2
+"577","Madonna","MDNA","2AshG9tusArgmkvEYlsoXn","2012-01-01",0.692,0.577,9,-5.145,0,0.0305,0.000683,0.047,0.0826,0.257,128.011,4,375893,"Turn Up The Radio - Richard Vission Speakers Blow Remix","A","minor","A minor",1
+"578","Madonna","MDNA","3r6XmXxMdZ9w8teZgrKDEp","2012-01-01",0.738,0.916,7,-4.341,1,0.156,0.0338,0.12,0.218,0.382,127.006,4,348026,"Turn Up the Radio - Marco V Remix","G","major","G major",1
+"579","Madonna","Sticky & Sweet Tour","02JzqqdPnWHP3vxgbTKoC3","2010-03-30",0.72,0.849,10,-8.375,0,0.0731,0.134,0.00525,0.35,0.617,116.053,4,225933,"Candy Shop Medley - Live","A#","minor","A# minor",32
+"580","Madonna","Sticky & Sweet Tour","1F11PRQrjuqIVs88kagLbE","2010-03-30",0.721,0.807,6,-4.08,0,0.0391,0.15,1.6e-05,0.825,0.634,118.019,4,264933,"Beat Goes on Medley (feat. Kanye West) - Live","F#","minor","F# minor",32
+"581","Madonna","Sticky & Sweet Tour","5DjLWlDqO0RpKOSweCJydP","2010-03-30",0.724,0.936,11,-4.78,1,0.0781,0.144,1.36e-05,0.923,0.471,104.036,4,232640,"Human Nature - Live","B","major","B major",30
+"582","Madonna","Sticky & Sweet Tour","6yJax1GLcg9KVdN750Bu9Y","2010-03-30",0.761,0.927,7,-5.559,1,0.0642,0.0189,0.763,0.357,0.442,116.17,4,269463,"Vogue 2008 - Live","G","major","G major",36
+"583","Madonna","Sticky & Sweet Tour","1W3cun9PuoFXeeEVk7qQxp","2010-03-30",0.513,0.961,2,-3.586,1,0.0382,0.00219,2.11e-05,0.718,0.397,124.886,4,225998,"Borderline - Live","D","major","D major",28
+"584","Madonna","Sticky & Sweet Tour","5wQouLtW029CD4Ik5hfHCt","2010-03-30",0.665,0.804,11,-4.154,0,0.0445,0.0357,0.0057,0.377,0.388,119.973,4,278000,"She's Not Me - Live","B","minor","B minor",31
+"585","Madonna","Sticky & Sweet Tour","40Iip1SYAwFtFrzUllapMT","2010-03-30",0.613,0.967,7,-4.23,1,0.212,0.00792,0.0215,0.497,0.168,127.985,4,310693,"Music 2008 - Live","G","major","G major",30
+"586","Madonna","Sticky & Sweet Tour","2I0p5UauwtZvlNW3DwdFEl","2010-03-30",0.477,0.943,6,-5.068,0,0.0909,0.172,0.0635,0.706,0.368,73.493,4,342586,"Devil Wouldn't Recognize You - Live","F#","minor","F# minor",28
+"587","Madonna","Sticky & Sweet Tour","2zM8s3HAYboGE6saIgdVja","2010-03-30",0.762,0.813,4,-6.193,1,0.0504,0.0943,0.00412,0.324,0.351,120.009,4,232257,"Spanish Lesson - Live","E","major","E major",25
+"588","Madonna","Sticky & Sweet Tour","2BZq0XRCqE7luiGzq2zk2y","2010-03-30",0.652,0.913,9,-4.806,0,0.0516,0.0443,1.33e-06,0.63,0.576,116.059,4,289215,"Miles Away - Live","A","minor","A minor",30
+"589","Madonna","Sticky & Sweet Tour","71oabI5oqBGcYrZpwZMxyM","2010-03-30",0.656,0.96,2,-3.893,1,0.0929,0.108,1.8e-05,0.846,0.422,125.014,4,334532,"La Isla Bonita 2008 - Live","D","major","D major",0
+"590","Madonna","Sticky & Sweet Tour","0pcYS9QdaxRVIgK2bEjP57","2010-03-30",0.182,0.451,8,-8.707,1,0.0511,0.818,5.21e-06,0.959,0.17,168.095,4,224800,"You Must Love Me - Live","G#","major","G# major",24
+"591","Madonna","Sticky & Sweet Tour","03VFbIwt8OAaGe0w0Nwizl","2010-03-30",0.672,0.871,11,-7.238,1,0.0644,0.00217,0.00593,0.966,0.219,105.036,4,184266,"Get Stupid Medley - Live","B","major","B major",0
+"592","Madonna","Sticky & Sweet Tour","2Bwa5wK5Lyh3fSENOK13kE","2010-03-30",0.702,0.914,7,-5.707,1,0.0453,0.017,0.11,0.647,0.409,113.012,4,280106,"4 Minutes (feat. Justin Timberlake and Timbaland) - Live","G","major","G major",30
+"593","Madonna","Sticky & Sweet Tour","6SDFFZMHmfpA2Vwjl2dv3H","2010-03-30",0.568,0.958,0,-3.978,1,0.123,0.198,0,0.836,0.134,128.001,4,348826,"Like a Prayer 2008 - Live","C","major","C major",30
+"594","Madonna","Sticky & Sweet Tour","7EF8Q9ClQoWi2z1O0GEd1i","2010-03-30",0.451,0.964,0,-3.244,1,0.0548,0.000711,0.000695,0.689,0.233,127.491,4,293560,"Ray of Light - Live","C","major","C major",25
+"595","Madonna","Sticky & Sweet Tour","4u1SSOrlA8qS5kw8Gepv9W","2010-03-30",0.686,0.967,6,-4.016,0,0.132,0.00434,0.628,0.82,0.307,127.016,4,499986,"Give It 2 Me - Live","F#","minor","F# minor",30
+"596","Madonna","Sticky & Sweet Tour","0G8bHoPDQitGhoAHoqcmX4","2010-03-30",0.72,0.849,10,-8.375,0,0.0731,0.134,0.00525,0.35,0.617,116.053,4,225933,"Candy Shop Medley - Live","A#","minor","A# minor",5
+"597","Madonna","Sticky & Sweet Tour","4wpZWdaTtPy7yLHhg1acdt","2010-03-30",0.721,0.807,6,-4.08,0,0.0391,0.15,1.6e-05,0.825,0.634,118.019,4,264933,"Beat Goes on Medley (feat. Kanye West) - Live","F#","minor","F# minor",6
+"598","Madonna","Sticky & Sweet Tour","0Q8lxfyMnPXEwHc8WDz8Q6","2010-03-30",0.724,0.936,11,-4.78,1,0.0781,0.144,1.36e-05,0.923,0.471,104.036,4,232640,"Human Nature - Live","B","major","B major",5
+"599","Madonna","Sticky & Sweet Tour","3cJ8kBBjUkYqa98JNULFOo","2010-03-30",0.743,0.944,7,-5.702,1,0.0748,0.0181,0.821,0.393,0.34,116.177,4,287760,"Vogue 2008 - Live","G","major","G major",7
+"600","Madonna","Sticky & Sweet Tour","3F9ih9TaNrWeTHsb6bSOdc","2010-03-30",0.712,0.924,0,-5.656,1,0.0595,0.0669,0.000701,0.414,0.546,117.948,4,243600,"Heartbeat - Live","C","major","C major",4
+"601","Madonna","Sticky & Sweet Tour","7wZNMfE079FOJCULKwcL4t","2010-03-30",0.517,0.959,2,-3.554,1,0.038,0.00197,4.79e-05,0.796,0.377,124.896,4,226600,"Borderline - Live","D","major","D major",3
+"602","Madonna","Sticky & Sweet Tour","7o4f26jCkFS4xrDeX4dmbG","2010-03-30",0.665,0.804,11,-4.154,0,0.0445,0.0357,0.0057,0.377,0.388,119.973,4,278000,"She's Not Me - Live","B","minor","B minor",4
+"603","Madonna","Sticky & Sweet Tour","0WcAFtxVH8qUSBUO2hJMZ7","2010-03-30",0.613,0.967,7,-4.23,1,0.212,0.00792,0.0215,0.497,0.168,127.985,4,310693,"Music 2008 - Live","G","major","G major",4
+"604","Madonna","Sticky & Sweet Tour","08jnS361KEZxWfujGUvWbF","2010-03-30",0.477,0.943,6,-5.068,0,0.0909,0.172,0.0635,0.706,0.368,73.493,4,342586,"Devil Wouldn't Recognize You - Live","F#","minor","F# minor",3
+"605","Madonna","Sticky & Sweet Tour","5esVoZHhfVR4lN6VA4Pb65","2010-03-30",0.767,0.816,4,-6.174,1,0.0537,0.071,0.0076,0.335,0.345,119.984,4,232240,"Spanish Lesson - Live","E","major","E major",3
+"606","Madonna","Sticky & Sweet Tour","3gv3HRUqds6toKolv78Ssb","2010-03-30",0.654,0.963,2,-3.913,1,0.09,0.113,2.04e-05,0.902,0.451,125.004,4,334546,"La Isla Bonita 2008 - Live","D","major","D major",0
+"607","Madonna","Sticky & Sweet Tour","44rRyqrriptluEjihd6Nxy","2010-03-30",0.182,0.451,8,-8.707,1,0.0511,0.818,5.21e-06,0.959,0.17,168.095,4,224800,"You Must Love Me - Live","G#","major","G# major",3
+"608","Madonna","Sticky & Sweet Tour","1dbFuTAZQvfraeTH9zzlG6","2010-03-30",0.672,0.871,11,-7.238,1,0.0644,0.00217,0.00593,0.966,0.219,105.036,4,184266,"Get Stupid Medley - Live","B","major","B major",0
+"609","Madonna","Sticky & Sweet Tour","3wXLLW3T33zHD39fPLLEgC","2010-03-30",0.702,0.914,7,-5.707,1,0.0453,0.017,0.11,0.647,0.409,113.012,4,280106,"4 Minutes (feat. Justin Timberlake and Timbaland) - Live","G","major","G major",6
+"610","Madonna","Sticky & Sweet Tour","0BXkmYA6Q6lYgYilnbKrYO","2010-03-30",0.568,0.958,0,-3.978,1,0.123,0.198,0,0.836,0.134,128.001,4,348826,"Like a Prayer 2008 - Live","C","major","C major",5
+"611","Madonna","Sticky & Sweet Tour","33aRCqyFGHRUswCa3bqAQX","2010-03-30",0.451,0.964,0,-3.244,1,0.0548,0.000711,0.000695,0.689,0.233,127.491,4,293560,"Ray of Light - Live","C","major","C major",3
+"612","Madonna","Sticky & Sweet Tour","5HAhrcHuhgAtKvMvOjP9pe","2010-03-30",0.686,0.967,6,-4.016,0,0.132,0.00434,0.628,0.82,0.307,127.016,4,499986,"Give It 2 Me - Live","F#","minor","F# minor",5
+"613","Madonna","Sticky & Sweet Tour","6NHAl543gwMaFSZm7OKai4","2010-03-30",0.72,0.849,10,-8.375,0,0.0731,0.134,0.00525,0.35,0.617,116.053,4,225933,"Candy Shop Medley - Live","A#","minor","A# minor",19
+"614","Madonna","Sticky & Sweet Tour","3xcdOHovhFqrBdTMjLjUA7","2010-03-30",0.721,0.807,6,-4.08,0,0.0391,0.15,1.6e-05,0.825,0.634,118.019,4,264933,"Beat Goes on Medley (feat. Kanye West) - Live","F#","minor","F# minor",20
+"615","Madonna","Sticky & Sweet Tour","0xpfFospBH1zGF2QWFrrjg","2010-03-30",0.724,0.936,11,-4.78,1,0.0781,0.144,1.36e-05,0.923,0.471,104.036,4,232640,"Human Nature - Live","B","major","B major",18
+"616","Madonna","Sticky & Sweet Tour","2Rz4rXhqvlDO3wJpl4YNX8","2010-03-30",0.761,0.927,7,-5.559,1,0.0642,0.0189,0.763,0.357,0.442,116.17,4,269463,"Vogue 2008 - Live","G","major","G major",22
+"617","Madonna","Sticky & Sweet Tour","7dcE4ULv6c3nUJaBD0CIUT","2010-03-30",0.513,0.961,2,-3.586,1,0.0382,0.00219,2.11e-05,0.718,0.397,124.886,4,225998,"Borderline - Live","D","major","D major",17
+"618","Madonna","Sticky & Sweet Tour","41VrhXii98ktOtgrH0xx38","2010-03-30",0.665,0.804,11,-4.154,0,0.0445,0.0357,0.0057,0.377,0.388,119.973,4,278000,"She's Not Me - Live","B","minor","B minor",18
+"619","Madonna","Sticky & Sweet Tour","6E8bpZhT5RjC52X4LO4CVr","2010-03-30",0.613,0.967,7,-4.23,1,0.212,0.00792,0.0215,0.497,0.168,127.985,4,310693,"Music 2008 - Live","G","major","G major",18
+"620","Madonna","Sticky & Sweet Tour","62EepeXdWugOQM2P9A8vD2","2010-03-30",0.477,0.943,6,-5.068,0,0.0909,0.172,0.0635,0.706,0.368,73.493,4,342586,"Devil Wouldn't Recognize You - Live","F#","minor","F# minor",16
+"621","Madonna","Sticky & Sweet Tour","6VZYxPyYDLkhb5rghbBRPV","2010-03-30",0.762,0.813,4,-6.193,1,0.0504,0.0943,0.00412,0.324,0.351,120.009,4,232257,"Spanish Lesson - Live","E","major","E major",14
+"622","Madonna","Sticky & Sweet Tour","4BCjR52McXILu7KBkCPMJm","2010-03-30",0.656,0.96,2,-3.893,1,0.0929,0.108,1.8e-05,0.846,0.422,125.014,4,334532,"La Isla Bonita 2008 - Live","D","major","D major",0
+"623","Madonna","Sticky & Sweet Tour","31cOYBibUIE0A7U9lss52m","2010-03-30",0.182,0.451,8,-8.707,1,0.0511,0.818,5.21e-06,0.959,0.17,168.095,4,224800,"You Must Love Me - Live","G#","major","G# major",14
+"624","Madonna","Sticky & Sweet Tour","4iEc9LyDDiHN4BE9fjBzEC","2010-03-30",0.672,0.871,11,-7.238,1,0.0644,0.00217,0.00593,0.966,0.219,105.036,4,184266,"Get Stupid Medley - Live","B","major","B major",0
+"625","Madonna","Sticky & Sweet Tour","2wpdYjMbwjpYHaw7JmzrCe","2010-03-30",0.702,0.914,7,-5.707,1,0.0453,0.017,0.11,0.647,0.409,113.012,4,280106,"4 Minutes (feat. Justin Timberlake and Timbaland) - Live","G","major","G major",18
+"626","Madonna","Sticky & Sweet Tour","2S8jdziJhfXEqSpUuerxd1","2010-03-30",0.568,0.958,0,-3.978,1,0.123,0.198,0,0.836,0.134,128.001,4,348826,"Like a Prayer 2008 - Live","C","major","C major",19
+"627","Madonna","Sticky & Sweet Tour","03EoGOclVz3ihdj0oxZ1BU","2010-03-30",0.451,0.964,0,-3.244,1,0.0548,0.000711,0.000695,0.689,0.233,127.491,4,293560,"Ray of Light - Live","C","major","C major",16
+"628","Madonna","Sticky & Sweet Tour","1iBCkdBv2XzMDW7BUoqJl0","2010-03-30",0.686,0.967,6,-4.016,0,0.132,0.00434,0.628,0.82,0.307,127.016,4,499986,"Give It 2 Me - Live","F#","minor","F# minor",19
+"629","Madonna","Sticky & Sweet Tour","2TVhZPv87T0fCZFIenUrM7","2010-03-30",0.72,0.849,10,-8.375,0,0.0731,0.134,0.00525,0.35,0.617,116.053,4,225933,"Candy Shop Medley - Live","A#","minor","A# minor",1
+"630","Madonna","Sticky & Sweet Tour","0LWjMRWBVFw1i01kIcrIL7","2010-03-30",0.721,0.807,6,-4.08,0,0.0391,0.15,1.6e-05,0.825,0.634,118.019,4,264933,"Beat Goes on Medley (feat. Kanye West) - Live","F#","minor","F# minor",1
+"631","Madonna","Sticky & Sweet Tour","53TvV5hYw33OUxGwEVZa5Y","2010-03-30",0.724,0.936,11,-4.78,1,0.0781,0.144,1.36e-05,0.923,0.471,104.036,4,232640,"Human Nature - Live","B","major","B major",1
+"632","Madonna","Sticky & Sweet Tour","2lekPNe0xOmu5TcmF0V25s","2010-03-30",0.755,0.929,7,-5.559,1,0.0801,0.0187,0.778,0.437,0.423,116.162,4,271000,"Vogue 2008 - Live","G","major","G major",2
+"633","Madonna","Sticky & Sweet Tour","37uSUumekZOBB6tGDcJyZg","2010-03-30",0.665,0.811,11,-4.158,0,0.0429,0.0372,0.00888,0.447,0.401,119.969,4,278040,"She's Not Me - Live","B","minor","B minor",1
+"634","Madonna","Sticky & Sweet Tour","2Zr58m7AgBPZNS2nfDwC0p","2010-03-30",0.613,0.967,7,-4.23,1,0.212,0.00792,0.0215,0.497,0.168,127.985,4,310693,"Music 2008 - Live","G","major","G major",1
+"635","Madonna","Sticky & Sweet Tour","152gotMhnlU47JlLBe9gkD","2010-03-30",0.477,0.943,6,-5.068,0,0.0909,0.172,0.0635,0.706,0.368,73.493,4,342586,"Devil Wouldn't Recognize You - Live","F#","minor","F# minor",0
+"636","Madonna","Sticky & Sweet Tour","4bBIPRFU1Zl6mB8qfuqgeR","2010-03-30",0.767,0.816,4,-6.174,1,0.0537,0.071,0.0076,0.335,0.345,119.984,4,232240,"Spanish Lesson - Live","E","major","E major",0
+"637","Madonna","Sticky & Sweet Tour","3zSYIJa95OImCgeC6rilHh","2010-03-30",0.654,0.963,2,-3.913,1,0.09,0.113,2.04e-05,0.902,0.451,125.004,4,334546,"La Isla Bonita 2008 - Live","D","major","D major",0
+"638","Madonna","Sticky & Sweet Tour","3F3u2WlPqfxgYLX0Olo4C5","2010-03-30",0.167,0.524,8,-8.782,1,0.0732,0.812,7.3e-06,0.974,0.22,175.458,4,225066,"You Must Love Me - Live","G#","major","G# major",0
+"639","Madonna","Sticky & Sweet Tour","0iTNofOQffxBFw9q7EUYP6","2010-03-30",0.666,0.872,11,-7.244,1,0.059,0.00225,0.0093,0.969,0.208,105.035,4,184080,"Get Stupid Medley - Live","B","major","B major",0
+"640","Madonna","Sticky & Sweet Tour","6Ag79kaAR8zsWNWBiimvr7","2010-03-30",0.573,0.941,0,-3.931,1,0.135,0.188,0,0.607,0.166,127.992,4,331213,"Like a Prayer 2008 - Live","C","major","C major",2
+"641","Madonna","Sticky & Sweet Tour","65vKCATxAtr3mJeUlwAR98","2010-03-30",0.687,0.966,6,-4.021,0,0.13,0.00475,0.698,0.926,0.285,127.013,4,500013,"Give It 2 Me - Live","F#","minor","F# minor",0
+"642","Madonna","Hard Candy","2FpS5Kk4VG7KVuMG2lBQQY","2008-04-19",0.866,0.744,10,-9.281,0,0.119,0.392,0.105,0.0691,0.919,115.985,4,255773,"Candy Shop","A#","minor","A# minor",38
+"643","Madonna","Hard Candy","0NeZ8Bhhu3Vt5qCKLdvxpw","2008-04-19",0.705,0.911,2,-4.873,1,0.0717,0.00592,0.00154,0.0603,0.803,113.032,4,245080,"4 Minutes (feat. Justin Timberlake and Timbaland)","D","major","D major",48
+"644","Madonna","Hard Candy","59qPP8coY8EWIQ9nQDThui","2008-04-19",0.837,0.954,8,-3.512,0,0.0414,0.0933,0.000405,0.143,0.972,127.019,4,287906,"Give It 2 Me","G#","minor","G# minor",58
+"645","Madonna","Hard Candy","2JU8QGhMmM1r8UeuKHiyLh","2008-04-19",0.868,0.861,4,-4.836,0,0.0642,0.0591,0.00534,0.0597,0.788,118.035,4,243373,"Heartbeat","E","minor","E minor",36
+"646","Madonna","Hard Candy","5OWUKkLu9nesbbD0bLwcRL","2008-04-19",0.782,0.71,0,-4.394,1,0.0382,0.0447,0,0.095,0.762,115.995,4,288920,"Miles Away","C","major","C major",48
+"647","Madonna","Hard Candy","5lAXP9ChewjNQtf30LU9R6","2008-04-19",0.771,0.452,11,-6.355,0,0.0473,0.00495,0.0131,0.0381,0.358,120.017,4,364506,"She's Not Me","B","minor","B minor",39
+"648","Madonna","Hard Candy","5ls4hQ8WwqJVs2eFfOyODk","2008-04-19",0.761,0.609,7,-4.885,1,0.0932,0.0808,3.88e-05,0.107,0.797,133.927,4,379506,"Incredible","G","major","G major",31
+"649","Madonna","Hard Candy","0wFvvGzJn1zJmrwLK2HN6g","2008-04-19",0.788,0.826,6,-2.15,0,0.0394,0.133,0,0.401,0.759,118.077,4,266893,"Beat Goes On (feat. Kanye West)","F#","minor","F# minor",40
+"650","Madonna","Hard Candy","7aXh9HCf8DGdBHoWzgteIe","2008-04-19",0.814,0.635,6,-4.734,0,0.0323,0.0502,0.0724,0.0926,0.857,105.988,4,303093,"Dance 2night","F#","minor","F# minor",33
+"651","Madonna","Hard Candy","4cAuZ9PwjxBwmwuCr6s5wl","2008-04-19",0.835,0.72,4,-5.604,0,0.0708,0.0188,0.141,0.285,0.417,120.004,4,217600,"Spanish Lesson","E","minor","E minor",30
+"652","Madonna","Hard Candy","3ZK5PBHArculftJqTO3pxA","2008-04-19",0.647,0.821,6,-4.594,0,0.0366,0.0394,0.00923,0.144,0.612,147.047,4,308760,"Devil Wouldn't Recognize You","F#","minor","F# minor",35
+"653","Madonna","Hard Candy","2IWXHipOTqLaM3gkQ8ulFe","2008-04-19",0.702,0.857,0,-5.238,0,0.0347,0.019,0,0.102,0.369,112.013,4,219466,"Voices","C","minor","C minor",30
+"654","Madonna","Hard Candy","5N5XCxJfZsRmCcBtGGXYh1","2008-04-19",0.733,0.917,2,-6.014,0,0.0592,0.0086,0.498,0.0844,0.858,128.009,4,300053,"4 Minutes (feat. Justin Timberlake and Timbaland) - Peter Saves New York Edit","D","minor","D minor",27
+"655","Madonna","Hard Candy","0uEk1bShFxfj68BGbgwPja","2008-04-19",0.682,0.881,7,-3.966,0,0.0542,0.000359,0.768,0.149,0.667,127.995,4,277986,"4 Minutes (feat. Justin Timberlake and Timbaland) - Junkie XL Remix Edit","G","minor","G minor",24
+"656","Madonna","Hard Candy","74vP4lpnxIzNWIdCXAkYaH","2008-04-19",0.733,0.809,4,-4.929,1,0.0445,0.000726,0.00971,0.0228,0.509,127.011,4,299560,"Give It 2 Me - Paul Oakenfold Edit","E","major","E major",26
+"657","Madonna","Hard Candy","2zqyCAHqwnxpwpeCfGqpNf","2008-04-19",0.803,0.581,1,-5.837,1,0.12,0.0232,8.07e-06,0.363,0.821,113.966,4,234306,"Ring My Bell","C#","major","C# major",27
+"658","Madonna","Hard Candy","7c580jEodMXPmpPzndtR7G","2008-04-19",0.866,0.744,10,-9.281,0,0.119,0.392,0.105,0.0691,0.919,115.985,4,255773,"Candy Shop","A#","minor","A# minor",27
+"659","Madonna","Hard Candy","1dDNz8h95Gsu0W4QdxVVln","2008-04-19",0.705,0.911,2,-4.873,1,0.0717,0.00592,0.00154,0.0603,0.803,113.032,4,245080,"4 Minutes (feat. Justin Timberlake and Timbaland)","D","major","D major",55
+"660","Madonna","Hard Candy","6G7d2cbkZSaAOE0H6K1ohb","2008-04-19",0.837,0.954,8,-3.512,0,0.0414,0.0933,0.000405,0.143,0.972,127.019,4,287906,"Give It 2 Me","G#","minor","G# minor",43
+"661","Madonna","Hard Candy","3BcKHxZiCye0qz1buMEwmv","2008-04-19",0.868,0.861,4,-4.836,0,0.0642,0.0591,0.00534,0.0597,0.788,118.035,4,243373,"Heartbeat","E","minor","E minor",26
+"662","Madonna","Hard Candy","6mjsqBsNQSEPUDwxtB0LY3","2008-04-19",0.782,0.71,0,-4.394,1,0.0382,0.0447,0,0.095,0.762,115.995,4,288920,"Miles Away","C","major","C major",32
+"663","Madonna","Hard Candy","2Gx4ofo5H3n2WdvJ1vuiYu","2008-04-19",0.771,0.452,11,-6.355,0,0.0473,0.00495,0.0131,0.0381,0.358,120.017,4,364506,"She's Not Me","B","minor","B minor",28
+"664","Madonna","Hard Candy","1qoJLqSwxKZOdsDf5bb657","2008-04-19",0.761,0.609,7,-4.885,1,0.0932,0.0808,3.88e-05,0.107,0.797,133.927,4,379506,"Incredible","G","major","G major",22
+"665","Madonna","Hard Candy","3G81fQKp3zRnw1mzLmjSKi","2008-04-19",0.788,0.826,6,-2.15,0,0.0394,0.133,0,0.401,0.759,118.077,4,266893,"Beat Goes On (feat. Kanye West)","F#","minor","F# minor",32
+"666","Madonna","Hard Candy","58SMrIU5994cgXlVN3Q1rL","2008-04-19",0.814,0.635,6,-4.734,0,0.0323,0.0502,0.0724,0.0926,0.857,105.988,4,303093,"Dance 2night","F#","minor","F# minor",24
+"667","Madonna","Hard Candy","1ESDAv5OyfJDs93Y9MPm9e","2008-04-19",0.835,0.72,4,-5.604,0,0.0708,0.0188,0.141,0.285,0.417,120.004,4,217600,"Spanish Lesson","E","minor","E minor",21
+"668","Madonna","Hard Candy","5zz0ENWEK0auDQVtkRdAY9","2008-04-19",0.647,0.821,6,-4.594,0,0.0366,0.0394,0.00923,0.144,0.612,147.047,4,308760,"Devil Wouldn't Recognize You","F#","minor","F# minor",25
+"669","Madonna","Hard Candy","6pj6brQUFtMEFjN5UPLvT1","2008-04-19",0.702,0.857,0,-5.238,0,0.0347,0.019,0,0.102,0.369,112.013,4,219466,"Voices","C","minor","C minor",21
+"670","Madonna","Hard Candy","4B2OBiujRa2RtJI1QSQZ0S","2008-04-19",0.733,0.917,2,-6.014,0,0.0592,0.0086,0.498,0.0844,0.858,128.009,4,300053,"4 Minutes (feat. Justin Timberlake and Timbaland) - Peter Saves New York Edit","D","minor","D minor",20
+"671","Madonna","Hard Candy","3djbxMJ65WWum2tc2WVDN6","2008-04-19",0.682,0.881,7,-3.966,0,0.0542,0.000359,0.768,0.149,0.667,127.995,4,277986,"4 Minutes (feat. Justin Timberlake and Timbaland) - Junkie XL Remix Edit","G","minor","G minor",16
+"672","Madonna","Hard Candy","5JSO4xZiCjO0JGho4HnIdl","2008-04-19",0.733,0.809,4,-4.929,1,0.0445,0.000726,0.00971,0.0228,0.509,127.011,4,299560,"Give It 2 Me - Paul Oakenfold Edit","E","major","E major",20
+"673","Madonna","Hard Candy","55GYVMuZ4czl57aJblhHSX","2008-04-19",0.866,0.744,10,-9.281,0,0.119,0.392,0.105,0.0691,0.919,115.985,4,255773,"Candy Shop","A#","minor","A# minor",0
+"674","Madonna","Hard Candy","6jkyGNn76HYBuEzOBTKwc7","2008-04-19",0.705,0.911,2,-4.873,1,0.0717,0.00592,0.00154,0.0603,0.803,113.032,4,245080,"4 Minutes (feat. Justin Timberlake and Timbaland)","D","major","D major",0
+"675","Madonna","Hard Candy","2PoPpqGFPH07ZIcVjwGUbj","2008-04-19",0.837,0.954,8,-3.512,0,0.0414,0.0933,0.000405,0.143,0.972,127.019,4,287906,"Give It 2 Me","G#","minor","G# minor",0
+"676","Madonna","Hard Candy","3S37VJ33atxNaAQ1mcbaRa","2008-04-19",0.868,0.861,4,-4.836,0,0.0642,0.0591,0.00534,0.0597,0.788,118.035,4,243373,"Heartbeat","E","minor","E minor",0
+"677","Madonna","Hard Candy","38irdlnGkIvPEsVbuciWrT","2008-04-19",0.782,0.71,0,-4.394,1,0.0382,0.0447,0,0.095,0.762,115.995,4,288920,"Miles Away","C","major","C major",0
+"678","Madonna","Hard Candy","6CdKRfahEnopkWXBxiDORo","2008-04-19",0.771,0.452,11,-6.355,0,0.0473,0.00495,0.0131,0.0381,0.358,120.017,4,364506,"She's Not Me","B","minor","B minor",0
+"679","Madonna","Hard Candy","2k3YFlEtDRAGOcDPcifJpe","2008-04-19",0.761,0.609,7,-4.885,1,0.0932,0.0808,3.88e-05,0.107,0.797,133.927,4,379506,"Incredible","G","major","G major",0
+"680","Madonna","Hard Candy","7dzhjnKDneeAEQBVmJqV4R","2008-04-19",0.788,0.826,6,-2.15,0,0.0394,0.133,0,0.401,0.759,118.077,4,266893,"Beat Goes On (feat. Kanye West)","F#","minor","F# minor",0
+"681","Madonna","Hard Candy","7il9vAtL6RKCJ4TFKadxt4","2008-04-19",0.814,0.635,6,-4.734,0,0.0323,0.0502,0.0724,0.0926,0.857,105.988,4,303093,"Dance 2night","F#","minor","F# minor",0
+"682","Madonna","Hard Candy","36eG1zB3MVA7RWIHDhtxn3","2008-04-19",0.835,0.72,4,-5.604,0,0.0708,0.0188,0.141,0.285,0.417,120.004,4,217600,"Spanish Lesson","E","minor","E minor",0
+"683","Madonna","Hard Candy","0hGc7OaXFtTBfOLoYiCmqw","2008-04-19",0.647,0.821,6,-4.594,0,0.0366,0.0394,0.00923,0.144,0.612,147.047,4,308760,"Devil Wouldn't Recognize You","F#","minor","F# minor",0
+"684","Madonna","Hard Candy","5aeXuxVuUvcQlZnbuDNrv8","2008-04-19",0.702,0.857,0,-5.238,0,0.0347,0.019,0,0.102,0.369,112.013,4,219466,"Voices","C","minor","C minor",0
+"685","Madonna","Hard Candy","5F5nvCl6cCJ4miQVr3yzq7","2008-04-19",0.803,0.581,1,-5.837,1,0.12,0.0232,8.07e-06,0.363,0.821,113.966,4,234306,"Ring My Bell","C#","major","C# major",0
+"686","Madonna","Hard Candy","1Hg95dJEF4hce3s1rf9hGs","2008-04-19",0.866,0.744,10,-9.281,0,0.119,0.392,0.105,0.0691,0.919,115.985,4,255773,"Candy Shop","A#","minor","A# minor",3
+"687","Madonna","Hard Candy","7uAawvvaHO79f4FXSTmRX9","2008-04-19",0.705,0.911,2,-4.873,1,0.0717,0.00592,0.00154,0.0603,0.803,113.032,4,245080,"4 Minutes (feat. Justin Timberlake and Timbaland)","D","major","D major",15
+"688","Madonna","Hard Candy","6cXZt0yRkTX6h26UHWrYAY","2008-04-19",0.837,0.954,8,-3.512,0,0.0414,0.0933,0.000405,0.143,0.972,127.019,4,287906,"Give It 2 Me","G#","minor","G# minor",3
+"689","Madonna","Hard Candy","78NUHCD0HvD0tDGeD5Q3k9","2008-04-19",0.868,0.861,4,-4.836,0,0.0642,0.0591,0.00534,0.0597,0.788,118.035,4,243373,"Heartbeat","E","minor","E minor",4
+"690","Madonna","Hard Candy","2mEImgpP8OLPF8KxHHwxPa","2008-04-19",0.782,0.71,0,-4.394,1,0.0382,0.0447,0,0.095,0.762,115.995,4,288920,"Miles Away","C","major","C major",3
+"691","Madonna","Hard Candy","41gxrKMXY0HJYwwuxoifZ6","2008-04-19",0.771,0.452,11,-6.355,0,0.0473,0.00495,0.0131,0.0381,0.358,120.017,4,364506,"She's Not Me","B","minor","B minor",3
+"692","Madonna","Hard Candy","6zQt2KlZLM11GQr80WZUUr","2008-04-19",0.761,0.609,7,-4.885,1,0.0932,0.0808,3.88e-05,0.107,0.797,133.927,4,379506,"Incredible","G","major","G major",2
+"693","Madonna","Hard Candy","2mXacjPV5DMXQphv79frC5","2008-04-19",0.788,0.826,6,-2.15,0,0.0394,0.133,0,0.401,0.759,118.077,4,266893,"Beat Goes On (feat. Kanye West)","F#","minor","F# minor",4
+"694","Madonna","Hard Candy","65RRxejqmdNCGzX1P4NTHz","2008-04-19",0.814,0.635,6,-4.734,0,0.0323,0.0502,0.0724,0.0926,0.857,105.988,4,303093,"Dance 2night","F#","minor","F# minor",2
+"695","Madonna","Hard Candy","41RAx8CXoGH2xeXRR3JWga","2008-04-19",0.835,0.72,4,-5.604,0,0.0708,0.0188,0.141,0.285,0.417,120.004,4,217600,"Spanish Lesson","E","minor","E minor",1
+"696","Madonna","Hard Candy","1oJODgvdCaiB2hgR9sgwE1","2008-04-19",0.647,0.821,6,-4.594,0,0.0366,0.0394,0.00923,0.144,0.612,147.047,4,308760,"Devil Wouldn't Recognize You","F#","minor","F# minor",2
+"697","Madonna","Hard Candy","6r2GhQ9iFJT1xGQbp5NNrH","2008-04-19",0.702,0.857,0,-5.238,0,0.0347,0.019,0,0.102,0.369,112.013,4,219466,"Voices","C","minor","C minor",2
+"698","Madonna","The Confessions Tour","2ptSKfWJc2WyrfrVgboi7J","2007-01-30",0.418,0.905,2,-8.54,1,0.0671,0.0271,0.126,0.975,0.148,123.991,4,480813,"Future Lovers / I Feel Love - Live","D","major","D major",23
+"699","Madonna","The Confessions Tour","19FCM3abK1HNdtHS1nYa7X","2007-01-30",0.599,0.911,6,-5.715,0,0.0367,0.00553,0.00439,0.561,0.382,121.911,4,252973,"Like a Virgin - Live","F#","minor","F# minor",23
+"700","Madonna","The Confessions Tour","5MKOPoOOcQJMjdQAY9BHAb","2007-01-30",0.562,0.912,9,-6.596,1,0.0517,9.5e-05,0.0119,0.993,0.39,119.003,4,293400,"Jump - Live","A","major","A major",23
+"701","Madonna","The Confessions Tour","0RHkmj2G2ZxqSJfgwMWuMN","2007-01-30",0.484,0.764,9,-10.256,0,0.096,0.0507,0.013,0.672,0.198,110.004,4,233453,"Confessions - Live","A","minor","A minor",16
+"702","Madonna","The Confessions Tour","0aRNxBFYeoDJzGO5zxu31w","2007-01-30",0.416,0.827,9,-7.023,0,0.0526,0.154,1.17e-06,0.405,0.101,132.875,4,405400,"Isaac - Live","A","minor","A minor",17
+"703","Madonna","The Confessions Tour","0ronzYRXYHlqqtVpRil8K8","2007-01-30",0.495,0.864,0,-6.186,0,0.0359,0.000874,0.000805,0.448,0.325,133.015,4,303200,"Sorry - Live","C","minor","C minor",20
+"704","Madonna","The Confessions Tour","26sHLTmNVvsoZz8mh9fuXu","2007-01-30",0.705,0.606,0,-7.815,1,0.0699,0.00356,0.711,0.271,0.298,100.039,4,224586,"Sorry - Remix; Live","C","major","C major",18
+"705","Madonna","The Confessions Tour","0VfDDDz7T5VmlrRG3i6GzQ","2007-01-30",0.48,0.892,9,-6.093,0,0.0627,1.3e-05,0.0285,0.674,0.294,128.017,4,336626,"I Love New York - Live","A","minor","A minor",16
+"706","Madonna","The Confessions Tour","07WxHqZgcXIH1KaAOVkOKB","2007-01-30",0.514,0.943,6,-5.971,0,0.215,0.000302,0.0351,0.895,0.333,129.962,4,285120,"Let It Will Be - Live","F#","minor","F# minor",18
+"707","Madonna","The Confessions Tour","1ltyJkMIQDSF1ollpytR1z","2007-01-30",0.68,0.865,10,-6.025,1,0.0489,0.000117,0.308,0.935,0.64,129.975,4,461040,"Music Inferno - Live","A#","major","A# major",24
+"708","Madonna","The Confessions Tour","0JeP4JsmR8CzQY3anExYgQ","2007-01-30",0.637,0.929,5,-5.821,0,0.0452,0.014,0.42,0.92,0.407,122.503,4,295546,"Erotica - Live","F","minor","F minor",26
+"709","Madonna","The Confessions Tour","4EPGPgv3kCGXiAdE5IoNuI","2007-01-30",0.64,0.916,9,-5.391,0,0.053,0.00828,0.0408,0.282,0.553,125.015,4,230213,"Lucky Star - Live","A","minor","A minor",21
+"710","Madonna","The Confessions Tour","0aiYTiWzQZcuRqf25J35Cn","2007-01-30",0.556,0.825,9,-5.79,0,0.0473,0.00383,0.0828,0.922,0.28,125.001,4,590120,"Hung Up - Live","A","minor","A minor",22
+"711","Madonna","Confessions on a Dance Floor","3850dYVgOFIXJh5U4BFEWH","2005-11-11",0.649,0.647,9,-7.695,0,0.0452,0.0039,0.161,0.0686,0.405,125.02,4,337733,"Hung Up","A","minor","A minor",75
+"712","Madonna","Confessions on a Dance Floor","1AQQ9DdpEemMVTHNz4eG9a","2005-11-11",0.364,0.71,9,-7.428,0,0.0972,0.00489,0.00315,0.0747,0.284,123.902,4,315466,"Get Together","A","minor","A minor",54
+"713","Madonna","Confessions on a Dance Floor","55whbebR4olz2HHcRQa2kx","2005-11-11",0.589,0.877,0,-6.229,0,0.046,0.00121,0.013,0.169,0.443,132.971,4,281880,"Sorry","C","minor","C minor",62
+"714","Madonna","Confessions on a Dance Floor","0amQzI3QzlkNzlUQSLxGOP","2005-11-11",0.543,0.865,2,-8.862,1,0.0479,0.00124,0.649,0.0872,0.631,123.999,4,301880,"Future Lovers","D","major","D major",47
+"715","Madonna","Confessions on a Dance Floor","44WTY1d9M86PEAgPZNeHHe","2005-11-11",0.61,0.894,9,-7.244,0,0.0331,0.000718,0.722,0.516,0.466,128.002,4,275360,"I Love New York","A","minor","A minor",45
+"716","Madonna","Confessions on a Dance Floor","5HKcfvhCdIoZKzeQw2HgEe","2005-11-11",0.638,0.794,11,-6.656,0,0.0414,0.0153,0.00104,0.0731,0.441,129.995,4,260946,"Let It Will Be","B","minor","B minor",44
+"717","Madonna","Confessions on a Dance Floor","2DuaKXVHCHSSTTeOnYSMG9","2005-11-11",0.596,0.752,6,-8.049,0,0.0377,0.00398,0.00144,0.385,0.348,118.958,4,262320,"Forbidden Love","F#","minor","F# minor",47
+"718","Madonna","Confessions on a Dance Floor","5hmRhU6fWzH0NjYmfhHjhp","2005-11-11",0.629,0.839,9,-7.061,1,0.0899,0.0018,0.0859,0.251,0.449,118.979,4,238560,"Jump","A","major","A major",58
+"719","Madonna","Confessions on a Dance Floor","2aGCEvfmDO7sqcQZHhq2lQ","2005-11-11",0.659,0.604,6,-7.613,1,0.0294,0.0175,0.0034,0.0669,0.455,119.952,4,243933,"How High","F#","major","F# major",44
+"720","Madonna","Confessions on a Dance Floor","2HXNn7MQBhecidoC4h6KgX","2005-11-11",0.53,0.791,9,-7.125,0,0.0521,0.0727,4.98e-06,0.189,0.511,132.98,4,359240,"Isaac","A","minor","A minor",45
+"721","Madonna","Confessions on a Dance Floor","7hHqUAFN5ort3NXcz91fTA","2005-11-11",0.631,0.72,0,-6.251,1,0.0621,0.00151,1.27e-05,0.172,0.717,96.008,4,212920,"Push","C","major","C major",42
+"722","Madonna","Confessions on a Dance Floor","5uLLwUZfktjy3N2UorBwr8","2005-11-11",0.703,0.661,10,-5.446,0,0.0861,0.159,0.000846,0.111,0.389,119.919,4,275573,"Like It or Not","A#","minor","A# minor",43
+"723","Madonna","American Life","1YhiWWFrbdd3kAVhSYDhZ7","2003-04-22",0.787,0.583,11,-7.16,0,0.176,0.0438,0,0.282,0.706,101.96,4,297840,"American Life","B","minor","B minor",46
+"724","Madonna","American Life","4ixxz1GXB57Q6K2nbR4AwL","2003-04-22",0.647,0.588,11,-7.519,0,0.0401,0.0554,0.000225,0.277,0.604,125.992,4,264400,"Hollywood","B","minor","B minor",51
+"725","Madonna","American Life","2mdKGSHfYj97sPr1rjyLEp","2003-04-22",0.726,0.66,11,-4.125,0,0.0356,0.000162,0.000395,0.112,0.409,121.979,4,245720,"I'm so Stupid","B","minor","B minor",36
+"726","Madonna","American Life","5NDS6qHwbOmVqZgTvtC66y","2003-04-22",0.702,0.467,6,-8.026,0,0.0403,0.239,3.69e-05,0.188,0.705,119.956,4,216026,"Love Profusion","F#","minor","F# minor",44
+"727","Madonna","American Life","5YJQ0J2hhw8vqmvtofxhMH","2003-04-22",0.843,0.594,7,-5.974,1,0.0595,0.0504,4.27e-05,0.0588,0.747,120.019,4,279386,"Nobody Knows Me","G","major","G major",36
+"728","Madonna","American Life","6ZUDEcfkOP6R9g6noBrIW4","2003-04-22",0.671,0.594,7,-6.552,0,0.029,0.181,0.000183,0.0898,0.229,91.923,4,288600,"Nothing Fails","G","minor","G minor",40
+"729","Madonna","American Life","7BxLHR4ApH0n4rx10KAWOo","2003-04-22",0.708,0.301,7,-7.074,0,0.031,0.0902,1.31e-05,0.0926,0.324,109.927,4,293786,"Intervention","G","minor","G minor",35
+"730","Madonna","American Life","2dA8y5fJj2ZzfUVCJ2VlZU","2003-04-22",0.38,0.271,9,-10.886,0,0.0368,0.925,0.000257,0.109,0.315,74.85,3,229213,"X-Static Process","A","minor","A minor",35
+"731","Madonna","American Life","2TVCBHdkogeEwIqnm35kI2","2003-04-22",0.814,0.444,9,-6.079,0,0.0662,0.0088,1.72e-06,0.0786,0.615,106.005,4,272040,"Mother and Father","A","minor","A minor",34
+"732","Madonna","American Life","7DUpuAzGUyJaJB3p9BC3Ms","2003-04-22",0.792,0.797,0,-5.166,0,0.0901,0.062,0.00325,0.0896,0.491,123.993,4,276360,"Die Another Day","C","minor","C minor",54
+"733","Madonna","American Life","2fooQAzu37aKcCRoP6KpfQ","2003-04-22",0.615,0.272,9,-9.842,0,0.0493,0.292,1.8e-05,0.301,0.258,91.957,4,305146,"Easy Ride","A","minor","A minor",34
+"734","Madonna","American Life","1x8EuarwCq0lqOSk3AvzuY","2003-04-22",0.797,0.577,11,-7.176,0,0.158,0.0493,0,0.273,0.716,101.995,4,297840,"American Life","B","minor","B minor",13
+"735","Madonna","American Life","00f39l6Gd91kXOJ3qBnuU6","2003-04-22",0.647,0.588,11,-7.519,0,0.0401,0.0554,0.000225,0.277,0.604,125.992,4,264400,"Hollywood","B","minor","B minor",17
+"736","Madonna","American Life","1fkpUWYo4o3k4i39sCeNpC","2003-04-22",0.726,0.66,11,-4.125,0,0.0356,0.000162,0.000395,0.112,0.409,121.979,4,245720,"I'm so Stupid","B","minor","B minor",7
+"737","Madonna","American Life","4p6RwyNujCuF1I6tVu4lNS","2003-04-22",0.702,0.467,6,-8.026,0,0.0403,0.239,3.69e-05,0.188,0.705,119.956,4,216026,"Love Profusion","F#","minor","F# minor",12
+"738","Madonna","American Life","2uivbJwcfbjoivDscjEkEK","2003-04-22",0.843,0.594,7,-5.974,1,0.0595,0.0504,4.27e-05,0.0588,0.747,120.019,4,279386,"Nobody Knows Me","G","major","G major",8
+"739","Madonna","American Life","5oFMRE6aZhcCm7JZpnptOD","2003-04-22",0.671,0.594,7,-6.552,0,0.029,0.181,0.000183,0.0898,0.229,91.923,4,288600,"Nothing Fails","G","minor","G minor",11
+"740","Madonna","American Life","4dxxzvB32N99Yb2TJYNXSR","2003-04-22",0.708,0.301,7,-7.074,0,0.031,0.0902,1.31e-05,0.0926,0.324,109.927,4,293786,"Intervention","G","minor","G minor",7
+"741","Madonna","American Life","0rky1z5N8GnrLKDmPF6f9n","2003-04-22",0.38,0.271,9,-10.886,0,0.0368,0.925,0.000257,0.109,0.315,74.85,3,229213,"X-Static Process","A","minor","A minor",8
+"742","Madonna","American Life","1PxH3MvAZVDeb2BFezJb12","2003-04-22",0.814,0.444,9,-6.079,0,0.0662,0.0088,1.72e-06,0.0786,0.615,106.005,4,272040,"Mother and Father","A","minor","A minor",6
+"743","Madonna","American Life","2Dfe2FIfmB0y0M99aZyexu","2003-04-22",0.792,0.797,0,-5.166,0,0.0901,0.062,0.00325,0.0896,0.491,123.993,4,276360,"Die Another Day","C","minor","C minor",28
+"744","Madonna","American Life","4Gr023hGEEF2dISBQSwnnI","2003-04-22",0.615,0.272,9,-9.842,0,0.0493,0.292,1.8e-05,0.301,0.258,91.957,4,305146,"Easy Ride","A","minor","A minor",5
+"745","Madonna","Music","2fzykVsO2Di5jnofUNX3YE","2000-09-19",0.736,0.802,7,-8.527,1,0.0663,0.00149,0.0876,0.14,0.871,119.854,4,225973,"Music","G","major","G major",60
+"746","Madonna","Music","0koDDu3iROFIM9eetHJtJU","2000-09-19",0.556,0.501,7,-10.267,1,0.0502,0.00164,0.0366,0.23,0.46,123.975,4,217533,"Impressive Instant","G","major","G major",38
+"747","Madonna","Music","1WhJtjou6uV9MP9xCpbGdG","2000-09-19",0.664,0.932,9,-5.983,1,0.066,0.000901,0.113,0.123,0.48,137.898,4,287266,"Runaway Lover","A","major","A major",34
+"748","Madonna","Music","7DQ5AJSHY0UGMoxrA4f3nv","2000-09-19",0.613,0.39,7,-11.53,1,0.0341,0.00391,0.0062,0.0877,0.453,172.044,4,263573,"I Deserve It","G","major","G major",36
+"749","Madonna","Music","1yfmUYrqjMCICcOnHhriFt","2000-09-19",0.563,0.842,0,-7.029,1,0.0552,0.00368,0.000472,0.101,0.41,135.012,4,223200,"Amazing","C","major","C major",39
+"750","Madonna","Music","7CuyDbvmIfYLPuRmdvjZh9","2000-09-19",0.63,0.605,7,-7.567,1,0.0368,0.288,0.0011,0.073,0.297,85.94,4,298933,"Nobody's Perfect","G","major","G major",37
+"751","Madonna","Music","23EhTCPRTlLVM6VQUyh8bH","2000-09-19",0.699,0.618,7,-7.338,1,0.0594,0.0502,0.000925,0.0914,0.679,99.965,4,280973,"Don't Tell Me","G","major","G major",54
+"752","Madonna","Music","4ohEI9gzIH5mSK6R6aUssT","2000-09-19",0.67,0.627,8,-9.497,1,0.0478,0.201,0.00161,0.154,0.582,104.988,4,283893,"What It Feels Like for a Girl","G#","major","G# major",45
+"753","Madonna","Music","6SMKtnrZX1rAuChCu2W2UY","2000-09-19",0.663,0.403,9,-11.252,0,0.0385,0.0212,0.461,0.102,0.34,143.671,4,393533,"Paradise (Not for Me)","A","minor","A minor",37
+"754","Madonna","Music","3bce1jfYQ0yT3Y9PlitWd5","2000-09-19",0.61,0.381,10,-8.757,0,0.025,0.185,2.45e-05,0.233,0.343,60.937,4,205266,"Gone","A#","minor","A# minor",35
+"755","Madonna","Music","3afv9TL8ixr4T9VbiKnrwe","2000-09-19",0.631,0.734,5,-7.48,0,0.036,0.348,0,0.135,0.591,124.036,4,273533,"American Pie","F","minor","F minor",60
+"756","Madonna","Music","2BcOZ4vOeu2qZowIHrvTYy","2000-09-19",0.736,0.802,7,-8.527,1,0.0663,0.00149,0.0876,0.14,0.871,119.854,4,225973,"Music","G","major","G major",48
+"757","Madonna","Music","3uWdzKpXiV9Qc3sjWnWAlL","2000-09-19",0.556,0.501,7,-10.267,1,0.0502,0.00164,0.0366,0.23,0.46,123.975,4,217533,"Impressive Instant","G","major","G major",28
+"758","Madonna","Music","5xe8E49mZGX89WATSufQTh","2000-09-19",0.664,0.932,9,-5.983,1,0.066,0.000901,0.113,0.123,0.48,137.898,4,287266,"Runaway Lover","A","major","A major",24
+"759","Madonna","Music","7lpYSyJYqekMfHg3e8QVgj","2000-09-19",0.613,0.39,7,-11.53,1,0.0341,0.00391,0.0062,0.0877,0.453,172.044,4,263573,"I Deserve It","G","major","G major",25
+"760","Madonna","Music","66vunFyswrQvQEucdAB85H","2000-09-19",0.563,0.842,0,-7.029,1,0.0552,0.00368,0.000472,0.101,0.41,135.012,4,223200,"Amazing","C","major","C major",29
+"761","Madonna","Music","5GZa8aslprtByFB9cBC83j","2000-09-19",0.63,0.605,7,-7.567,1,0.0368,0.288,0.0011,0.073,0.297,85.94,4,298933,"Nobody's Perfect","G","major","G major",26
+"762","Madonna","Music","7DOtIhTTpPZyjvbO509hSC","2000-09-19",0.699,0.618,7,-7.338,1,0.0594,0.0502,0.000925,0.0914,0.679,99.965,4,280973,"Don't Tell Me","G","major","G major",43
+"763","Madonna","Music","6rQcK4xOzePDdrTg7Yv6d6","2000-09-19",0.67,0.627,8,-9.497,1,0.0478,0.201,0.00161,0.154,0.582,104.988,4,283893,"What It Feels Like for a Girl","G#","major","G# major",34
+"764","Madonna","Music","3qO13a6sZTDfRpsxkmVs3O","2000-09-19",0.663,0.403,9,-11.252,0,0.0385,0.0212,0.461,0.102,0.34,143.671,4,393533,"Paradise (Not for Me)","A","minor","A minor",25
+"765","Madonna","Music","3EjEc5h64Mt8p3E1CkLPaE","2000-09-19",0.61,0.381,10,-8.757,0,0.025,0.185,2.45e-05,0.233,0.343,60.937,4,205266,"Gone","A#","minor","A# minor",24
+"766","Madonna","Ray of Light","0beXeFEWUYYY13fYVHTtFk","1998-03-03",0.539,0.308,4,-12.101,1,0.0413,0.727,0.207,0.107,0.131,139.901,4,308973,"Drowned World / Substitute for Love","E","major","E major",46
+"767","Madonna","Ray of Light","5EozWxc0G7mMAHgQdGDlHm","1998-03-03",0.618,0.476,8,-12.823,0,0.0345,0.584,0.0243,0.168,0.2,100.488,4,300600,"Swim","G#","minor","G# minor",42
+"768","Madonna","Ray of Light","4Fpsa3pYc3gozrxHRRPvR6","1998-03-03",0.561,0.909,3,-7.878,1,0.0312,0.00118,0.46,0.0713,0.71,127.172,4,320693,"Ray of Light","D#","major","D# major",59
+"769","Madonna","Ray of Light","7crZfJQOb8QsLtn3LwwQLK","1998-03-03",0.608,0.651,1,-11.054,0,0.0451,0.0297,0.413,0.0994,0.37,97.117,4,276640,"Candy Perfume Girl","C#","minor","C# minor",41
+"770","Madonna","Ray of Light","3EdOkdjZAkSHfZJYPYJ78K","1998-03-03",0.572,0.806,8,-12.316,1,0.0643,0.339,0.832,0.0681,0.388,142.957,4,381333,"Skin","G#","major","G# major",41
+"771","Madonna","Ray of Light","6bZPQHvekmIFBZZB7nMB5X","1998-03-03",0.707,0.692,0,-6.937,1,0.0409,0.0534,0.00796,0.0649,0.248,116.868,4,269093,"Nothing Really Matters","C","major","C major",48
+"772","Madonna","Ray of Light","2KuNI576snW2Xlr1y8cMaW","1998-03-03",0.526,0.568,10,-10.504,1,0.038,0.0727,0.711,0.106,0.215,139.952,4,287733,"Sky Fits Heaven","A#","major","A# major",42
+"773","Madonna","Ray of Light","0gVwAMrq7nXQNYz39n0C6L","1998-03-03",0.641,0.771,11,-9.501,1,0.0403,0.0588,0.075,0.117,0.419,139.845,4,268666,"Shanti / Ashtangi","B","major","B major",41
+"774","Madonna","Ray of Light","2II03llydk4YnkBBvoYB3B","1998-03-03",0.602,0.616,1,-10.917,1,0.0353,0.662,0.0153,0.149,0.31,108.017,4,367333,"Frozen","C#","major","C# major",63
+"775","Madonna","Ray of Light","01VFDkHBNJcCNUjzD3flWg","1998-03-03",0.534,0.561,5,-11.089,0,0.0409,0.0442,0.678,0.189,0.219,84.978,4,250560,"The Power of Good-Bye","F","minor","F minor",58
+"776","Madonna","Ray of Light","0koXhZM2nyHAJ6fmGWCprN","1998-03-03",0.554,0.543,10,-12.417,0,0.0355,0.721,0.317,0.0659,0.654,88.038,4,322746,"To Have and Not to Hold","A#","minor","A# minor",41
+"777","Madonna","Ray of Light","67NdrXnC8NiGfGWqzViGWA","1998-03-03",0.456,0.59,1,-10.724,0,0.0404,0.504,0.00792,0.0985,0.346,144.924,4,318586,"Little Star","C#","minor","C# minor",39
+"778","Madonna","Ray of Light","2mG3ShZcT6xkKRvSrPJZus","1998-03-03",0.339,0.175,4,-17.667,1,0.0469,0.929,0.000554,0.106,0.16,101.249,3,331760,"Mer Girl","E","major","E major",37
+"779","Madonna","Evita: The Complete Motion Picture Music Soundtrack","06x7aT9XWYclduRt6Yab6e","1996-10-25",0.321,0.106,3,-28.843,1,0.163,0.859,0.000123,0.0995,0.322,176.319,3,78293,"A Cinema in Buenos Aires, 26 July 1952","D#","major","D# major",27
+"780","Madonna","Evita: The Complete Motion Picture Music Soundtrack","0mzKkKqSEVm9WK3Bu5l3SN","1996-10-25",0.13,0.411,9,-12.391,0,0.0353,0.194,0.0836,0.609,0.167,98.476,4,256200,"Requiem for Evita","A","minor","A minor",28
+"781","Madonna","Evita: The Complete Motion Picture Music Soundtrack","0XXvv9AZ62nHtMDKK4lHlr","1996-10-25",0.36,0.492,1,-10.325,1,0.0431,0.811,0,0.276,0.302,135.455,4,344866,"Oh What a Circus","C#","major","C# major",36
+"782","Madonna","Evita: The Complete Motion Picture Music Soundtrack","6deEUIyIuRvUATdcN6YCSl","1996-10-25",0.419,0.187,7,-15.486,1,0.0662,0.915,0,0.677,0.528,112.022,4,144173,"On This Night of a Thousand Stars","G","major","G major",31
+"783","Madonna","Evita: The Complete Motion Picture Music Soundtrack","5z7vjZ9ZoEWrDHKMlsiIks","1996-10-25",0.491,0.467,7,-10.965,1,0.0575,0.698,0,0.114,0.487,113.309,4,320826,"Eva and Magaldi / Eva Beware of the City","G","major","G major",31
+"784","Madonna","Evita: The Complete Motion Picture Music Soundtrack","3TXakfjtRwGXdQ6P3Lpi6t","1996-10-25",0.772,0.805,5,-8.363,0,0.0848,0.116,0.000349,0.0759,0.657,122.95,4,249133,"Buenos Aires","F","minor","F minor",37
+"785","Madonna","Evita: The Complete Motion Picture Music Soundtrack","2HZ1D2dAWN8MYVBXX9Ezrk","1996-10-25",0.52,0.248,8,-14.166,1,0.0353,0.848,1.75e-05,0.112,0.228,125.956,4,213040,"Another Suitcase in Another Hall","G#","major","G# major",37
+"786","Madonna","Evita: The Complete Motion Picture Music Soundtrack","6mReqk8kBcxkCtlnO4hDcA","1996-10-25",0.388,0.617,5,-9.627,1,0.0436,0.691,0,0.0893,0.842,73.817,4,258093,"Goodnight and Thank You","F","major","F major",34
+"787","Madonna","Evita: The Complete Motion Picture Music Soundtrack","0eKT7h4OiAGCxjA36VKtAI","1996-10-25",0.565,0.727,9,-8.964,1,0.0361,0.313,0,0.344,0.575,137.031,4,264840,"The Lady's Got Potential","A","major","A major",32
+"788","Madonna","Evita: The Complete Motion Picture Music Soundtrack","5DUvSqXVRYbQenCWZHJ9Tn","1996-10-25",0.4,0.425,7,-14.811,1,0.116,0.849,0.000156,0.382,0.198,129.627,3,153333,"Charity Concert / The Art of the Possible","G","major","G major",28
+"789","Madonna","Evita: The Complete Motion Picture Music Soundtrack","7Jeih4TEqBbfzxI1UN5b51","1996-10-25",0.568,0.291,2,-13.888,0,0.047,0.871,0,0.0888,0.425,100.647,4,258666,"I'd Be Surprisingly Good for You","D","minor","D minor",35
+"790","Madonna","Evita: The Complete Motion Picture Music Soundtrack","0e1kOIgSd8S7t2GMDvi8Lr","1996-10-25",0.505,0.239,9,-15.801,1,0.0543,0.925,0.000347,0.138,0.258,134.893,5,106760,"Hello and Goodbye","A","major","A major",29
+"791","Madonna","Evita: The Complete Motion Picture Music Soundtrack","52LS1WSbUToCCrSRyMhkb3","1996-10-25",0.742,0.474,0,-10.752,1,0.0652,0.39,0,0.683,0.541,131.748,4,317440,"Peron's Latest Flame","C","major","C major",31
+"792","Madonna","Evita: The Complete Motion Picture Music Soundtrack","69jzo4rVZRrN4qwqSY3JoZ","1996-10-25",0.43,0.542,11,-10.404,0,0.0551,0.509,0,0.0975,0.325,112.868,3,489866,"A New Argentina","B","minor","B minor",30
+"793","Madonna","Evita: The Complete Motion Picture Music Soundtrack","0VOa7UXtbDtL6tWIeeItMM","1996-10-25",0.524,0.831,11,-10.953,1,0.079,0.758,0,0.638,0.0373,120.724,4,86640,"On the Balcony of the Casa Rosada 1","B","major","B major",26
+"794","Madonna","Evita: The Complete Motion Picture Music Soundtrack","0bLRXQaWzmSXRXPmP6JnEF","1996-10-25",0.217,0.146,11,-13.9,1,0.0373,0.901,4.49e-06,0.222,0.0847,75.922,4,331466,"Don't Cry for Me Argentina","B","major","B major",55
+"795","Madonna","Evita: The Complete Motion Picture Music Soundtrack","1nhA3Pnsn9fwxbbPhVQQWQ","1996-10-25",0.451,0.43,5,-13.023,1,0.295,0.859,0,0.157,0.183,69.888,4,120000,"On the Balcony of the Casa Rosada 2","F","major","F major",28
+"796","Madonna","Evita: The Complete Motion Picture Music Soundtrack","3WtuDsoDKMd9w6YiookYHC","1996-10-25",0.686,0.372,3,-11.961,1,0.0358,0.639,0,0.132,0.307,122.953,4,212293,"High Flying, Adored","D#","major","D# major",35
+"797","Madonna","Evita: The Complete Motion Picture Music Soundtrack","73PMNzJ0jpMPthytEcBJNH","1996-10-25",0.47,0.543,10,-7.756,0,0.0372,0.741,0,0.133,0.513,125.792,5,146600,"Rainbow High","A#","minor","A# minor",32
+"798","Madonna","Evita: The Complete Motion Picture Music Soundtrack","2jj61HbqA9yXiife8uJtwD","1996-10-25",0.66,0.719,9,-7.678,1,0.0424,0.534,0,0.396,0.606,129.703,4,290840,"Rainbow Tour","A","major","A major",29
+"799","Madonna","Evita: The Complete Motion Picture Music Soundtrack","4Mt9McTgWKFOjEVhtlGt3I","1996-10-25",0.489,0.212,10,-15.058,1,0.0526,0.777,0,0.134,0.2,123.269,4,151733,"The Actress Hasn't Learned the Lines (You'd Like to Hear)","A#","major","A# major",27
+"800","Madonna","Evita: The Complete Motion Picture Music Soundtrack","6deXB9MwTP6WyUOZAhZaxc","1996-10-25",0.542,0.76,0,-10.175,1,0.0546,0.291,6.62e-06,0.268,0.633,170.182,4,233333,"And the Money Kept Rolling In (And Out)","C","major","C major",29
+"801","Madonna","Evita: The Complete Motion Picture Music Soundtrack","2rne3dJ33LChaKKz9qzikg","1996-10-25",0.325,0.534,5,-11.185,1,0.0488,0.772,1.52e-06,0.18,0.145,100.644,4,100400,"Partido Feminista","F","major","F major",25
+"802","Madonna","Evita: The Complete Motion Picture Music Soundtrack","7r6KvA9ld7oDav5qgFtXvv","1996-10-25",0.559,0.294,9,-16.889,1,0.0791,0.652,0,0.174,0.264,84.47,4,99666,"She Is a Diamond","A","major","A major",28
+"803","Madonna","Evita: The Complete Motion Picture Music Soundtrack","2UxeZhuidcgF7YObSIZ86h","1996-10-25",0.264,0.426,10,-11.821,1,0.0397,0.785,0,0.133,0.4,110.607,4,150866,"Santa Evita","A#","major","A# major",29
+"804","Madonna","Evita: The Complete Motion Picture Music Soundtrack","2V8Vx1FfPRXelq9US4QSo1","1996-10-25",0.377,0.443,9,-7.885,1,0.049,0.864,0,0.129,0.375,64.464,3,252733,"Waltz for Eva and Che","A","major","A major",30
+"805","Madonna","Evita: The Complete Motion Picture Music Soundtrack","1qzb4SRSRvgp9xIgd6A135","1996-10-25",0.527,0.221,11,-15.805,1,0.372,0.855,0,0.103,0.514,90.573,4,84560,"Your Little Body's Slowly Breaking Down","B","major","B major",27
+"806","Madonna","Evita: The Complete Motion Picture Music Soundtrack","78JPL7uIfs6Imm57r1QETk","1996-10-25",0.357,0.161,10,-14.789,1,0.0436,0.926,3.47e-05,0.146,0.267,88.746,4,170840,"You Must Love Me","A#","major","A# major",39
+"807","Madonna","Evita: The Complete Motion Picture Music Soundtrack","4v9JKBnQNuMfySzqnGCOWC","1996-10-25",0.322,0.251,11,-15.857,1,0.057,0.928,9.39e-06,0.368,0.204,132.486,1,185293,"Eva's Final Broadcast","B","major","B major",26
+"808","Madonna","Evita: The Complete Motion Picture Music Soundtrack","2qzy058Uc3wdUztBRlJZb1","1996-10-25",0.198,0.377,5,-17.89,0,0.0448,0.694,0.202,0.105,0.0655,109.411,3,131039,"Latin Chant","F","minor","F minor",24
+"809","Madonna","Evita: The Complete Motion Picture Music Soundtrack","7rWixc1JKHxV3KyQfexeeb","1996-10-25",0.403,0.155,10,-15.274,1,0.0449,0.872,0.000237,0.108,0.0796,120.786,4,316600,"Lament","A#","major","A# major",27
+"810","Madonna","Bedtime Stories","0NaU4I4x6dGFBxaMoAFBow","1994-10-25",0.732,0.623,7,-9.004,1,0.0334,0.106,0,0.0704,0.736,94.994,4,211373,"Survival","G","major","G major",36
+"811","Madonna","Bedtime Stories","15FcP9qwmIKqaD5NhfhNpu","1994-10-25",0.813,0.655,1,-7.884,1,0.0262,0.101,6.65e-05,0.146,0.46,99.982,4,304933,"Secret","C#","major","C# major",53
+"812","Madonna","Bedtime Stories","0R3yZfMz44HNbeALPc93XZ","1994-10-25",0.79,0.756,11,-6.908,1,0.0938,0.221,9.87e-05,0.114,0.724,91.913,4,279733,"I'd Rather Be Your Lover","B","major","B major",34
+"813","Madonna","Bedtime Stories","6eB4UdPtmFYzT8JEhKj5tt","1994-10-25",0.733,0.789,4,-7.95,0,0.0584,0.00227,0.000622,0.0618,0.622,94.858,4,278133,"Don't Stop","E","minor","E minor",34
+"814","Madonna","Bedtime Stories","0u6SzAN3aBaI2v8d2GrFdG","1994-10-25",0.706,0.514,1,-11.437,1,0.0345,0.128,0.0247,0.0678,0.401,95.4,4,251933,"Inside of Me","C#","major","C# major",36
+"815","Madonna","Bedtime Stories","4Cna7QxOOTNnylVHLtShCi","1994-10-25",0.691,0.571,10,-7.737,0,0.0347,0.0313,0.206,0.118,0.641,92.528,4,293933,"Human Nature","A#","minor","A# minor",45
+"816","Madonna","Bedtime Stories","5mAXJZc79Zqyclv01jCFtT","1994-10-25",0.599,0.506,8,-9.83,0,0.0343,0.254,6.15e-05,0.215,0.504,74.996,4,249253,"Forbidden Love","G#","minor","G# minor",36
+"817","Madonna","Bedtime Stories","1bldGtiBMkXpSCzAiH7j6r","1994-10-25",0.694,0.486,6,-8.469,0,0.0247,0.226,0.0161,0.241,0.341,92.09,4,321426,"Love Tried to Welcome Me","F#","minor","F# minor",35
+"818","Madonna","Bedtime Stories","5vx8H6cFunr9wl2hhBIrvj","1994-10-25",0.592,0.526,7,-12.471,1,0.0741,0.153,0.0205,0.0995,0.416,170.321,4,303133,"Sanctuary","G","major","G major",34
+"819","Madonna","Bedtime Stories","1dOXmR1VsGmkM9c72ka0je","1994-10-25",0.712,0.612,0,-12.74,1,0.0441,0.831,0.441,0.118,0.526,112.028,4,292906,"Bedtime Story","C","major","C major",40
+"820","Madonna","Bedtime Stories","5oqukcHWfqq7HGjyKwLX1y","1994-10-25",0.568,0.366,8,-8.854,1,0.0258,0.417,3.39e-06,0.0664,0.311,79.98,4,321360,"Take a Bow","G#","major","G# major",54
+"821","Madonna","Erotica","4eMLyB1mc7onYLdoG8YSXG","1992-10-20",0.639,0.676,11,-11.168,0,0.061,0.000576,0.434,0.26,0.231,101.956,4,318573,"Erotica","B","minor","B minor",40
+"822","Madonna","Erotica","7CU88LgrMsY2FgNzTlg4vI","1992-10-20",0.778,0.727,7,-10.296,1,0.0524,0.0663,0.0196,0.0923,0.549,115.94,4,300893,"Fever","G","major","G major",37
+"823","Madonna","Erotica","0Kn7x5iCYCPBZdpOx55nnX","1992-10-20",0.757,0.612,11,-9.986,0,0.0356,0.000905,0.85,0.0926,0.431,108.619,4,236266,"Bye Bye Baby","B","minor","B minor",31
+"824","Madonna","Erotica","5Roo8xy0qjRppfwmSWWXQF","1992-10-20",0.659,0.818,7,-7.09,0,0.0265,0.00601,0.299,0.336,0.39,119.943,4,333466,"Deeper and Deeper","G","minor","G minor",39
+"825","Madonna","Erotica","7ENlXau6NFNVaWU0hP7lbx","1992-10-20",0.687,0.716,2,-10.745,1,0.0351,0.0257,0.282,0.113,0.83,99.983,4,357840,"Where Life Begins","D","major","D major",33
+"826","Madonna","Erotica","6q3mC1xoekMksBooWPvmNF","1992-10-20",0.645,0.484,11,-11.233,0,0.0396,0.0211,3.88e-06,0.0495,0.52,146.897,4,323333,"Bad Girl","B","minor","B minor",33
+"827","Madonna","Erotica","5kSWuFuOYi6hwqtHACANEm","1992-10-20",0.745,0.622,10,-8.164,0,0.0389,0.187,0.00278,0.0731,0.745,95.766,4,346733,"Waiting","A#","minor","A# minor",30
+"828","Madonna","Erotica","2iqN2cOptSHE6DZwk8MHIm","1992-10-20",0.809,0.655,0,-8.479,1,0.0318,0.00449,0.0377,0.0622,0.471,117.952,4,291360,"Thief of Hearts","C","major","C major",29
+"829","Madonna","Erotica","3oVSwRxT8LX7c1fmnrWZwJ","1992-10-20",0.712,0.708,1,-9.277,1,0.0296,0.0094,0.00614,0.114,0.521,116.253,4,355840,"Words","C#","major","C# major",27
+"830","Madonna","Erotica","2htJSx3C0xF5CxMEjtZaXD","1992-10-20",0.592,0.642,10,-9.38,1,0.026,0.0883,0.00134,0.131,0.16,92.419,4,328986,"Rain","A#","major","A# major",37
+"831","Madonna","Erotica","2QFDd2aRBuIKakvu2A0veP","1992-10-20",0.612,0.617,1,-9.079,1,0.0378,0.00251,0.0473,0.0967,0.239,80.93,4,323466,"Why's It so Hard","C#","major","C# major",28
+"832","Madonna","Erotica","0Arh8PQzGKq14Ri1d25Fen","1992-10-20",0.493,0.449,8,-10.437,0,0.0277,0.00557,0.000268,0.183,0.0856,146.282,4,383066,"In This Life","G#","minor","G# minor",25
+"833","Madonna","Erotica","6ANBq3oB9hCXit5P5A7Lu9","1992-10-20",0.449,0.469,4,-12.144,0,0.0673,0.0214,0.772,0.0737,0.554,116.957,4,332266,"Secret Garden","E","minor","E minor",27
+"834","Madonna","I'm Breathless","4714JHYV5kiMKsuo8eP41E","1990-03-22",0.638,0.639,11,-9.675,0,0.0313,0.543,0,0.0989,0.409,111.03,3,284506,"He's a Man","B","minor","B minor",27
+"835","Madonna","I'm Breathless","0QLuoNpyzXMcCLfVtFScE2","1990-03-22",0.488,0.189,10,-14.479,0,0.0288,0.632,1.28e-05,0.105,0.194,71.39,4,200160,"Sooner or Later","A#","minor","A# minor",32
+"836","Madonna","I'm Breathless","0TtjIsd6WB3hzFu0ra8g8p","1990-03-22",0.637,0.626,2,-10.728,1,0.329,0.419,0,0.0543,0.485,169.969,4,239160,"Hanky Panky","D","major","D major",41
+"837","Madonna","I'm Breathless","1cWJlp4nERqhfc5XVCsOBw","1990-03-22",0.666,0.659,9,-8.556,1,0.105,0.325,8.22e-06,0.084,0.921,103.838,4,103653,"I'm Going Bananas","A","major","A major",26
+"838","Madonna","I'm Breathless","6gimgfkbhuoGuY8MQXEFch","1990-03-22",0.836,0.144,0,-13.715,1,0.0536,0.804,5.49e-05,0.0666,0.571,138.128,4,245786,"Cry Baby","C","major","C major",24
+"839","Madonna","I'm Breathless","5cijobH65WeTnTi1f8yNFu","1990-03-22",0.545,0.382,4,-8.851,0,0.0241,0.753,6.81e-05,0.105,0.113,137.988,3,304333,"Something to Remember","E","minor","E minor",27
+"840","Madonna","I'm Breathless","00akbmcZrMFuZ15AzIyC5T","1990-03-22",0.559,0.622,5,-9.947,0,0.0936,0.521,7.13e-05,0.0888,0.424,174.651,4,313360,"Back in Business","F","minor","F minor",26
+"841","Madonna","I'm Breathless","0yrZ6pA1hAeoFD7FsVRTBX","1990-03-22",0.632,0.356,1,-10.683,1,0.0955,0.569,0,0.068,0.554,104.625,4,298933,"More","C#","major","C# major",26
+"842","Madonna","I'm Breathless","2o2uXE1owlax1uLgW6uI3f","1990-03-22",0.427,0.127,11,-18.956,1,0.0352,0.967,0.000282,0.129,0.255,102.785,4,129306,"What Can You Lose","B","major","B major",25
+"843","Madonna","I'm Breathless","0mPPeHgx3Kxj85Olq1hNU7","1990-03-22",0.609,0.351,10,-12.451,1,0.0295,0.725,0,0.575,0.691,75.934,4,94986,"Now I'm Following You (Part I)","A#","major","A# major",26
+"844","Madonna","I'm Breathless","4yZglxlGxe7BexRBM3AKDq","1990-03-22",0.686,0.817,0,-8.906,1,0.0679,0.058,0.0241,0.157,0.782,98.978,4,198640,"Now I'm Following You (Pt. 2)","C","major","C major",24
+"845","Madonna","I'm Breathless","5npMYgysWSKOIVXj2szeLn","1990-03-22",0.69,0.817,10,-10.137,0,0.0478,0.0109,0.00276,0.103,0.285,116.211,4,289560,"Vogue - Edit","A#","minor","A# minor",53
+"846","Madonna","Like a Prayer","2v7ywbUzCgcVohHaKUcacV","1989-03-21",0.66,0.629,5,-12.359,1,0.0387,0.432,7.3e-05,0.172,0.324,111.926,4,340866,"Like a Prayer","F","major","F major",65
+"847","Madonna","Like a Prayer","3szW87j0gVLQmpulz4P8Rf","1989-03-21",0.747,0.866,0,-10.529,1,0.0289,0.356,2.81e-05,0.0915,0.946,115.492,4,279133,"Express Yourself","C","major","C major",51
+"848","Madonna","Like a Prayer","1eZuZj2FOmb2u0150TaC8x","1989-03-21",0.771,0.457,0,-12.277,0,0.255,0.434,0.000179,0.135,0.675,158.558,4,292800,"Love Song","C","minor","C minor",33
+"849","Madonna","Like a Prayer","0xbjaqanyL1Us6g8kVKE3h","1989-03-21",0.615,0.783,11,-11.862,0,0.0289,0.112,0.0011,0.0428,0.977,143.783,4,318466,"Till Death Do Us Part","B","minor","B minor",35
+"850","Madonna","Like a Prayer","4zVHGx8DIm57VnWndZqxM7","1989-03-21",0.344,0.0659,10,-21.976,1,0.0428,0.922,2.89e-06,0.128,0.379,113.972,4,218066,"Promise to Try","A#","major","A# major",35
+"851","Madonna","Like a Prayer","5OKScc0MSa9Wl8g2zrulLn","1989-03-21",0.703,0.685,2,-11.581,1,0.033,0.323,0.000567,0.0537,0.963,131.842,4,303493,"Cherish","D","major","D major",51
+"852","Madonna","Like a Prayer","1ZLgeJ8aUm1nJcddza8dVG","1989-03-21",0.702,0.26,2,-16.885,1,0.0449,0.755,0,0.304,0.897,126.838,4,261506,"Dear Jessie","D","major","D major",44
+"853","Madonna","Like a Prayer","5vk7txLRuAjNatZD8OCrf4","1989-03-21",0.576,0.268,0,-14.313,1,0.0294,0.547,5.17e-05,0.118,0.175,115.952,3,298760,"Oh Father","C","major","C major",42
+"854","Madonna","Like a Prayer","04tSWZo4MLebMbf7RwSmyE","1989-03-21",0.719,0.819,7,-10.579,0,0.0448,0.231,0.0222,0.0808,0.794,103.078,4,303200,"Keep It Together","G","minor","G minor",38
+"855","Madonna","Like a Prayer","5Fg8RLBDD809CkfXShJG73","1989-03-21",0.703,0.319,9,-12.911,0,0.0272,0.36,0,0.0958,0.483,108.519,4,317706,"Pray for Spanish Eyes","A","minor","A minor",43
+"856","Madonna","Like a Prayer","6iUHLXwW5ru72sAA6MBybQ","1989-03-21",0.574,0.87,2,-15.162,1,0.281,0.0701,1.36e-05,0.825,0.209,110.934,4,139200,"Act of Contrition","D","major","D major",29
+"857","Madonna","Early Years","7v6piiiaIksvV9sCkWnGoY","1989-01-01",0.825,0.645,10,-6.486,0,0.086,0.0336,0.000279,0.109,0.779,122.363,4,285240,"Cosmic Climb","A#","minor","A# minor",15
+"858","Madonna","Early Years","0auDIiMzGhJsRD5VWTtcVN","1989-01-01",0.811,0.745,11,-6.555,0,0.198,0.0322,0.0011,0.353,0.576,117.371,4,229560,"We Are the Gods","B","minor","B minor",11
+"859","Madonna","Early Years","1AgLTKta3hz8cAwqkka3FX","1989-01-01",0.662,0.904,10,-5.489,0,0.181,0.0597,0.196,0.389,0.731,88.397,4,228506,"Wild Dancing","A#","minor","A# minor",10
+"860","Madonna","Early Years","4DCVjt7zGQAFBVLmrmql6u","1989-01-01",0.646,0.916,0,-5.901,1,0.0506,0.00427,0.938,0.14,0.558,110.234,4,256839,"Time to Dance - Radio Mix","C","major","C major",9
+"861","Madonna","Early Years","3QyPhWLnHioJHLoMnEr7vh","1989-01-01",0.802,0.712,7,-6.614,0,0.0724,0.164,0.00124,0.0466,0.962,119.949,4,221040,"On the Street - Edit Mix","G","minor","G minor",8
+"862","Madonna","Early Years","45PW7aeoIX6MjtXYKJnGLM","1989-01-01",0.574,0.956,7,-4.562,1,0.158,0.255,0.728,0.368,0.837,183.932,4,257093,"Oh My - Disco Mix","G","major","G major",8
+"863","Madonna","Early Years","1v1wK5lsxZMxoKw4qT8Pj6","1989-01-01",0.682,0.949,5,-6.078,0,0.0436,0.0781,0.39,0.151,0.905,132.344,4,193093,"Shake - Edit Mix","F","minor","F minor",8
+"864","Madonna","Early Years","1p6vduIUW0RRrscssWhw60","1989-01-01",0.651,0.711,10,-7.929,0,0.21,0.00593,0.297,0.061,0.779,194.11,4,218240,"Get Down - Edit Mix","A#","minor","A# minor",7
+"865","Madonna","Early Years","2J45Fw4kL0ZkERxt54C57e","1989-01-01",0.591,0.899,0,-6.674,1,0.0471,0.00551,0.912,0.15,0.482,110.169,4,402906,"Time to Dance - Instrumental Mix","C","major","C major",6
+"866","Madonna","Early Years","3wr1VnKxMZPMjXCy6tVBAy","1989-01-01",0.677,0.956,0,-5.747,1,0.0439,0.0501,0.858,0.236,0.89,132.245,4,465586,"Shake - Instrumental Mix","C","major","C major",6
+"867","Madonna","Early Years","577mk7FVa9KQDNUptTsYGt","1989-01-01",0.87,0.541,10,-5.873,0,0.0821,0.00736,0.166,0.0547,0.739,122.478,4,343240,"Cosmic Climb - Extended Dance Mix","A#","minor","A# minor",7
+"868","Madonna","Early Years","7GP1MYiaJgPalOlZnkMnGQ","1989-01-01",0.752,0.747,10,-6.673,0,0.0703,8.17e-05,0.878,0.0254,0.569,176.814,4,371560,"Wild Dancing - Dance Mix","A#","minor","A# minor",6
+"869","Madonna","Early Years","7DA4YYFMgEMm6vPwXXITTK","1989-01-01",0.642,0.924,0,-5.91,1,0.0517,0.0089,0.787,0.171,0.407,110.224,4,403013,"Time to Dance - Extended Mix","C","major","C major",5
+"870","Madonna","Early Years","6j9StG4ifmxeEIXPxuOIMH","1989-01-01",0.737,0.836,7,-5.881,0,0.0628,0.18,0.0676,0.479,0.933,119.954,4,371160,"On the Street - Extended Mix","G","minor","G minor",5
+"871","Madonna","Early Years","7GvHfeRNtB53hId3ncp5US","1989-01-01",0.552,0.966,7,-4.357,1,0.148,0.33,0.519,0.302,0.815,184.132,4,401880,"Oh My - Edit Mix","G","major","G major",5
+"872","Madonna","Early Years","7xt0GVMn9YULSram7FAEy6","1989-01-01",0.691,0.96,5,-5.399,0,0.05,0.112,0.351,0.263,0.819,132.012,4,471400,"Shake - Extended Mix","F","minor","F minor",6
+"873","Madonna","Early Years","2y0OE0H8HHJSUOcy4bSX93","1989-01-01",0.657,0.69,10,-7.494,0,0.139,0.00795,0.411,0.0559,0.826,194.024,4,442280,"Get Down","A#","minor","A# minor",6
+"874","Madonna","Early Years","5n0yxlW18RXfj2a9Zl18Xn","1989-01-01",0.825,0.645,10,-6.486,0,0.086,0.0336,0.000279,0.109,0.779,122.363,4,285240,"Cosmic Climb","A#","minor","A# minor",0
+"875","Madonna","Early Years","15gMYtJxYvviamzd41UWdF","1989-01-01",0.811,0.745,11,-6.555,0,0.198,0.0322,0.0011,0.353,0.576,117.371,4,229560,"We Are the Gods","B","minor","B minor",0
+"876","Madonna","Early Years","0IL6NSCzoirxGATtpigzKG","1989-01-01",0.662,0.904,10,-5.489,0,0.181,0.0597,0.196,0.389,0.731,88.397,4,228506,"Wild Dancing","A#","minor","A# minor",0
+"877","Madonna","Early Years","7j4wCfwfZ8TzjR3ZyjFkW9","1989-01-01",0.646,0.916,0,-5.901,1,0.0506,0.00427,0.938,0.14,0.558,110.234,4,256839,"Time to Dance (Radio Mix)","C","major","C major",0
+"878","Madonna","Early Years","6zqrIyGA6hnrQQazIM9pQ1","1989-01-01",0.802,0.712,7,-6.614,0,0.0724,0.164,0.00124,0.0466,0.962,119.949,4,221040,"On the Street (Edit Mix)","G","minor","G minor",0
+"879","Madonna","Early Years","60yZi34AywvoksqUvXdylh","1989-01-01",0.574,0.956,7,-4.562,1,0.158,0.255,0.728,0.368,0.837,183.932,4,257093,"Oh My (Disco Mix)","G","major","G major",0
+"880","Madonna","Early Years","0FES7J6vaOa807KyfCNsdB","1989-01-01",0.682,0.949,5,-6.078,0,0.0436,0.0781,0.39,0.151,0.905,132.344,4,193093,"Shake (Edit Mix)","F","minor","F minor",0
+"881","Madonna","Early Years","51XTYSBpZ4bPxhzSBL6b97","1989-01-01",0.651,0.711,10,-7.929,0,0.21,0.00593,0.297,0.061,0.779,194.11,4,218240,"Get Down (Edit Mix)","A#","minor","A# minor",0
+"882","Madonna","Early Years","1YwXNpONJaTjpT0L2hVHFA","1989-01-01",0.591,0.899,0,-6.674,1,0.0471,0.00551,0.912,0.15,0.482,110.169,4,402906,"Time to Dance (Instrumental Mix)","C","major","C major",0
+"883","Madonna","Early Years","2PdyBsdtLln0zUfBaWT36u","1989-01-01",0.677,0.956,0,-5.747,1,0.0439,0.0501,0.858,0.236,0.89,132.245,4,465586,"Shake (Instrumental Mix)","C","major","C major",0
+"884","Madonna","Early Years","0DYGhs0FOHW2eWMfkB8V0r","1989-01-01",0.87,0.541,10,-5.873,0,0.0821,0.00736,0.166,0.0547,0.739,122.478,4,343240,"Cosmic Climb (Extended Dance Mix)","A#","minor","A# minor",0
+"885","Madonna","Early Years","45V2ysfiT0n2Q6olTqu1lJ","1989-01-01",0.752,0.747,10,-6.673,0,0.0703,8.17e-05,0.878,0.0254,0.569,176.814,4,371560,"Wild Dancing (Dance Mix)","A#","minor","A# minor",0
+"886","Madonna","Early Years","5g5jnLwVOD1nOQk0SBI58R","1989-01-01",0.642,0.924,0,-5.91,1,0.0517,0.0089,0.787,0.171,0.407,110.224,4,403013,"Time to Dance (Extended Mix)","C","major","C major",0
+"887","Madonna","Early Years","5aWSL4Kn5uUXVLBXghYmtX","1989-01-01",0.737,0.836,7,-5.881,0,0.0628,0.18,0.0676,0.479,0.933,119.954,4,371160,"On the Street (Extended Mix)","G","minor","G minor",0
+"888","Madonna","Early Years","5FKhMkYSRV6kR3RbYaSQ6L","1989-01-01",0.552,0.966,7,-4.357,1,0.148,0.33,0.519,0.302,0.815,184.132,4,401880,"Oh My (Edit Mix)","G","major","G major",0
+"889","Madonna","Early Years","1alRzI21p1n7HWXGRkDRZT","1989-01-01",0.691,0.96,5,-5.399,0,0.05,0.112,0.351,0.263,0.819,132.012,4,471400,"Shake (Extended Mix)","F","minor","F minor",0
+"890","Madonna","Early Years","3nPZqefbafX9pCch0Ds4TA","1989-01-01",0.657,0.69,10,-7.494,0,0.139,0.00795,0.411,0.0559,0.826,194.024,4,442280,"Get Down","A#","minor","A# minor",0
+"891","Madonna","Who's That Girl Soundtrack","3G0NNqwQ1sqRpySr6soHlH","1987-07-21",0.625,0.646,9,-13.592,0,0.0389,0.214,0.0533,0.0525,0.826,103.893,4,239173,"Who's That Girl","A","minor","A minor",55
+"892","Madonna","Who's That Girl Soundtrack","3sX3c6QUPSAiKf77RZRf5B","1987-07-21",0.771,0.749,5,-10.628,0,0.0401,0.216,0.00184,0.135,0.854,119.875,4,261666,"Causing a Commotion","F","minor","F minor",46
+"893","Madonna","Who's That Girl Soundtrack","30ny4GiwopKUoKBRHPmPuK","1987-07-21",0.531,0.665,2,-14.231,0,0.0312,0.379,0,0.0916,0.752,91.93,4,244053,"The Look of Love","D","minor","D minor",35
+"894","Madonna","Who's That Girl Soundtrack","6rCTv44eWfEZ5K3Hv5snus","1987-07-21",0.76,0.486,10,-11.306,0,0.0506,0.0673,7.75e-05,0.0759,0.917,117.91,4,219706,"24 Hours","A#","minor","A# minor",21
+"895","Madonna","Who's That Girl Soundtrack","5uCoj8NrSB3c3to9cmPRf2","1987-07-21",0.604,0.555,6,-11.508,1,0.128,0.0214,1.09e-05,0.225,0.606,186.961,4,285960,"Step by Step","F#","major","F# major",0
+"896","Madonna","Who's That Girl Soundtrack","0NdEXeyN2erE1WbFQUAfiO","1987-07-21",0.672,0.892,9,-11.022,0,0.039,0.0872,8.68e-05,0.0747,0.598,120.108,4,237733,"Turn It Up","A","minor","A minor",22
+"897","Madonna","Who's That Girl Soundtrack","3XLl0U5K2tBRF1SdygICo4","1987-07-21",0.851,0.832,7,-9.555,1,0.0457,0.106,0.0747,0.0264,0.968,123.63,4,231133,"Best Thing Ever","G","major","G major",0
+"898","Madonna","Who's That Girl Soundtrack","3XpZyqH5zvTojLUFs9RW96","1987-07-21",0.737,0.798,7,-10.415,1,0.0295,0.0269,2.61e-06,0.297,0.586,114.999,4,286240,"Can't Stop","G","major","G major",31
+"899","Madonna","Who's That Girl Soundtrack","7EVTZd2CtEXM9WJrA11yGL","1987-07-21",0.732,0.766,7,-11.417,1,0.0364,0.107,0,0.252,0.947,104.706,4,382626,"El Coco Loco (So So Bad)","G","major","G major",18
+"900","Madonna","Tokyo 1987","46JoVf6KApBJaNHc44LA6h","1987",0.595,0.817,7,-12.323,0,0.0383,0.00419,0.0737,0.623,0.412,114.587,4,372566,"Open Your Heart","G","minor","G minor",18
+"901","Madonna","Tokyo 1987","0ftXIfSOY7o9H767I81t7I","1987",0.583,0.944,7,-9.733,1,0.104,0.181,0.000945,0.98,0.328,120.526,4,286484,"Lucky Star","G","major","G major",16
+"902","Madonna","Tokyo 1987","3Ez3ky3k0V7rVmoITEqxWJ","1987",0.643,0.724,11,-10.806,1,0.0437,0.0889,5.82e-06,0.745,0.551,117.349,4,304822,"True Blue","B","major","B major",15
+"903","Madonna","Tokyo 1987","0BvRZs9h7U17vSCsV2ZcPP","1987",0.697,0.845,5,-11.222,0,0.04,0.0584,0.00398,0.268,0.647,122.371,4,374725,"Papa Don't Preach","F","minor","F minor",16
+"904","Madonna","Tokyo 1987","4f1PjVgXUHBv1q6xDxDhMr","1987",0.597,0.856,7,-11.374,1,0.0966,0.0374,3.55e-06,0.969,0.388,109.313,4,334523,"White Heat","G","major","G major",13
+"905","Madonna","Tokyo 1987","6zsVl5se32mkPCYPGZ9gQV","1987",0.711,0.813,0,-11.519,0,0.0589,0.039,0.000307,0.741,0.652,122.353,4,343013,"Causing A Commotion","C","minor","C minor",15
+"906","Madonna","Tokyo 1987","2zPaycYPY35p3zrOR4uhzw","1987",0.537,0.515,2,-14.15,0,0.0315,0.177,1.92e-05,0.411,0.607,92.475,4,283350,"The Look Of Love","D","minor","D minor",13
+"907","Madonna","Tokyo 1987","7Kl85GdPFYIylQye4f9TjT","1987",0.564,0.867,11,-11.25,0,0.0507,0.00826,0.211,0.306,0.666,137.422,4,130483,"Dress You Up","B","minor","B minor",14
+"908","Madonna","Tokyo 1987","2FyJ3bIo0gQApsGOdaCC4h","1987",0.653,0.77,0,-11.972,1,0.0361,0.0298,6.04e-05,0.432,0.799,137.447,4,221910,"Material Girl","C","major","C major",14
+"909","Madonna","Tokyo 1987","54JraZvvWSDySB7ur8TRE1","1987",0.751,0.676,3,-11.292,0,0.0322,0.0369,0.00107,0.7,0.89,123.347,4,273631,"Like A Virgin","D#","minor","D# minor",13
+"910","Madonna","Tokyo 1987","2ftoGlXoT5TeifjBSTII8h","1987",0.664,0.894,5,-11.693,1,0.0531,0.0869,4.13e-05,0.31,0.453,121.352,4,241632,"Where's The Party'","F","major","F major",11
+"911","Madonna","Tokyo 1987","71rT7jaHm7fSFDpP416ZUz","1987",0.516,0.31,2,-15.658,0,0.0299,0.0243,5.65e-05,0.972,0.0923,109.301,4,516467,"Live To Tell","D","minor","D minor",13
+"912","Madonna","Tokyo 1987","1lfCfZxtp1SKrDSB6bJMYt","1987",0.633,0.916,8,-11.309,1,0.0484,0.0352,0.0299,0.961,0.48,118.382,4,500532,"Into The Groove","G#","major","G# major",15
+"913","Madonna","Tokyo 1987","71WOkNbnAPWxaBJ3rP0D3O","1987",0.574,0.779,1,-13.296,0,0.0413,0.0489,0.00325,0.364,0.663,100.291,4,349779,"La Isla Bonita","C#","minor","C# minor",15
+"914","Madonna","Tokyo 1987","4wFmA5J6npnaO2aZSMiALw","1987",0.463,0.792,9,-11.808,0,0.0547,0.0164,0.011,0.94,0.361,104.518,4,432916,"Who's That Girl'","A","minor","A minor",14
+"915","Madonna","True Blue (Reissue)","6A8OnjnpShshNpcqWtZRjr","1986-06-30",0.807,0.906,5,-8.973,0,0.0371,0.311,0.000791,0.0248,0.971,121.54,4,345280,"Papa Don't Preach","F","minor","F minor",65
+"916","Madonna","True Blue (Reissue)","6poribUG9PSY1eudyCjJTS","1986-06-30",0.619,0.876,7,-9.214,0,0.0417,0.0434,1.53e-05,0.0925,0.89,114.008,4,253066,"Open Your Heart","G","minor","G minor",52
+"917","Madonna","True Blue (Reissue)","3Jmc8fYHFMwpIiT7pg7ggt","1986-06-30",0.67,0.696,5,-15.278,1,0.0586,0.479,0.0259,0.107,0.903,108.517,4,281440,"White Heat","F","major","F major",38
+"918","Madonna","True Blue (Reissue)","095MMFhB9qxPx2VsmvjnUs","1986-06-30",0.673,0.314,2,-14.156,0,0.0279,0.411,0.0334,0.107,0.27,109.841,4,353000,"Live to Tell","D","minor","D minor",59
+"919","Madonna","True Blue (Reissue)","3SL3D72fBngP6GqouoUQOq","1986-06-30",0.752,0.829,5,-8.658,1,0.0494,0.33,0,0.625,0.906,118.955,4,260693,"Where's the Party","F","major","F major",41
+"920","Madonna","True Blue (Reissue)","7azOuDeJGbxt5mvq3GQHXp","1986-06-30",0.799,0.773,11,-10.035,1,0.0393,0.261,2.58e-06,0.044,0.896,118.045,4,258226,"True Blue","B","major","B major",59
+"921","Madonna","True Blue (Reissue)","6r8k1vznHrzlEKYxL4dZEe","1986-06-30",0.725,0.612,1,-10.706,0,0.0372,0.302,1.63e-05,0.0548,0.965,99.978,4,242320,"La Isla Bonita","C#","minor","C# minor",71
+"922","Madonna","True Blue (Reissue)","687mfVfetXFntD7DJpBT3N","1986-06-30",0.674,0.671,0,-11.075,1,0.0342,0.144,0.00272,0.102,0.963,151.079,4,236906,"Jimmy Jimmy","C","major","C major",37
+"923","Madonna","True Blue (Reissue)","5TqUghz3FRLeWKkwOVaumY","1986-06-30",0.775,0.759,0,-9.502,1,0.0339,0.236,0,0.197,0.97,121.9,4,271440,"Love Makes the World Go Round","C","major","C major",36
+"924","Madonna","True Blue (Reissue)","1ev64zBlpSWh5HQwvEhLjZ","1986-06-30",0.807,0.525,4,-13.366,1,0.086,0.0384,0.0625,0.0581,0.616,119.91,4,400133,"True Blue - The Color Mix","E","major","E major",39
+"925","Madonna","True Blue (Reissue)","1jaVdF0FSPTWi8E4MWiLPR","1986-06-30",0.73,0.737,4,-6.515,1,0.0333,0.202,5.83e-05,0.153,0.89,99.998,4,326773,"La Isla Bonita - Extended Remix","E","major","E major",50
+"926","Madonna","Like a Virgin (Reissue)","7bkyXSi4GtVfD7itZRUR3e","1984-11-12",0.775,0.616,0,-12.676,1,0.0317,0.246,6.77e-06,0.0511,0.98,136.63,4,240706,"Material Girl","C","major","C major",57
+"927","Madonna","Like a Virgin (Reissue)","7ov1nZ2QZc3LIuCXXERZP0","1984-11-12",0.754,0.618,7,-13.66,1,0.0357,0.298,0.000207,0.345,0.836,133.237,4,236133,"Angel","G","major","G major",47
+"928","Madonna","Like a Virgin (Reissue)","1ZPlNanZsJSPK5h9YZZFbZ","1984-11-12",0.771,0.655,3,-10.842,0,0.0372,0.152,0.00197,0.0685,0.97,119.747,4,218626,"Like a Virgin","D#","minor","D# minor",72
+"929","Madonna","Like a Virgin (Reissue)","0uIqV0X1M1vjti0ubMOInt","1984-11-12",0.669,0.785,5,-10.883,1,0.0351,0.415,0.00288,0.0537,0.971,150.247,4,252506,"Over and Over","F","major","F major",40
+"930","Madonna","Like a Virgin (Reissue)","1S14j6I0RrdQoxrm7zZNHL","1984-11-12",0.483,0.366,7,-14.394,0,0.0452,0.327,3.78e-05,0.325,0.356,140.358,4,290226,"Love Don't Live Here Anymore","G","minor","G minor",39
+"931","Madonna","Like a Virgin (Reissue)","1Fhx9C87IjEAtWI9FF0IzF","1984-11-12",0.654,0.646,0,-10.056,0,0.0294,0.0324,0.0414,0.0965,0.863,136.194,4,241600,"Dress You Up","C","minor","C minor",47
+"932","Madonna","Like a Virgin (Reissue)","36IHTITiDnlpQWUacWWZpB","1984-11-12",0.608,0.588,6,-11.973,1,0.0411,0.689,8.38e-06,0.0796,0.483,94.156,4,317240,"Shoo-Bee-Doo","F#","major","F# major",34
+"933","Madonna","Like a Virgin (Reissue)","0S9EixwOfXC0LyILi8kVFh","1984-11-12",0.843,0.635,9,-12.244,0,0.0327,0.444,0,0.0607,0.843,111.128,4,270426,"Pretender","A","minor","A minor",34
+"934","Madonna","Like a Virgin (Reissue)","19gLqMCui3hxPDTKTEoELa","1984-11-12",0.715,0.706,7,-12.249,1,0.0453,0.464,0,0.357,0.85,118.419,4,246400,"Stay","G","major","G major",35
+"935","Madonna","Like a Virgin (Reissue)","17WvhmXF06yquUwZjtjHsc","1984-11-12",0.839,0.458,3,-13.606,0,0.0555,0.0223,0.00357,0.13,0.972,119.447,4,369600,"Like a Virgin - Extended Dance Remix","D#","minor","D# minor",39
+"936","Madonna","Like a Virgin (Reissue)","4vle25yO4Rf7AYkWtzSfAS","1984-11-12",0.735,0.74,0,-12.647,1,0.0519,0.208,0.000138,0.0763,0.964,136.42,4,369693,"Material Girl - Extended Dance Remix","C","major","C major",38
+"937","Madonna","Madonna","5I0WMWBGRuHiAwNa6yjm9r","1983-07-27",0.803,0.814,4,-4.579,0,0.0381,0.198,1.18e-05,0.223,0.933,117.08,4,337840,"Lucky Star","E","minor","E minor",43
+"938","Madonna","Madonna","2vtIfsm5Qz21bqsHyARoLp","1983-07-27",0.787,0.895,7,-4.864,1,0.0368,0.252,0.00064,0.0729,0.452,119.356,4,320893,"Borderline","G","major","G major",45
+"939","Madonna","Madonna","0NjXS4VFF7OVLRhSAXMUJV","1983-07-27",0.869,0.738,6,-4.566,0,0.11,0.0276,0.00102,0.262,0.988,138.329,4,225333,"Burning Up","F#","minor","F# minor",33
+"940","Madonna","Madonna","4yPuf4v9m4kXcij6xoNkDo","1983-07-27",0.881,0.624,5,-4.775,1,0.0329,0.115,0.00172,0.0834,0.572,128.3,4,227240,"I Know It","F","major","F major",26
+"941","Madonna","Madonna","7arHM2KZ0KzIZXFVDRGClI","1983-07-27",0.813,0.699,7,-8.656,1,0.0458,0.0251,0.0135,0.0527,0.732,117.548,4,231560,"Holiday","G","major","G major",59
+"942","Madonna","Madonna","1AQ7xHYXmR8BasH7pwxnto","1983-07-27",0.832,0.724,9,-5.971,0,0.0403,0.0297,0.188,0.0334,0.89,118.411,4,294893,"Think of Me","A","minor","A minor",28
+"943","Madonna","Madonna","4QGVOJqm5WOt7XhGlFLqnj","1983-07-27",0.907,0.641,0,-7.694,0,0.0746,0.0436,0.0138,0.184,0.932,119.2,4,399600,"Physical Attraction","C","minor","C minor",33
+"944","Madonna","Madonna","02cPdommxoqVdx2QeAJRJm","1983-07-27",0.921,0.782,9,-4.998,0,0.039,0.0205,0.000894,0.0437,0.616,119.982,4,362386,"Everybody - Original Version","A","minor","A minor",29
+"945","Madonna","Madonna (Reissue)","2hWI9GNr3kBrxZ7Mphho4Q","1983-07-27",0.793,0.627,4,-10.599,0,0.0431,0.266,7.1e-05,0.145,0.963,117.203,4,333773,"Lucky Star","E","minor","E minor",54
+"946","Madonna","Madonna (Reissue)","4SuabhTNPBTBFjfOjhvRNQ","1983-07-27",0.787,0.526,9,-12.692,1,0.0424,0.0259,0.000833,0.0469,0.612,118.979,4,417040,"Borderline","A","major","A major",45
+"947","Madonna","Madonna (Reissue)","48YZhmKL3aZKhQUfpvkelu","1983-07-27",0.869,0.738,6,-4.566,0,0.11,0.0276,0.00102,0.262,0.988,138.329,4,225333,"Burning Up","F#","minor","F# minor",42
+"948","Madonna","Madonna (Reissue)","4bJMrN6Z33iEScmu1FoAcj","1983-07-27",0.877,0.423,5,-12.084,1,0.0405,0.216,0.00177,0.0838,0.62,128.375,4,223600,"I Know It","F","major","F major",30
+"949","Madonna","Madonna (Reissue)","3ibAzRj9JnowdoLkyllk3n","1983-07-27",0.813,0.699,7,-8.656,1,0.0458,0.0251,0.0135,0.0527,0.732,117.548,4,231560,"Holiday","G","major","G major",60
+"950","Madonna","Madonna (Reissue)","4e3AL3lOlUtLe4nseczBzK","1983-07-27",0.832,0.724,9,-5.971,0,0.0403,0.0297,0.188,0.0334,0.89,118.411,4,294893,"Think of Me","A","minor","A minor",33
+"951","Madonna","Madonna (Reissue)","3s6UF8KC2k4nFwRConFYfJ","1983-07-27",0.881,0.562,0,-13.091,0,0.0759,0.188,0.0461,0.172,0.947,120.199,4,394733,"Physical Attraction","C","minor","C minor",36
+"952","Madonna","Madonna (Reissue)","4sFGkok98Cu0gu52fD48Xr","1983-07-27",0.921,0.782,9,-4.998,0,0.039,0.0205,0.000894,0.0437,0.616,119.982,4,362386,"Everybody - Original Version","A","minor","A minor",38
+"953","Madonna","Madonna (Reissue)","3E79grOLqLpNER2JT2TtL0","1983-07-27",0.872,0.811,11,-11.483,0,0.0453,0.0975,0.00287,0.0782,0.971,139.325,4,355906,"Burning Up - 12"" Version","B","minor","B minor",34
+"954","Madonna","Madonna (Reissue)","6gTREVvbhMEIluqtLRMWuI","1983-07-27",0.801,0.722,4,-4.509,0,0.0444,0.068,0.000207,0.284,0.907,117.256,4,435426,"Lucky Star - New Mix","E","minor","E minor",32
